@@ -1,7 +1,7 @@
 # Projecttitel
 *Omschrijving van je concept in 1 zin* 
 
-*Projectteam: Selena Rootsaert; Margot Rysman*
+*Projectteam: Rootsaert Selena; Rysman Margot*
 
 Datum
 
