@@ -71,10 +71,54 @@ Max. 1000 woorden
 Het doel van ons onderzoek was om binnen onze doelgroep uitgebreidere testen uit te voeren en een concreet beeld te vormen van de verwachtingen en behoeften voordat we begonnen aan de ontwikkeling van onze eerste prototypes. Deze prototypes werden gebaseerd op de waarden en normen die via enquêtes binnen de doelgroep als relevant en belangrijk werden geïdentificeerd.
 
 Door deze kernwaarden en normen te bepalen, konden we duidelijke richtlijnen opstellen voor de belangrijkste aspecten die in het prototype zouden worden getest. Dit onderzoek diende niet alleen als fundament voor het ontwerp, maar ook als leidraad om de anti-stressfunctionaliteit van het project centraal te stellen. Een bijkomend doel was het prioriteren van de meest cruciale ontwerpdoelen die bijdragen aan stressverwerking.
+
 ### Materiaal & methoden
-Hoe onderzocht je dit? Wees volledig.
+Voor de gebruikte methodologieën werd hoofdzakelijk gebruikgemaakt van enquêtes, een onderzoeksenquête en twee Waves waarin verder werd gewerkt aan de analyse van de onderzoeksenquête. Deze Waves richtten zich op respectievelijk comfort en discretie, en een extra fidgeting-feature voor de armband.
+De eerste enquête was bedoeld om een beeld te krijgen van de belangrijkste aspecten die relevant werden geacht door de doelgroep. Deze inzichten vormden de basis voor de tests in de Waves. De enquête werd ontwikkeld in Google Forms en online verspreid via verschillende sociale mediaplatformen. De resultaten werden verwerkt in Excel en volledig anoniem geanalyseerd.
+De steekproef voor de eerste enquête bestond uit een vrijwillige groep van vrienden en familie binnen de doelgroep. Dit leverde een geldige steekproef op van 18 deelnemers.
+Bij de Waves werd specifiek gevraagd of deelnemers wilden meewerken. Zowel Wave 1 als Wave 2 bestonden elk uit vijf deelnemers. Deze deelnemers tekenden een akkoordverklaring en namen vrijwillig, maar niet anoniem, deel aan het onderzoek.
+•	Wave 1: Deze fase betrof een observatietest achter de schermen. Deelnemers kregen het eerste prototype gedurende een periode van 8 tot 12 uur (maximaal 24 uur) om te testen. Zij vulden na afloop een enquête in die gericht was op het comfort- en discretie-aspect van het prototype.
+•	Wave 2: Een plaatselijke observatie waarbij de onderzoekers aanwezig waren. Met toestemming van de deelnemers werden hun handelingen tijdens het gebruik van de fidgeting-feature gefilmd.
+
 ### Resultaten
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
+In dit rapport worden de resultaten van de enquête en testen (Waves) gepresenteerd. Het doel is om inzicht te geven in de behoeften en verwachtingen van de doelgroep voor de ontwikkeling van een anti-stresspolsband. De bevindingen vormen de basis voor verdere productontwikkeling en ontwerpbeslissingen.
+Hoofdpunten uit de Onderzoeksenquête
+1. Demografische Gegevens
+•	De doelgroep bestond voornamelijk uit studenten uit het hoger onderwijs, met een gemiddelde leeftijd van 17-23 jaar.
+•	Geslacht was redelijk gelijk verdeeld: 50% man, 44% vrouw.
+2. Stressniveau en Interesse in Hulpmiddelen
+•	72% van de deelnemers gaf aan in de afgelopen 6 maanden stress te hebben ervaren.
+•	Slechts 44% zou geïnteresseerd zijn in het dragen van een anti-stressband.
+•	Ongeveer 50% gebruikt al hulpmiddelen zoals fidget toys of knoppen.
+![image](https://github.com/user-attachments/assets/af5b25b3-9e34-4df7-8838-d6e8794846e0)
+
+3. Gewenste Kenmerken en Gebruik
+•	Belangrijke kenmerken volgens de deelnemers: 
+1.	Comfort / Effectiviteit
+2.	Subtiel design
+3.	Betaalbaarheid.
+4.	Gebruiksgemak
+•	26% van de deelnemers gaf aan de band dagelijks te willen dragen, terwijl anderen dit vooral tijdens schooluren of examenperiodes nodig achten.
+4. Comfort en Draagbaarheid
+•	Comfort werd door 2/3 van de deelnemers belangrijker gevonden dan functionaliteit of effectiviteit.
+•	Pasvorm en uiterlijk werden als belangrijkste factoren voor draagbaarheid genoemd.
+•	Veel deelnemers benoemden huidirritatie als probleem bij een slecht passende band.
+![image](https://github.com/user-attachments/assets/b1a4901d-aaa0-49a9-b1d5-41dc1f74696a)
+ 
+5. Functionaliteit en Effectiviteit
+•	Deelnemers gaven voorkeur aan: 
+o	Eenvoudige instructies
+o	Wetenschappelijke onderbouwing van stress verlagende werking
+o	Ademhalingsoefeningen en hartslagmonitoring als functies.
+6. Design en Discretie
+•	Een subtiel design werd als must-have gezien door 20% van de deelnemers.
+•	Geluid en opvallendheid werden aangegeven als no-go's.
+![image](https://github.com/user-attachments/assets/c46e2b6a-fa77-4bc9-8590-d6e36a4af844)
+
+Conclusie
+De resultaten benadrukken dat comfort, effectiviteit en een subtiel design cruciale factoren zijn voor de acceptatie van de anti-stressband. Er is behoefte aan wetenschappelijk onderbouwde functies en eenvoudige instructies, terwijl opvallendheid en geluid als storend worden beschouwd. Deze inzichten vormen een sterke basis voor verdere ontwikkeling en testen van prototypes.
+
+
 ### Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen
 
