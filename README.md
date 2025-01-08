@@ -16,6 +16,10 @@ Enkele externe fidget-opties zijn aanwezig voor stressregulatie.
 Door geen duidelijke, externe signalen te gebruiken wordt de stress eveneens niet opgemerkt door peers.
 
 
+![Schets](https://github.com/user-attachments/assets/071e6af0-7691-414d-b14b-860afc7d45f7)
+
+
+
 ## Introductie
 Max 300 woorden.
 Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
