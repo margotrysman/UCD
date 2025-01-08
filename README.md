@@ -273,10 +273,6 @@ Hoewel er tijds- en planningsproblemen waren, hebben we deze grotendeels kunnen 
 Al met al was de voortgang van het project positief, en kijken we ernaar uit om de opgedane kennis verder uit te bouwen en toe te passen in het volgende semester. Het proces heeft ons waardevolle inzichten gegeven die we blijven meenemen in de verdere ontwikkeling van het product.
 
 
-
-## Bronnen
-Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
-
 ## Bijlagen
 [Rysman, M. (2024). Figma Documentatie](https://www.figma.com/design/LtIDMOVTxl9MOyyYGi2SfU/Discovery-Template?node-id=0-1&p=f&t=SKSGqrQCKlGA5WIU-0)
 
