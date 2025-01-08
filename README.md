@@ -69,6 +69,7 @@ Een korte zelfobservatie bij een drietal gebruikers vond plaats, waarbij gebruik
 
 ### Resultaten
 De interviews werden samengevat in een document, waarbij kernzaken duidelijk werden. De notities van de interviews zijn te vinden in het Figma document. Volgende tabel drukt de bekomen resultaten uit van de te beoordelen lijst regulatiemethodes;
+
 ![Screenshot 2025-01-08 234022](https://github.com/user-attachments/assets/f5ee862e-9a23-45ee-bb87-e3bd8521f8b3)
 
 
