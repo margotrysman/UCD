@@ -25,10 +25,15 @@ Dit project richtte zich op de ontwikkeling van een anti-stresspolsband die comf
 De ontwikkeling begon met een onderzoeksenquête onder studenten, waarbij inzicht werd verkregen in hun behoeften, voorkeuren en verwachtingen met betrekking tot stresshulpmiddelen. De resultaten gaven aan dat comfort, gebruiksgemak en een subtiel design de belangrijkste eisen waren.
 Op basis van deze inzichten werden twee testfases (Waves) uitgevoerd, waarin prototypes werden beoordeeld op draagbaarheid, discretie en functionaliteit. Er werd speciale aandacht besteed aan extra functies, zoals een fidgeting-feature, om de stressverlichting te optimaliseren. De focus lag hierbij op praktische bruikbaarheid en de gebruikerservaring.
 De belangrijkste ontwerpcriteria waren:
+
 •	Comfort – Geschikt voor langdurig gebruik zonder irritatie.
+
 •	Discretie – Onopvallend ontwerp om sociale ongemakken te vermijden.
+
 •	Functionaliteit – Effectieve stressverlichting en eenvoudige bediening.
+
 •	Betaalbaarheid – Toegankelijk voor studenten.
+
 De stress wordt gecommuniceerd naar de gebruiker door de activatie van opblaasbare kussentjes in de band, die kortstondige druk uitoefenen rondom de arm. Dit helpt de gebruiker zowel te waarschuwen voor een hoog stressniveau als het te reguleren. De regelmatigheid van de druk is zo ingesteld dat ademhalingsoefeningen en meditatie worden gefaciliteerd. Externe fidget-opties zijn toegevoegd voor aanvullende stressregulatie. Het ontwerp zorgt ervoor dat de stressbeheersing discreet blijft, zonder dat peers de signalen opmerken.
 Een overzicht van de uitwerking van deze onderzoeken, inclusief de resultaten en rapportages, vindt u terug in de bijlagen onder de secties Testprotocollen en Rapportprotocollen. Een korter overzicht van de belangrijkste testen en rapporten vindt u hieronder.
 
