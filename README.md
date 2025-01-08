@@ -231,3 +231,15 @@ Max. 500 woorden
 Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
 
 ## Bijlagen
+
+[Rysman, M. (2024). TestProcol_Wave 2.docx](https://github.com/user-attachments/files/18353529/Rysman.M.2024.TestProcol_Wave.2.docx)
+
+[Rysman, M. (2024). TestProcol_Wave 1.docx](https://github.com/user-attachments/files/18353528/Rysman.M.2024.TestProcol_Wave.1.docx)
+
+[Rootsaert, S. (2025). TestRapport_Wave 2.docx](https://github.com/user-attachments/files/18353527/Rootsaert.S.2025.TestRapport_Wave.2.docx)
+
+[Rootsaert, S. (2025). TestRapport_Enquêtes.docx](https://github.com/user-attachments/files/18353525/Rootsaert.S.2025.TestRapport_Enquetes.docx)
+
+[Rootsaert, S. (2024). TestProcol_Enquêtes.docx](https://github.com/user-attachments/files/18353524/Rootsaert.S.2024.TestProcol_Enquetes.docx)
+
+[Rysman, M. (2025). TestRapport_Wave 1.docx](https://github.com/user-attachments/files/18353523/Rysman.M.2025.TestRapport_Wave.1.docx)
