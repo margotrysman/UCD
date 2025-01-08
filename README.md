@@ -142,8 +142,34 @@ o	Ademhalingsoefeningen en hartslagmonitoring als functies.
 ![image](https://github.com/user-attachments/assets/c46e2b6a-fa77-4bc9-8590-d6e36a4af844)
 
 **Conclusie**
+
 De resultaten benadrukken dat comfort, effectiviteit en een subtiel design cruciale factoren zijn voor de acceptatie van de anti-stressband. Er is behoefte aan wetenschappelijk onderbouwde functies en eenvoudige instructies, terwijl opvallendheid en geluid als storend worden beschouwd. Deze inzichten vormen een sterke basis voor verdere ontwikkeling en testen van prototypes.
 
+#### Hoofdpunten uit de Wave 1
+
+Uit de resultaten van de Wave 1-test zijn de volgende hoofdpunten duidelijk geworden:
+
+1.	Comfort en Pasvorm: De band scoorde over het algemeen laag tot matig op comfort (variërend van 4/10 tot 8/10). Veel respondenten vonden de band te dik, te stijf of niet passend onder kleding. Een dunner en minder opvallend ontwerp werd sterk aanbevolen.
+   
+2.	Sluitmechanisme (Velcro): Het klittenband werd als problematisch ervaren. Het ging vaak los, veroorzaakte huidirritatie en bleek niet duurzaam. Een alternatief sluitmechanisme wordt noodzakelijk geacht.
+   
+3.	Opvallendheid en Esthetiek: De band werd als opvallend ervaren, vooral bij sociale interacties en activiteiten zoals hand opsteken in de klas. Aanpassingen zoals subtielere kleuren, een dunner ontwerp en aantrekkelijkere stijlopties zouden helpen.
+   
+4.	Aanbevelingen:
+   
+o	Dunner, verstelbaar en comfortabeler maken.
+
+o	Een alternatief sluitmechanisme implementeren.
+
+o	Meer aandacht voor esthetische aspecten zoals kleuren en stoffen.
+
+Belangrijkste punten voor de algemene samenvatting:
+
+•	Het lage comfortniveau en de opvallendheid benadrukken de noodzaak van ontwerpaanpassingen.
+
+•	Het falen van het klittenband en de noodzaak van een nieuw sluitmechanisme.
+
+•	Aanbevelingen gericht op subtielere, comfortabelere en aantrekkelijkere ontwerpen zijn cruciaal voor toekomstige iteraties.
 
 
 ## Bill of materials
