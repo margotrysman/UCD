@@ -1,4 +1,4 @@
-# Projecttitel
+# Pulse - Jouw stress, jouw ritme.
 *De anti-stressband voor het dagelijkse leven.* 
 
 *Projectteam: Rootsaert Selena; Rysman Margot*
