@@ -56,15 +56,36 @@ Wave 1 en 2 werden verwerkt, waarna de belangrijkste conclusies gedocumenteerd w
 
 
 ## Discovery
-Max. 1000 woorden
+
 ### Doestellingen
-Wat wilde je bereiken?
+Voor het vooronderzoek van dit project werden verschillende elementen bekeken.
+De huidige stresservaring en regulatie bij studenten verkennen was een kernzaak. Ook werden de verschillende methodes om stress op te meten en hun haalbaarheid op kleine schaal onderzocht. De relatie tussen tijdstip en stressniveau werd ook even onder de loep genomen.
+
 ### Materiaal & methoden
-Hoe onderzocht je dit? Wees volledig.
+Voor het onderzoeken van de persoonlijke stresservaring en regulatie bij studenten werden 1 op 1 interviews afgelegd met drie gebruikers. Een uitgebreide vragenlijst werd opgesteld (zie bijlage “Protocol Interviews”). Hiernaast werden de gebruikers toen ook gevraagd om een lijst met stress-regulatiemethodes een score te geven op tien en daarbij wat uitleg te geven.
+
+De aanpak voor het detecteren van stress werd uitgebreid onderzocht aan de hand van een literatuurstudie. Na de deskresearch werd nuttige informatie uit de bronnen gebundeld.
+Een korte zelfobservatie bij een drietal gebruikers vond plaats, waarbij gebruikers doorheen een normale dag hun stressniveau om het uur noteerden, alsook wat eventuele aanleidingen waren tot dat stressniveau. Dit werd bijgehouden in een excel bestand en nadien gebundeld in een grafiek om duidelijke correlatie te onderzoeken.
+
 ### Resultaten
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
+De interviews werden samengevat in een document, waarbij kernzaken duidelijk werden. De notities van de interviews zijn te vinden in de bijlage “Report Interview”. Volgende tabel drukt de bekomen resultaten uit van de te beoordelen lijst regulatiemethodes;
+![Screenshot 2025-01-08 234022](https://github.com/user-attachments/assets/f5ee862e-9a23-45ee-bb87-e3bd8521f8b3)
+
+
+Vanuit de literatuurstudie is een lijst opgesteld met de verschillende bronnen en hun kernzaken. Dit is te vinden in bijlage “Report Literary Research”.
+
+De resultaten van de observatie werden in bijlage “Report Observaties” gegroepeerd. Volgende grafiek werd ook gedestilleerd uit de data;
+![Screenshot 2025-01-08 234107](https://github.com/user-attachments/assets/9567f7e2-2b02-40eb-8402-c9ab93afc839)
+
+
 ### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
+Uit de interviews werd geconcludeerd dat stress reguleren een betere richting voor een product is dan het oplossen ervan/wegwerken van de oorzaken. Er is bij studenten een permanente druk aanwezig, die bij deadlines stevig kan verhogen. Regulatiemethodes combineren is optimaal, gezien de effectiviteit van singuliere oplossingen enorm persoonlijk variabel is.
+Toch komen fidgeting, meditatie en physical exercise boven als algemeen betere methodes.
+
+Uit de literatuurstudie kwam heel wat info over het opmeten van stress, waarbij de galvanische huidreactie (GSR) en de Heart Rate Variability (HRV) de meest nauwkeurige en haalbare oplossingen bleken.
+De observaties leerden ons dat er geen duidelijke correlatie bestaat tussen tijdstip en stressniveau. Een stress regulerend product kan bijgevolg doorheen de dag zijn nut bewijzen.
+Wel was het middageten een opvallend moment waarop het stressniveau steevast even daalde, alsook waren dode momenten risicovol voor een verhoogd stressniveau.
+
 
 ## Definition
 ### Doestellingen
