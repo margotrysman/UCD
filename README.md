@@ -163,13 +163,54 @@ o	Een alternatief sluitmechanisme implementeren.
 
 o	Meer aandacht voor esthetische aspecten zoals kleuren en stoffen.
 
-Belangrijkste punten voor de algemene samenvatting:
+**Conclusie**
 
 •	Het lage comfortniveau en de opvallendheid benadrukken de noodzaak van ontwerpaanpassingen.
 
 •	Het falen van het klittenband en de noodzaak van een nieuw sluitmechanisme.
 
 •	Aanbevelingen gericht op subtielere, comfortabelere en aantrekkelijkere ontwerpen zijn cruciaal voor toekomstige iteraties.
+
+#### Hoofdpunten uit de Wave 1
+
+Uit de Wave 2-test komen de volgende hoofdpunten naar voren:
+
+**1.	Voorkeursobjecten:**
+
+o	De Rubik's Cube en de regenboogkleurige draaislang waren de populairste objecten.
+
+o	De Rubik's Cube werd gewaardeerd om de mentale uitdaging en het duidelijke doel.
+
+o	De draaislang viel in de smaak door zijn veelzijdigheid, aantrekkelijke kleuren en speelse vormen.
+
+**2.	Minst gewaardeerde objecten:**
+
+o	De piano sleutelhanger scoorde laag vanwege stroeve toetsen en een goedkoop geluid dat niet stressverlagend werd ervaren.
+
+o	De stuiterbal met staart werd onaangenaam gevonden door de textuur van de staart.
+
+**3.	Algemene voorkeuren:**
+
+o	Opvallende kleuren of unieke kenmerken, zoals lichtgevende elementen, trokken in eerste instantie aandacht.
+
+o	Gebruiksgemak en afleidende werking waren doorslaggevend voor voorkeuren.
+
+4.	Individuele voorkeuren:
+
+o	Verschillen in voorkeuren werden beïnvloed door persoonlijke affiniteiten, zoals mentale uitdaging (bij de Rubik's Cube) of speelse bewegingen (bij de stuiterbal).
+
+![image](https://github.com/user-attachments/assets/ad1de801-3ee5-430e-aae1-f6f698814928)
+
+*Figuur 1. Opstelling met fidget objecten*
+
+**Conclusie**
+•	De populariteit van de Rubik's Cube en de draaislang benadrukken het belang van mentale afleiding en veelzijdigheid in stressverminderende hulpmiddelen.
+
+•	Het negatieve oordeel over de piano en de stuiterbal met staart wijst op het belang van gebruiksgemak en een prettige textuur.
+
+•	Ontwerpen moeten balans vinden tussen opvallendheid (voor aandacht) en praktisch gebruiksgemak (voor blijvend gebruik).
+
+
 
 
 ## Bill of materials
