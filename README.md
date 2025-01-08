@@ -26,7 +26,17 @@ Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief bou
 Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)).
 
 ## Methodologie
-Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
+Bij het opstarten van het groepsproject werd eerst een verkennende fase voor Selena gehouden, waarin ook al enkele verkennende quick-and-dirty prototypes gemaakt werden.
+
+
+Doorheen de weken erna werd verdere informatie gehaald over het probleem bij gebruikers, m.b.v. een enquête. Onderzoeksvragen werden opgesteld, alsook een initiëel PVE, een aantal beknopte storyboards en een morfologische matrix. Aan de hand van die morfologische matrix werd ook gepeild naar de mening van gebruikers over de vormvarianten. Dit deden we met een dot-voting systeem op de innovatrix gedurende een van de lessen.
+
+De info die verzameld werd uit de enquêtes en innovatrix werd gebruikt om een eerste functioneel prototype te maken. Dit prototype werd vervolgens ook gebruikt bij een eerste wave van gebruikerstesten. Hierbij werd gefocust op het draagcomfort in het dagelijkse leven en de reactie van peers.
+
+Nadien werd een losstaande wave 2 uitgerold, waarbij focus lag op fidgeting en gebruikerservaring met verschillende fidget-elementen.
+
+Wave 1 en 2 werden verwerkt, waarna de belangrijkste conclusies gedocumenteerd werden.
+
 
 ## Discovery
 Max. 1000 woorden
