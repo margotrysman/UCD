@@ -78,52 +78,72 @@ De steekproef voor de eerste enquête bestond uit een vrijwillige groep van vrie
 Bij de Waves werd specifiek gevraagd of deelnemers wilden meewerken. Zowel Wave 1 als Wave 2 bestonden elk uit vijf deelnemers. Deze deelnemers tekenden een akkoordverklaring en namen vrijwillig, maar niet anoniem, deel aan het onderzoek.
 
 •	Wave 1: Deze fase betrof een observatietest achter de schermen. Deelnemers kregen het eerste prototype gedurende een periode van 8 tot 12 uur (maximaal 24 uur) om te testen. Zij vulden na afloop een enquête in die gericht was op het comfort- en discretie-aspect van het prototype.
+
 •	Wave 2: Een plaatselijke observatie waarbij de onderzoekers aanwezig waren. Met toestemming van de deelnemers werden hun handelingen tijdens het gebruik van de fidgeting-feature gefilmd.
 
 ### Resultaten
 In dit rapport worden de resultaten van de enquête en testen (Waves) gepresenteerd. Het doel is om inzicht te geven in de behoeften en verwachtingen van de doelgroep voor de ontwikkeling van een anti-stresspolsband. De bevindingen vormen de basis voor verdere productontwikkeling en ontwerpbeslissingen.
 Hoofdpunten uit de Onderzoeksenquête
-1. Demografische Gegevens
+
+**1. Demografische Gegevens**
+
 •	De doelgroep bestond voornamelijk uit studenten uit het hoger onderwijs, met een gemiddelde leeftijd van 17-23 jaar.
+
 •	Geslacht was redelijk gelijk verdeeld: 50% man, 44% vrouw.
-2. Stressniveau en Interesse in Hulpmiddelen
+
+**2. Stressniveau en Interesse in Hulpmiddelen**
+
 •	72% van de deelnemers gaf aan in de afgelopen 6 maanden stress te hebben ervaren.
+
 •	Slechts 44% zou geïnteresseerd zijn in het dragen van een anti-stressband.
+
 •	Ongeveer 50% gebruikt al hulpmiddelen zoals fidget toys of knoppen.
 
 ![image](https://github.com/user-attachments/assets/af5b25b3-9e34-4df7-8838-d6e8794846e0)
 
-4. Gewenste Kenmerken en Gebruik
+**3. Gewenste Kenmerken en Gebruik**
+
 •	Belangrijke kenmerken volgens de deelnemers: 
+
 1.	Comfort / Effectiviteit
 2.	Subtiel design
 3.	Betaalbaarheid.
 4.	Gebruiksgemak
+
 •	26% van de deelnemers gaf aan de band dagelijks te willen dragen, terwijl anderen dit vooral tijdens schooluren of examenperiodes nodig achten.
-4. Comfort en Draagbaarheid
+
+**4. Comfort en Draagbaarheid**
+
 •	Comfort werd door 2/3 van de deelnemers belangrijker gevonden dan functionaliteit of effectiviteit.
+
 •	Pasvorm en uiterlijk werden als belangrijkste factoren voor draagbaarheid genoemd.
+
 •	Veel deelnemers benoemden huidirritatie als probleem bij een slecht passende band.
 
 ![image](https://github.com/user-attachments/assets/b1a4901d-aaa0-49a9-b1d5-41dc1f74696a)
  
-6. Functionaliteit en Effectiviteit
+**5. Functionaliteit en Effectiviteit**
+
 •	Deelnemers gaven voorkeur aan: 
+
 o	Eenvoudige instructies
+
 o	Wetenschappelijke onderbouwing van stress verlagende werking
+
 o	Ademhalingsoefeningen en hartslagmonitoring als functies.
-7. Design en Discretie
+
+**6. Design en Discretie**
+
 •	Een subtiel design werd als must-have gezien door 20% van de deelnemers.
+
 •	Geluid en opvallendheid werden aangegeven als no-go's.
 
 ![image](https://github.com/user-attachments/assets/c46e2b6a-fa77-4bc9-8590-d6e36a4af844)
 
-Conclusie
+### Conclusie
 De resultaten benadrukken dat comfort, effectiviteit en een subtiel design cruciale factoren zijn voor de acceptatie van de anti-stressband. Er is behoefte aan wetenschappelijk onderbouwde functies en eenvoudige instructies, terwijl opvallendheid en geluid als storend worden beschouwd. Deze inzichten vormen een sterke basis voor verdere ontwikkeling en testen van prototypes.
 
 
-### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
 
 ## Bill of materials
 - Welk
