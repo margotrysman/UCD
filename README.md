@@ -34,6 +34,9 @@ Een overzicht van de uitwerking van deze onderzoeken, inclusief de resultaten en
 
 
 ## Methodologie
+
+![Methodologie tijdslijn](https://github.com/user-attachments/assets/4c240bae-ec89-4c7a-b6e4-3dd6b8ff9d72)
+
 Bij het opstarten van het groepsproject werd eerst een verkennende fase voor Selena gehouden, waarin ook al enkele verkennende quick-and-dirty prototypes gemaakt werden.
 
 
