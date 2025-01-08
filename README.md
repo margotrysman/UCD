@@ -52,7 +52,9 @@ Definieer de belangrijkste designbeslissingen
 ## Definition
 Max. 1000 woorden
 ### Doestellingen
-Wat wilde je bereiken?
+Het doel van ons onderzoek was om binnen onze doelgroep uitgebreidere testen uit te voeren en een concreet beeld te vormen van de verwachtingen en behoeften voordat we begonnen aan de ontwikkeling van onze eerste prototypes. Deze prototypes werden gebaseerd op de waarden en normen die via enquêtes binnen de doelgroep als relevant en belangrijk werden geïdentificeerd.
+
+Door deze kernwaarden en normen te bepalen, konden we duidelijke richtlijnen opstellen voor de belangrijkste aspecten die in het prototype zouden worden getest. Dit onderzoek diende niet alleen als fundament voor het ontwerp, maar ook als leidraad om de anti-stressfunctionaliteit van het project centraal te stellen. Een bijkomend doel was het prioriteren van de meest cruciale ontwerpdoelen die bijdragen aan stressverwerking.
 ### Materiaal & methoden
 Hoe onderzocht je dit? Wees volledig.
 ### Resultaten
