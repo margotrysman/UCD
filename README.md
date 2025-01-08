@@ -83,6 +83,9 @@ Bij de Waves werd specifiek gevraagd of deelnemers wilden meewerken. Zowel Wave 
 •	Wave 2: Een plaatselijke observatie waarbij de onderzoekers aanwezig waren. Met toestemming van de deelnemers werden hun handelingen tijdens het gebruik van de fidgeting-feature gefilmd.
 
 In het vooronderzoek werd het platform **Miro** gebruikt als centraal hulpmiddel om de basis te leggen voor de verdere ontwikkeling van de waves en prototypes. Op Miro werd de Programma van Eisen (PvE) opgesteld, ondersteund door AI-afbeeldingen die dienden als inspiratie. Daarnaast werden storyboards en morfologische matrixen geïntegreerd om creatieve oplossingen te verkennen en te structureren. Deze methoden vormden een belangrijke aanleiding voor de iteratieve aanpak van de waves en de bijbehorende prototypes, waarbij zowel gebruikersbehoeften als technische haalbaarheid centraal stonden.
+[BoardInvite](https://miro.com/welcomeonboard/R1dqQkZoU21CZDhIN1lLOFVCY2FSZmhQUUw2d01rMDUrblZMb3ZUTDcxS0pMY1Z2UkxsTE9Ld3d1blJEc0kwa3lCd2xjaDZqYytDV1lDb3NBdktoZExYaXF3T1JYUUJSYko3eTZZdUVHdzRSUGMxaEFnckNhTktESVZyQzBiMzghZQ==?share_link_id=784436200020)
+of via [Website](https://miro.com/app/board/uXjVLaELm6Q=/)
+
 
 ### Resultaten
 In dit rapport worden de resultaten van de enquête en testen (Waves) gepresenteerd. Het doel is om inzicht te geven in de behoeften en verwachtingen van de doelgroep voor de ontwikkeling van een anti-stresspolsband. De bevindingen vormen de basis voor verdere productontwikkeling en ontwerpbeslissingen.
