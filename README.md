@@ -62,17 +62,17 @@ Voor het vooronderzoek van dit project werden verschillende elementen bekeken.
 De huidige stresservaring en regulatie bij studenten verkennen was een kernzaak. Ook werden de verschillende methodes om stress op te meten en hun haalbaarheid op kleine schaal onderzocht. De relatie tussen tijdstip en stressniveau werd ook even onder de loep genomen.
 
 ### Materiaal & methoden
-Voor het onderzoeken van de persoonlijke stresservaring en regulatie bij studenten werden 1 op 1 interviews afgelegd met drie gebruikers. Een uitgebreide vragenlijst werd opgesteld (zie bijlage “Protocol Interviews”). Hiernaast werden de gebruikers toen ook gevraagd om een lijst met stress-regulatiemethodes een score te geven op tien en daarbij wat uitleg te geven.
+Voor het onderzoeken van de persoonlijke stresservaring en regulatie bij studenten werden 1 op 1 interviews afgelegd met drie gebruikers. Een uitgebreide vragenlijst werd opgesteld (zie link in het Figmadocument, vermeld bij bijlages). Hiernaast werden de gebruikers toen ook gevraagd om een lijst met stress-regulatiemethodes een score te geven op tien en daarbij wat uitleg te geven.
 
 De aanpak voor het detecteren van stress werd uitgebreid onderzocht aan de hand van een literatuurstudie. Na de deskresearch werd nuttige informatie uit de bronnen gebundeld.
 Een korte zelfobservatie bij een drietal gebruikers vond plaats, waarbij gebruikers doorheen een normale dag hun stressniveau om het uur noteerden, alsook wat eventuele aanleidingen waren tot dat stressniveau. Dit werd bijgehouden in een excel bestand en nadien gebundeld in een grafiek om duidelijke correlatie te onderzoeken.
 
 ### Resultaten
-De interviews werden samengevat in een document, waarbij kernzaken duidelijk werden. De notities van de interviews zijn te vinden in de bijlage “Report Interview”. Volgende tabel drukt de bekomen resultaten uit van de te beoordelen lijst regulatiemethodes;
+De interviews werden samengevat in een document, waarbij kernzaken duidelijk werden. De notities van de interviews zijn te vinden in het Figma document. Volgende tabel drukt de bekomen resultaten uit van de te beoordelen lijst regulatiemethodes;
 ![Screenshot 2025-01-08 234022](https://github.com/user-attachments/assets/f5ee862e-9a23-45ee-bb87-e3bd8521f8b3)
 
 
-Vanuit de literatuurstudie is een lijst opgesteld met de verschillende bronnen en hun kernzaken. Dit is te vinden in bijlage “Report Literary Research”.
+Vanuit de literatuurstudie is een lijst opgesteld met de verschillende bronnen en hun kernzaken. Dit is te vinden in het Figma document.
 
 De resultaten van de observatie werden in bijlage “Report Observaties” gegroepeerd. Volgende grafiek werd ook gedestilleerd uit de data;
 ![Screenshot 2025-01-08 234107](https://github.com/user-attachments/assets/9567f7e2-2b02-40eb-8402-c9ab93afc839)
@@ -278,6 +278,7 @@ Al met al was de voortgang van het project positief, en kijken we ernaar uit om 
 Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
 
 ## Bijlagen
+[Rysman, M. (2024). Figma Documentatie](https://www.figma.com/design/LtIDMOVTxl9MOyyYGi2SfU/Discovery-Template?node-id=0-1&p=f&t=SKSGqrQCKlGA5WIU-0)
 
 [Rysman, M. (2024). TestProcol_Wave 2.docx](https://github.com/user-attachments/files/18353529/Rysman.M.2024.TestProcol_Wave.2.docx)
 
