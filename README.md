@@ -237,7 +237,11 @@ o	Verschillen in voorkeuren werden beïnvloed door persoonlijke affiniteiten, zo
 - Prototype
 
 ## Kritische reflectie
-Max. 500 woorden
+Onze aanpak gedurende het project was in grote lijnen succesvol, maar er zijn enkele aspecten die we in de toekomst anders zouden aanpakken. Allereerst zouden we een duidelijkere planning opstellen, waarbij we eerder op schema zitten dan in de laatste uren. Het is belangrijk om bepaalde mijlpalen voorop te stellen, zodat we niet op het laatste moment geconfronteerd worden met tijdsdruk.
+Daarnaast hebben we een goed begrip van ons concept ontwikkeld, maar we hadden meer informatie moeten verzamelen over het volledige semester, zowel nieuwe als bevestigende gegevens. Dit zou ons in staat hebben gesteld om ons concept verder te verfijnen en mogelijke nieuwe inzichten te integreren. Het verzamelen van meer informatie gedurende de rest van het semester had ons wellicht geholpen bij het verbeteren van het product en het proces, en bij het toevoegen van waardevolle elementen voor het volgende semester.
+Onze samenwerking was over het algemeen goed. Er was sprake van een evenwichtige werklading en we hebben al enkele goede resultaten behaald. Het team functioneerde goed, met duidelijke communicatie en een gezamenlijke focus op het einddoel. Een evenwichtige werkhouding droeg bij aan een prettige werksfeer, maar zorgde ook af en toe voor tijds- en planningsproblemen. Dit is iets waar we in de toekomst meer aandacht aan moeten besteden, zodat we tijdig kunnen anticiperen op mogelijke vertragingen.
+Desondanks hebben we deze uitdagingen grotendeels kunnen oplossen, en we hebben geleerd hoe we in de toekomst beter kunnen plannen en werken om een efficiënter resultaat te behalen. Het is duidelijk dat een gestroomlijnde planning en een proactieve houding essentieel zijn voor het succes van ons project.
+
 
 ## Bronnen
 Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
