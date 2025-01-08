@@ -83,7 +83,8 @@ Bij de Waves werd specifiek gevraagd of deelnemers wilden meewerken. Zowel Wave 
 
 ### Resultaten
 In dit rapport worden de resultaten van de enquête en testen (Waves) gepresenteerd. Het doel is om inzicht te geven in de behoeften en verwachtingen van de doelgroep voor de ontwikkeling van een anti-stresspolsband. De bevindingen vormen de basis voor verdere productontwikkeling en ontwerpbeslissingen.
-Hoofdpunten uit de Onderzoeksenquête
+
+#### Hoofdpunten uit de Onderzoeksenquête
 
 **1. Demografische Gegevens**
 
@@ -140,7 +141,7 @@ o	Ademhalingsoefeningen en hartslagmonitoring als functies.
 
 ![image](https://github.com/user-attachments/assets/c46e2b6a-fa77-4bc9-8590-d6e36a4af844)
 
-### Conclusie
+**Conclusie**
 De resultaten benadrukken dat comfort, effectiviteit en een subtiel design cruciale factoren zijn voor de acceptatie van de anti-stressband. Er is behoefte aan wetenschappelijk onderbouwde functies en eenvoudige instructies, terwijl opvallendheid en geluid als storend worden beschouwd. Deze inzichten vormen een sterke basis voor verdere ontwikkeling en testen van prototypes.
 
 
