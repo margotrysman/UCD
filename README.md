@@ -66,7 +66,6 @@ Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 Definieer de belangrijkste designbeslissingen
 
 ## Definition
-Max. 1000 woorden
 ### Doestellingen
 Het doel van ons onderzoek was om binnen onze doelgroep uitgebreidere testen uit te voeren en een concreet beeld te vormen van de verwachtingen en behoeften voordat we begonnen aan de ontwikkeling van onze eerste prototypes. Deze prototypes werden gebaseerd op de waarden en normen die via enquêtes binnen de doelgroep als relevant en belangrijk werden geïdentificeerd.
 
@@ -77,6 +76,7 @@ Voor de gebruikte methodologieën werd hoofdzakelijk gebruikgemaakt van enquête
 De eerste enquête was bedoeld om een beeld te krijgen van de belangrijkste aspecten die relevant werden geacht door de doelgroep. Deze inzichten vormden de basis voor de tests in de Waves. De enquête werd ontwikkeld in Google Forms en online verspreid via verschillende sociale mediaplatformen. De resultaten werden verwerkt in Excel en volledig anoniem geanalyseerd.
 De steekproef voor de eerste enquête bestond uit een vrijwillige groep van vrienden en familie binnen de doelgroep. Dit leverde een geldige steekproef op van 18 deelnemers.
 Bij de Waves werd specifiek gevraagd of deelnemers wilden meewerken. Zowel Wave 1 als Wave 2 bestonden elk uit vijf deelnemers. Deze deelnemers tekenden een akkoordverklaring en namen vrijwillig, maar niet anoniem, deel aan het onderzoek.
+
 •	Wave 1: Deze fase betrof een observatietest achter de schermen. Deelnemers kregen het eerste prototype gedurende een periode van 8 tot 12 uur (maximaal 24 uur) om te testen. Zij vulden na afloop een enquête in die gericht was op het comfort- en discretie-aspect van het prototype.
 •	Wave 2: Een plaatselijke observatie waarbij de onderzoekers aanwezig waren. Met toestemming van de deelnemers werden hun handelingen tijdens het gebruik van de fidgeting-feature gefilmd.
 
@@ -90,9 +90,10 @@ Hoofdpunten uit de Onderzoeksenquête
 •	72% van de deelnemers gaf aan in de afgelopen 6 maanden stress te hebben ervaren.
 •	Slechts 44% zou geïnteresseerd zijn in het dragen van een anti-stressband.
 •	Ongeveer 50% gebruikt al hulpmiddelen zoals fidget toys of knoppen.
+
 ![image](https://github.com/user-attachments/assets/af5b25b3-9e34-4df7-8838-d6e8794846e0)
 
-3. Gewenste Kenmerken en Gebruik
+4. Gewenste Kenmerken en Gebruik
 •	Belangrijke kenmerken volgens de deelnemers: 
 1.	Comfort / Effectiviteit
 2.	Subtiel design
@@ -103,16 +104,18 @@ Hoofdpunten uit de Onderzoeksenquête
 •	Comfort werd door 2/3 van de deelnemers belangrijker gevonden dan functionaliteit of effectiviteit.
 •	Pasvorm en uiterlijk werden als belangrijkste factoren voor draagbaarheid genoemd.
 •	Veel deelnemers benoemden huidirritatie als probleem bij een slecht passende band.
+
 ![image](https://github.com/user-attachments/assets/b1a4901d-aaa0-49a9-b1d5-41dc1f74696a)
  
-5. Functionaliteit en Effectiviteit
+6. Functionaliteit en Effectiviteit
 •	Deelnemers gaven voorkeur aan: 
 o	Eenvoudige instructies
 o	Wetenschappelijke onderbouwing van stress verlagende werking
 o	Ademhalingsoefeningen en hartslagmonitoring als functies.
-6. Design en Discretie
+7. Design en Discretie
 •	Een subtiel design werd als must-have gezien door 20% van de deelnemers.
 •	Geluid en opvallendheid werden aangegeven als no-go's.
+
 ![image](https://github.com/user-attachments/assets/c46e2b6a-fa77-4bc9-8590-d6e36a4af844)
 
 Conclusie
