@@ -226,15 +226,24 @@ o	Verschillen in voorkeuren werden beïnvloed door persoonlijke affiniteiten, zo
 
 
 ## Bill of materials
-- Welk
-- Materiaal
-- Heb
-- Je
-- Nu
-- Nodig
-- Voor
-- Je
-- Prototype
+Welke Materialen Heb Je Nu Nodig Voor Je Prototype?
+
+Voor het ontwikkelen en testen van het prototype volgend semester, kunnen de volgende materialen van pas komen:
+
+1.	EmotiBit-technologie: Voor het meten van elektrische pulsen en fysiologische signalen in het lichaam.
+2.	Wearables-materiaal: Flexibele stoffen, elastische banden, of textiel dat comfortabel en functioneel is. (Redelijke eigen voorraad, niet overdreven veel.)
+3.	Sensortechnologie: Extra sensoren voor hartslag, huidgeleiding, of temperatuur.
+4.	3D-printmateriaal: Kunststoffen of siliconen voor het maken van kleine behuizingen of aanpassingen. 
+5.	Microcontrollers: Bijvoorbeeld Arduino of Raspberry Pi voor dataverwerking en -opslag.
+6.	Ademhalingshulpmiddelen: Accessoires of materialen die als interface kunnen dienen voor ademhalingsoefeningen.
+7.	Huidvriendelijke kleefstoffen: Voor bevestiging van sensoren zonder huidirritatie te veroorzaken.
+8.	Voeding en batterijen: Kleine, draagbare energieoplossingen voor het prototype.
+9.	Softwaretools: Voor data-analyse en visualisatie (bijvoorbeeld Python of MATLAB).
+10.	Basismechanische onderdelen: Scharnieren, sluitingen, en dunne elastische banden voor draagbaarheid.
+11.	Creatieve materialen: Zoals fidget-objecten, knoppen, of lichtgevende elementen om visuele en tactiele interactie te testen.
+
+Deze lijst blijft flexibel en kan worden aangevuld naarmate de prototypes en tests concreter worden.
+
 
 ## Kritische reflectie
 In het afgelopen semester hebben we ons concept goed begrepen en zijn we erin geslaagd veel relevante informatie te verzamelen. Zowel nieuwe als bevestigende inzichten hebben ons geholpen ons concept verder te verfijnen en de richting van het project te verduidelijken. Deze continue verzameling van gegevens heeft ons niet alleen geholpen bij de ontwikkeling van het product, maar heeft ook bijgedragen aan het stellen van prioriteiten voor de volgende fasen. We hebben informatie kunnen meenemen die in het volgende semester verder uitgewerkt zal worden, wat ons in staat stelt om voort te bouwen op de behaalde resultaten.
