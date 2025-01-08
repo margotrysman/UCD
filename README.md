@@ -3,7 +3,7 @@
 
 *Projectteam: Rootsaert Selena; Rysman Margot*
 
-Datum
+08/01/2025
 
 ## Samenvatting
 Stress bij studenten in het hoger onderwijs is een vaak voorkomend probleem, zoals bleek uit literatuuronderzoek en enquêtes binnen de doelgroep. Studenten zullen vaak hun stress niet erkennen als een probleem en deze niet of op ongezonde wijze reguleren. 
