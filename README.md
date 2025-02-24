@@ -124,8 +124,9 @@ In dit rapport worden de resultaten van de enquête en testen (Waves) gepresente
 •	Ongeveer 50% gebruikt al hulpmiddelen zoals fidget toys of knoppen.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/af5b25b3-9e34-4df7-8838-d6e8794846e0" width=50% height=50%>
+<img src="https://github.com/user-attachments/assets/29a6e070-8c51-40dc-bcdf-ce19562f2906" width=50% height=50%>
 </p>
+
 
 **3. Gewenste Kenmerken en Gebruik**
 
@@ -146,7 +147,7 @@ In dit rapport worden de resultaten van de enquête en testen (Waves) gepresente
 
 •	Veel deelnemers benoemden huidirritatie als probleem bij een slecht passende band.
 <p align="center">
-<img src="https://github.com/user-attachments/assets/b1a4901d-aaa0-49a9-b1d5-41dc1f74696a" width=50% height=50%>
+<img src="https://github.com/user-attachments/assets/7e673dd9-504d-4d83-9fe3-874a7a239abe" width=50% height=50%>
 </p>
  
 **5. Functionaliteit en Effectiviteit**
@@ -165,7 +166,10 @@ o	Ademhalingsoefeningen en hartslagmonitoring als functies.
 
 •	Geluid en opvallendheid werden aangegeven als no-go's.
 
-![image](https://github.com/user-attachments/assets/c46e2b6a-fa77-4bc9-8590-d6e36a4af844)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/7f15c32f-ac17-4679-a799-5c3bc3b2c710" width=50% height=50%>
+</p>
+
 
 **Conclusie**
 
