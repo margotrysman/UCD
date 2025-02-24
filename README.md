@@ -69,8 +69,10 @@ De interviews werden samengevat in een document, waarbij kernzaken duidelijk wer
 Vanuit de literatuurstudie is een lijst opgesteld met de verschillende bronnen en hun kernzaken. Dit is te vinden in het Figma document.
 
 De resultaten van de observatie werden in bijlage “Report Observaties” gegroepeerd. Volgende grafiek werd ook gedestilleerd uit de data;
-![Screenshot 2025-01-08 234107](https://github.com/user-attachments/assets/9567f7e2-2b02-40eb-8402-c9ab93afc839)
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/5ac3869f-06b6-4f62-a637-745f2df84b2d" width=50% height=50%>
+</p>
 
 ### Conclusies & implicaties
 Uit de interviews werd geconcludeerd dat stress reguleren een betere richting voor een product is dan het oplossen ervan/wegwerken van de oorzaken. Er is bij studenten een permanente druk aanwezig, die bij deadlines stevig kan verhogen. Regulatiemethodes combineren is optimaal, gezien de effectiviteit van singuliere oplossingen enorm persoonlijk variabel is.
