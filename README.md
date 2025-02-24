@@ -286,3 +286,6 @@ Al met al was de voortgang van het project positief, en kijken we ernaar uit om 
 [Rootsaert, S. (2024). TestProcol_Enquêtes.docx](https://github.com/user-attachments/files/18353524/Rootsaert.S.2024.TestProcol_Enquetes.docx)
 
 [Rysman, M. (2025). TestRapport_Wave 1.docx](https://github.com/user-attachments/files/18353523/Rysman.M.2025.TestRapport_Wave.1.docx)
+
+## Bronnen
+Bouchrika, I. (2025, 02 17). 50 Current Student Stress Statistics: 2025 Data, Analysis & Predictions. Opgehaald van Research.com: [https://research.com/education/student-stress-statistics](https://research.com/education/student-stress-statistics)
