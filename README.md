@@ -123,7 +123,7 @@ In dit rapport worden de resultaten van de enquête en testen (Waves) gepresente
 
 •	Ongeveer 50% gebruikt al hulpmiddelen zoals fidget toys of knoppen.
 
-![image](https://github.com/user-attachments/assets/af5b25b3-9e34-4df7-8838-d6e8794846e0)
+<img src="https://github.com/user-attachments/assets/af5b25b3-9e34-4df7-8838-d6e8794846e0" width=50% height=50%>
 
 **3. Gewenste Kenmerken en Gebruik**
 
