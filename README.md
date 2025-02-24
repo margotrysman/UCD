@@ -50,27 +50,27 @@ Wave 1 en 2 werden verwerkt, waarna de belangrijkste conclusies gedocumenteerd w
 
 ## Discovery
 
-### Doestellingen
-Voor het vooronderzoek van dit project werden verschillende elementen bekeken.
-De huidige stresservaring en regulatie bij studenten verkennen was een kernzaak. Ook werden de verschillende methodes om stress op te meten en hun haalbaarheid op kleine schaal onderzocht. De relatie tussen tijdstip en stressniveau werd ook even onder de loep genomen.
+### Doelstellingen
+Binnen de discovery fase worden twee key aspects onderzocht; de huidige stresservaring én regulatie bij studenten en methodes om stress op te meten én hun viabiliteit.
+Hieruit willen we kernzaken halen voor een eventuele band. Zo worden de prioriteiten van de gebruikers en hun dagelijkse situatie met én rond stress in kaart gebracht. Hieruit kunnen eventuele design requirements gehaald worden, maar hierbij moet opgelet worden. Wat de gebruiker communiceert is niet altijd wat de gebruiker nodig heeft.
 
 ### Materiaal & methoden
-Voor het onderzoeken van de persoonlijke stresservaring en regulatie bij studenten werden 1 op 1 interviews afgelegd met drie gebruikers. Een uitgebreide vragenlijst werd opgesteld (zie link in het Figmadocument, vermeld bij bijlages). Hiernaast werden de gebruikers toen ook gevraagd om een lijst met stress-regulatiemethodes een score te geven op tien en daarbij wat uitleg te geven.
+Voor het onderzoeken van de persoonlijke stresservaring en regulatie bij studenten werden één op één interviews afgelegd met drie gebruikers. Een uitgebreide vragenlijst werd opgesteld ([Testprotocol](https://docs.google.com/document/d/1m9y_HT0PP9yR4MpK4OtO-4zBzxmuj2iYiRpzdYWWuy8/edit?usp=sharing)). 
+Hiernaast werden de gebruikers toen ook gevraagd om een lijst met stress-regulatiemethodes een score te geven op tien en daarbij wat uitleg te geven.
+De aanpak voor het detecteren van stress werd uitgebreid onderzocht aan de hand van een literatuurstudie. Na de deskresearch werd nuttige informatie uit de bronnen gebundeld ([Research rapport](https://docs.google.com/document/d/1ef2yBkqwWJlyRDE1RqdJjAGWaPkV0O_lZPxd1vCKUlo/edit?usp=sharing). Een korte zelfobservatie bij een drietal gebruikers vond plaats, waarbij gebruikers doorheen een normale dag hun stressniveau om het uur noteerden, alsook wat eventuele aanleidingen waren tot dat stressniveau. Dit werd bijgehouden in een [excel bestand](https://drive.google.com/drive/folders/10ZLLNr2E1S-gf8i5jfSdjV5VoQkpJsnI?usp=sharing) voor interpretatie na het onderzoek.
 
-De aanpak voor het detecteren van stress werd uitgebreid onderzocht aan de hand van een literatuurstudie. Na de deskresearch werd nuttige informatie uit de bronnen gebundeld.
-Een korte zelfobservatie bij een drietal gebruikers vond plaats, waarbij gebruikers doorheen een normale dag hun stressniveau om het uur noteerden, alsook wat eventuele aanleidingen waren tot dat stressniveau. Dit werd bijgehouden in een excel bestand en nadien gebundeld in een grafiek om duidelijke correlatie te onderzoeken.
 
 ### Resultaten
-De interviews werden samengevat in een document, waarbij kernzaken duidelijk werden. De notities van de interviews zijn te vinden in het Figma document. Volgende tabel drukt de bekomen resultaten uit van de te beoordelen lijst regulatiemethodes;
+De interviews werden samengevat in een [document](https://docs.google.com/document/d/1MAN8x3i6_KfycsWVkI5yPWbt-HdurXxOXEan5PYtpaQ/edit?usp=sharing), waarbij kernzaken duidelijk werden. Volgende tabel drukt de bekomen resultaten uit van de te beoordelen lijst regulatiemethodes;
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/acaa3344-38ec-4a1c-b16e-e243a32e7910" width=75% height=75%>
 </p>
 
 
-Vanuit de literatuurstudie is een lijst opgesteld met de verschillende bronnen en hun kernzaken. Dit is te vinden in het Figma document.
+Vanuit de literatuurstudie is een [lijst](https://docs.google.com/document/d/1ef2yBkqwWJlyRDE1RqdJjAGWaPkV0O_lZPxd1vCKUlo/edit?usp=sharing) opgesteld met de verschillende bronnen en hun kernzaken.
 
-De resultaten van de observatie werden in bijlage “Report Observaties” gegroepeerd. Volgende grafiek werd ook gedestilleerd uit de data;
+De resultaten van de observatie werden in het [report](https://docs.google.com/document/d/1ywnCh1OUR6VFYhxAaRdJZ6MEE3UrmM1PCRbBS-qphO4/edit?usp=sharing) gegroepeerd. Volgende grafiek werd ook gedestilleerd uit de data; 
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/5ac3869f-06b6-4f62-a637-745f2df84b2d" width=50% height=50%>
