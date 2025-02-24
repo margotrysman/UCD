@@ -19,10 +19,7 @@ De stress wordt gecommuniceerd naar de gebruiker dankzij de activatie van een dr
 
 
 ## Introductie
-Dit project richtte zich op de ontwikkeling van een anti-stresspolsband die comfort, discretie en functionaliteit combineert. Het doel was om een product te creëren dat studenten ondersteunt bij stressverlichting en eenvoudig in hun dagelijks leven geïntegreerd kan worden. 
-De ontwikkeling begon met een onderzoeksenquête onder studenten, waarbij inzicht werd verkregen in hun behoeften, voorkeuren en verwachtingen met betrekking tot stresshulpmiddelen. De resultaten gaven aan dat comfort, gebruiksgemak en een subtiel design de belangrijkste eisen waren.
-Op basis van deze inzichten werden twee testfases (Waves) uitgevoerd, waarin prototypes werden beoordeeld op draagbaarheid, discretie en functionaliteit. Er werd speciale aandacht besteed aan extra functies, zoals een fidgeting-feature, om de stressverlichting te optimaliseren. De focus lag hierbij op praktische bruikbaarheid en de gebruikerservaring.
-De belangrijkste ontwerpcriteria waren:
+Dit project richt zich op de ontwikkeling van een anti-stresspolsband die comfort, discretie en functionaliteit combineert. Het doel is om een product te creëren dat studenten ondersteunt bij stressverlichting en eenvoudig in hun dagelijks leven geïntegreerd kan worden. Tijdens dit proces stuiten we op vier hoofddesign-challenges:
 
 •	Comfort – Geschikt voor langdurig gebruik zonder irritatie.
 
@@ -32,8 +29,6 @@ De belangrijkste ontwerpcriteria waren:
 
 •	Betaalbaarheid – Toegankelijk voor studenten.
 
-De stress wordt gecommuniceerd naar de gebruiker door de activatie van opblaasbare kussentjes in de band, die kortstondige druk uitoefenen rondom de arm. Dit helpt de gebruiker zowel te waarschuwen voor een hoog stressniveau als het te reguleren. De regelmatigheid van de druk is zo ingesteld dat ademhalingsoefeningen en meditatie worden gefaciliteerd. Externe fidget-opties zijn toegevoegd voor aanvullende stressregulatie. Het ontwerp zorgt ervoor dat de stressbeheersing discreet blijft, zonder dat peers de signalen opmerken.
-Een overzicht van de uitwerking van deze onderzoeken, inclusief de resultaten en rapportages, vindt u terug in de bijlagen onder de secties Testprotocollen en Rapportprotocollen. Een korter overzicht van de belangrijkste testen en rapporten vindt u hieronder.
 
 
 ## Methodologie
