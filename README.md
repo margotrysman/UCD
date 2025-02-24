@@ -1,5 +1,5 @@
 # Pulse - Jouw stress, jouw ritme.
-*De anti-stressband voor het dagelijkse leven.* 
+*De anti-stressband voor het detecteren, communiceren en reguleren voor meer balans.* 
 
 *Projectteam: Rootsaert Selena; Rysman Margot*
 
