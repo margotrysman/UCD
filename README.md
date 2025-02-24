@@ -83,15 +83,16 @@ Wel was het middageten een opvallend moment waarop het stressniveau steevast eve
 
 ## Definition
 ### Doestellingen
-Het doel van ons onderzoek was om binnen onze doelgroep uitgebreidere testen uit te voeren en een concreet beeld te vormen van de verwachtingen en behoeften voordat we begonnen aan de ontwikkeling van onze eerste prototypes. Deze prototypes werden gebaseerd op de waarden en normen die via enquêtes binnen de doelgroep als relevant en belangrijk werden geïdentificeerd.
+Het onderzoek richt zich in het eerste semester op het uitvoeren van uitgebreide tests binnen de doelgroep om een concreet beeld te verkrijgen van hun verwachtingen en behoeften voorafgaand aan de ontwikkeling van de eerste prototypes. Deze prototypes worden ontworpen op basis van kernwaarden en normen die via enquêtes binnen de doelgroep als relevant en belangrijk worden geïdentificeerd.
 
-Door deze kernwaarden en normen te bepalen, konden we duidelijke richtlijnen opstellen voor de belangrijkste aspecten die in het prototype zouden worden getest. Dit onderzoek diende niet alleen als fundament voor het ontwerp, maar ook als leidraad om de anti-stressfunctionaliteit van het project centraal te stellen. Een bijkomend doel was het prioriteren van de meest cruciale ontwerpdoelen die bijdragen aan stressverwerking.
+De vastgestelde kernwaarden en normen vormen de basis voor richtlijnen die de belangrijkste testaspecten van het prototype definiëren. Het onderzoek functioneert als fundament voor het ontwerp en als leidraad voor het optimaliseren van de anti-stressfunctionaliteit. Daarnaast wordt prioriteit gegeven aan de meest cruciale ontwerpdoelen die bijdragen aan effectieve stressverlichting.
 
 ### Materiaal & methoden
-Voor de gebruikte methodologieën werd hoofdzakelijk gebruikgemaakt van enquêtes, een onderzoeksenquête en twee Waves waarin verder werd gewerkt aan de analyse van de onderzoeksenquête. Deze Waves richtten zich op respectievelijk comfort en discretie, en een extra fidgeting-feature voor de armband.
-De eerste enquête was bedoeld om een beeld te krijgen van de belangrijkste aspecten die relevant werden geacht door de doelgroep. Deze inzichten vormden de basis voor de tests in de Waves. De enquête werd ontwikkeld in Google Forms en online verspreid via verschillende sociale mediaplatformen. De resultaten werden verwerkt in Excel en volledig anoniem geanalyseerd.
-De steekproef voor de eerste enquête bestond uit een vrijwillige groep van vrienden en familie binnen de doelgroep. Dit leverde een geldige steekproef op van 18 deelnemers.
-Bij de Waves werd specifiek gevraagd of deelnemers wilden meewerken. Zowel Wave 1 als Wave 2 bestonden elk uit vijf deelnemers. Deze deelnemers tekenden een akkoordverklaring en namen vrijwillig, maar niet anoniem, deel aan het onderzoek.
+Dit onderzoek maakt hoofdzakelijk gebruik van enquêtes en een onderzoeksenquête, gevolgd door twee Waves die zich richten op de verdere analyse van de verzamelde gegevens. De Waves onderzoeken respectievelijk comfort, discretie en een extra fidgeting-feature voor de armband.
+
+De eerste enquête is ontworpen om inzicht te verkrijgen in de belangrijkste aspecten die de doelgroep als relevant beschouwt. Deze inzichten vormen de basis voor de tests binnen de Waves. De enquête is ontwikkeld in Google Forms en online verspreid via diverse sociale mediaplatformen. De resultaten worden verwerkt in Excel en anoniem geanalyseerd.
+
+De steekproef voor de eerste enquête bestaat uit een vrijwillige groep vrienden en familie binnen de doelgroep, wat resulteert in een geldige steekproef van 18 deelnemers (N = 18). Voor de Waves wordt expliciet gevraagd of deelnemers willen meewerken. Zowel Wave 1 als Wave 2 omvatten elk vijf deelnemers. Deze deelnemers ondertekenen een akkoordverklaring en nemen vrijwillig, maar niet anoniem, deel aan het onderzoek.
 
 •	Wave 1: Deze fase betrof een observatietest achter de schermen. Deelnemers kregen het eerste prototype gedurende een periode van 8 tot 12 uur (maximaal 24 uur) om te testen. Zij vulden na afloop een enquête in die gericht was op het comfort- en discretie-aspect van het prototype.
 
@@ -107,21 +108,16 @@ In dit rapport worden de resultaten van de enquête en testen (Waves) gepresente
 
 
 
-#### Hoofdpunten uit de Onderzoeksenquête
+#### Hoofdpunten uit de Onderzoeksenquête (N = 18)
 
 **1. Demografische Gegevens**
-
-•	De doelgroep bestond voornamelijk uit studenten uit het hoger onderwijs, met een gemiddelde leeftijd van 17-23 jaar.
-
-•	Geslacht was redelijk gelijk verdeeld: 50% man, 44% vrouw.
+-	De doelgroep bestond voornamelijk uit studenten uit het hoger onderwijs, met een gemiddelde leeftijd van 17-23 jaar.
+-	Geslacht was redelijk gelijk verdeeld: 50% man, 44% vrouw.
 
 **2. Stressniveau en Interesse in Hulpmiddelen**
-
-•	72% van de deelnemers gaf aan in de afgelopen 6 maanden stress te hebben ervaren.
-
-•	Slechts 44% zou geïnteresseerd zijn in het dragen van een anti-stressband.
-
-•	Ongeveer 50% gebruikt al hulpmiddelen zoals fidget toys of knoppen.
+- 72% van de deelnemers gaf aan in de afgelopen 6 maanden stress te hebben ervaren.
+- Slechts 44% zou geïnteresseerd zijn in het dragen van een anti-stressband.
+- Ongeveer 50% gebruikt al hulpmiddelen zoals fidget toys of knoppen.
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/29a6e070-8c51-40dc-bcdf-ce19562f2906" width=50% height=50%>
@@ -129,42 +125,32 @@ In dit rapport worden de resultaten van de enquête en testen (Waves) gepresente
 
 
 **3. Gewenste Kenmerken en Gebruik**
-
-•	Belangrijke kenmerken volgens de deelnemers: 
-
+-	Belangrijke kenmerken volgens de deelnemers: 
 1.	Comfort / Effectiviteit
 2.	Subtiel design
 3.	Betaalbaarheid.
 4.	Gebruiksgemak
 
-•	26% van de deelnemers gaf aan de band dagelijks te willen dragen, terwijl anderen dit vooral tijdens schooluren of examenperiodes nodig achten.
+- 26% van de deelnemers gaf aan de band dagelijks te willen dragen, terwijl anderen dit vooral tijdens schooluren of examenperiodes nodig achten.
 
 **4. Comfort en Draagbaarheid**
-
-•	Comfort werd door 2/3 van de deelnemers belangrijker gevonden dan functionaliteit of effectiviteit.
-
-•	Pasvorm en uiterlijk werden als belangrijkste factoren voor draagbaarheid genoemd.
-
-•	Veel deelnemers benoemden huidirritatie als probleem bij een slecht passende band.
+- Comfort werd door 2/3 van de deelnemers belangrijker gevonden dan functionaliteit of effectiviteit.
+- Pasvorm en uiterlijk werden als belangrijkste factoren voor draagbaarheid genoemd.
+- Veel deelnemers benoemden huidirritatie als probleem bij een slecht passende band.
 <p align="center">
 <img src="https://github.com/user-attachments/assets/7e673dd9-504d-4d83-9fe3-874a7a239abe" width=50% height=50%>
 </p>
  
 **5. Functionaliteit en Effectiviteit**
 
-•	Deelnemers gaven voorkeur aan: 
-
-o	Eenvoudige instructies
-
-o	Wetenschappelijke onderbouwing van stress verlagende werking
-
-o	Ademhalingsoefeningen en hartslagmonitoring als functies.
+o Deelnemers gaven voorkeur aan: 
+- Eenvoudige instructies
+-	Wetenschappelijke onderbouwing van stress verlagende werking
+-	Ademhalingsoefeningen en hartslagmonitoring als functies.
 
 **6. Design en Discretie**
-
-•	Een subtiel design werd als must-have gezien door 20% van de deelnemers.
-
-•	Geluid en opvallendheid werden aangegeven als no-go's.
+-	Een subtiel design werd als must-have gezien door 20% van de deelnemers.
+-	Geluid en opvallendheid werden aangegeven als no-go's.
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/7f15c32f-ac17-4679-a799-5c3bc3b2c710" width=50% height=50%>
@@ -177,67 +163,52 @@ De resultaten benadrukken dat comfort, effectiviteit en een subtiel design cruci
 
 
 
-#### Hoofdpunten uit de Wave 1
+#### Hoofdpunten uit de Wave 1 (N = 5)
 
 Uit de resultaten van de Wave 1-test zijn de volgende hoofdpunten duidelijk geworden:
 
 1.	Comfort en Pasvorm: De band scoorde over het algemeen laag tot matig op comfort (variërend van 4/10 tot 8/10). Veel respondenten vonden de band te dik, te stijf of niet passend onder kleding. Een dunner en minder opvallend ontwerp werd sterk aanbevolen.
-   
 2.	Sluitmechanisme (Velcro): Het klittenband werd als problematisch ervaren. Het ging vaak los, veroorzaakte huidirritatie en bleek niet duurzaam. Een alternatief sluitmechanisme wordt noodzakelijk geacht.
-   
-3.	Opvallendheid en Esthetiek: De band werd als opvallend ervaren, vooral bij sociale interacties en activiteiten zoals hand opsteken in de klas. Aanpassingen zoals subtielere kleuren, een dunner ontwerp en aantrekkelijkere stijlopties zouden helpen.
-   
+3.	Opvallendheid en Esthetiek: De band werd als opvallend ervaren, vooral bij sociale interacties en activiteiten zoals hand opsteken in de klas. Aanpassingen zoals subtielere kleuren, een dunner ontwerp en aantrekkelijkere stijlopties zouden helpen.  
 4.	Aanbevelingen:
-   
-o	Dunner, verstelbaar en comfortabeler maken.
-
-o	Een alternatief sluitmechanisme implementeren.
-
-o	Meer aandacht voor esthetische aspecten zoals kleuren en stoffen.
+- Dunner, verstelbaar en comfortabeler maken.
+- Een alternatief sluitmechanisme implementeren.
+- Meer aandacht voor esthetische aspecten zoals kleuren en stoffen.
 
 **Conclusie**
-
-•	Het lage comfortniveau en de opvallendheid benadrukken de noodzaak van ontwerpaanpassingen.
-
-•	Het falen van het klittenband en de noodzaak van een nieuw sluitmechanisme.
-
-•	Aanbevelingen gericht op subtielere, comfortabelere en aantrekkelijkere ontwerpen zijn cruciaal voor toekomstige iteraties.
+- Het lage comfortniveau en de opvallendheid benadrukken de noodzaak van ontwerpaanpassingen.
+- Het falen van het klittenband en de noodzaak van een nieuw sluitmechanisme.
+- Aanbevelingen gericht op subtielere, comfortabelere en aantrekkelijkere ontwerpen zijn cruciaal voor toekomstige iteraties.
 
 
-
-#### Hoofdpunten uit de Wave 1
+#### Hoofdpunten uit de Wave 2 (N = 5)
 
 Uit de Wave 2-test komen de volgende hoofdpunten naar voren:
 
 **1.	Voorkeursobjecten:**
-
-o	De Rubik's Cube en de regenboogkleurige draaislang waren de populairste objecten.
-
-o	De Rubik's Cube werd gewaardeerd om de mentale uitdaging en het duidelijke doel.
-
-o	De draaislang viel in de smaak door zijn veelzijdigheid, aantrekkelijke kleuren en speelse vormen.
+- De Rubik's Cube en de regenboogkleurige draaislang waren de populairste objecten.
+- De Rubik's Cube werd gewaardeerd om de mentale uitdaging en het duidelijke doel.
+-	De draaislang viel in de smaak door zijn veelzijdigheid, aantrekkelijke kleuren en speelse vormen.
 
 **2.	Minst gewaardeerde objecten:**
-
-o	De piano sleutelhanger scoorde laag vanwege stroeve toetsen en een goedkoop geluid dat niet stressverlagend werd ervaren.
-
-o	De stuiterbal met staart werd onaangenaam gevonden door de textuur van de staart.
+-	De piano sleutelhanger scoorde laag vanwege stroeve toetsen en een goedkoop geluid dat niet stressverlagend werd ervaren.
+-	De stuiterbal met staart werd onaangenaam gevonden door de textuur van de staart.
 
 **3.	Algemene voorkeuren:**
+- Opvallende kleuren of unieke kenmerken, zoals lichtgevende elementen, trokken in eerste instantie aandacht.
+- Gebruiksgemak en afleidende werking waren doorslaggevend voor voorkeuren.
 
-o	Opvallende kleuren of unieke kenmerken, zoals lichtgevende elementen, trokken in eerste instantie aandacht.
-
-o	Gebruiksgemak en afleidende werking waren doorslaggevend voor voorkeuren.
-
-4.	Individuele voorkeuren:
-
-o	Verschillen in voorkeuren werden beïnvloed door persoonlijke affiniteiten, zoals mentale uitdaging (bij de Rubik's Cube) of speelse bewegingen (bij de stuiterbal).
+**4.	Individuele voorkeuren:**
+- Verschillen in voorkeuren werden beïnvloed door persoonlijke affiniteiten, zoals mentale uitdaging (bij de Rubik's Cube) of speelse bewegingen (bij de stuiterbal).
 
 ![image](https://github.com/user-attachments/assets/ad1de801-3ee5-430e-aae1-f6f698814928)
+<p align="center">
+Figuur 1. Opstelling met fidget objecten
+</p>
 
-*Figuur 1. Opstelling met fidget objecten*
 
 **Conclusie**
+
 •	De populariteit van de Rubik's Cube en de draaislang benadrukken het belang van mentale afleiding en veelzijdigheid in stressverminderende hulpmiddelen.
 
 •	Het negatieve oordeel over de piano en de stuiterbal met staart wijst op het belang van gebruiksgemak en een prettige textuur.
