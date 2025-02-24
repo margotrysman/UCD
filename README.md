@@ -92,21 +92,18 @@ Dit onderzoek maakt hoofdzakelijk gebruik van enquêtes en een onderzoeksenquêt
 
 De eerste enquête is ontworpen om inzicht te verkrijgen in de belangrijkste aspecten die de doelgroep als relevant beschouwt. Deze inzichten vormen de basis voor de tests binnen de Waves. De enquête is ontwikkeld in Google Forms en online verspreid via diverse sociale mediaplatformen. De resultaten worden verwerkt in Excel en anoniem geanalyseerd.
 
-De steekproef voor de eerste enquête bestaat uit een vrijwillige groep vrienden en familie binnen de doelgroep, wat resulteert in een geldige steekproef van 18 deelnemers (N = 18). Voor de Waves wordt expliciet gevraagd of deelnemers willen meewerken. Zowel Wave 1 als Wave 2 omvatten elk vijf deelnemers. Deze deelnemers ondertekenen een akkoordverklaring en nemen vrijwillig, maar niet anoniem, deel aan het onderzoek.
+De steekproef voor de eerste enquête bestaat uit een vrijwillige groep vrienden en familie binnen de doelgroep, wat resulteert in een geldige steekproef van 18 deelnemers (N = 18). Voor de Waves wordt expliciet gevraagd of deelnemers willen meewerken. Zowel Wave 1 als Wave 2 omvatten elk vijf deelnemers (N = 5). Deze deelnemers ondertekenen een akkoordverklaring en nemen vrijwillig, maar niet anoniem, deel aan het onderzoek.
 
-•	Wave 1: Deze fase betrof een observatietest achter de schermen. Deelnemers kregen het eerste prototype gedurende een periode van 8 tot 12 uur (maximaal 24 uur) om te testen. Zij vulden na afloop een enquête in die gericht was op het comfort- en discretie-aspect van het prototype.
+- **Wave 1:** In deze fase vindt een observatietest achter de schermen plaats. Deelnemers testen het eerste prototype gedurende 8 tot 12 uur (maximaal 24 uur) en vullen vervolgens een enquête in over het comfort- en discretie-aspect.  
 
-•	Wave 2: Een plaatselijke observatie waarbij de onderzoekers aanwezig waren. Met toestemming van de deelnemers werden hun handelingen tijdens het gebruik van de fidgeting-feature gefilmd.
+- **Wave 2:** Een plaatselijke observatie waarbij de onderzoekers aanwezig zijn. Met toestemming van de deelnemers worden hun handelingen tijdens het gebruik van de fidgeting-feature gefilmd.
 
-In het vooronderzoek werd het platform **Miro** gebruikt als centraal hulpmiddel om de basis te leggen voor de verdere ontwikkeling van de waves en prototypes. Op Miro werd de Programma van Eisen (PvE) opgesteld, ondersteund door AI-afbeeldingen die dienden als inspiratie. Daarnaast werden storyboards en morfologische matrixen geïntegreerd om creatieve oplossingen te verkennen en te structureren. Deze methoden vormden een belangrijke aanleiding voor de iteratieve aanpak van de waves en de bijbehorende prototypes, waarbij zowel gebruikersbehoeften als technische haalbaarheid centraal stonden.
-[BoardInvite](https://miro.com/welcomeonboard/R1dqQkZoU21CZDhIN1lLOFVCY2FSZmhQUUw2d01rMDUrblZMb3ZUTDcxS0pMY1Z2UkxsTE9Ld3d1blJEc0kwa3lCd2xjaDZqYytDV1lDb3NBdktoZExYaXF3T1JYUUJSYko3eTZZdUVHdzRSUGMxaEFnckNhTktESVZyQzBiMzghZQ==?share_link_id=784436200020)
-of via [Website](https://miro.com/app/board/uXjVLaELm6Q=/)
+> Miro wordt gebruikt voor het opstellen van het Programma van Eisen (PvE), het structureren van creatieve oplossingen en het ondersteunen van de iteratieve ontwikkeling van Waves en prototypes.
+>
+> Toegang van de website vindt u [hier](https://miro.com/app/board/uXjVLaELm6Q=/)
 
 
 ### Resultaten
-In dit rapport worden de resultaten van de enquête en testen (Waves) gepresenteerd. Het doel is om inzicht te geven in de behoeften en verwachtingen van de doelgroep voor de ontwikkeling van een anti-stresspolsband. De bevindingen vormen de basis voor verdere productontwikkeling en ontwerpbeslissingen.
-
-
 
 #### Hoofdpunten uit de Onderzoeksenquête (N = 18)
 
@@ -165,7 +162,7 @@ De resultaten benadrukken dat comfort, effectiviteit en een subtiel design cruci
 
 #### Hoofdpunten uit de Wave 1 (N = 5)
 
-Uit de resultaten van de Wave 1-test zijn de volgende hoofdpunten duidelijk geworden:
+Uit de resultaten van de Wave 1-test komen de volgende hoofdpunten:
 
 1.	Comfort en Pasvorm: De band scoorde over het algemeen laag tot matig op comfort (variërend van 4/10 tot 8/10). Veel respondenten vonden de band te dik, te stijf of niet passend onder kleding. Een dunner en minder opvallend ontwerp werd sterk aanbevolen.
 2.	Sluitmechanisme (Velcro): Het klittenband werd als problematisch ervaren. Het ging vaak los, veroorzaakte huidirritatie en bleek niet duurzaam. Een alternatief sluitmechanisme wordt noodzakelijk geacht.
