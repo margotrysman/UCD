@@ -6,14 +6,12 @@
 08/01/2025
 
 ## Samenvatting
-Stress bij studenten in het hoger onderwijs is een vaak voorkomend probleem, zoals bleek uit literatuuronderzoek en enquêtes binnen de doelgroep. Studenten zullen vaak hun stress niet erkennen als een probleem en deze niet of op ongezonde wijze reguleren. 
-Wij zochten een oplossing die hoofdzakelijk stress detecteert en communiceert naar de gebruiker, om deze dan aan te sporen om de stress te reguleren.
+Stress bij studenten in het hoger onderwijs is een vaak voorkomend probleem, zoals bleek uit literatuuronderzoek en enquêtes binnen de doelgroep. Studenten zullen vaak hun stress niet erkennen als een probleem en deze niet of op ongezonde wijze reguleren (Bouchrika, 2025). Wij zochten een oplossing die hoofdzakelijk stress detecteert en communiceert naar de gebruiker, om deze dan aan te sporen om de stress te reguleren. Om studenten wanneer nodig te wijzen op hun stress, bedachten wij een dagelijks draagbare band.
 
-Om stress te meten/detecteren kan, volgens wetenschappelijke bronnen, gekeken worden naar Heart Rate Variability (HRV) en andere cardiovasculaire metingen, de huidgeleiding of galvanische huidreactie (GSR), de zweetproductie en de ademhaling. Hierbij vormen HRV en GSR de meest haalbare opties voor een comfortabel wearable product.
+Om de stress te meten/detecteren kan, volgens [wetenschappelijke bronnen](https://docs.google.com/document/d/1ef2yBkqwWJlyRDE1RqdJjAGWaPkV0O_lZPxd1vCKUlo/edit?usp=sharing), gekeken worden naar Heart Rate Variability (HRV) en andere cardiovasculaire metingen, de huidgeleiding of galvanische huidreactie (GSR), de zweetproductie en de ademhaling. Hierbij vormen HRV en GSR de meest haalbare opties voor een comfortabel wearable product zoals onze band.
 
-De stress wordt gecommuniceerd naar de gebruiker dankzij de activatie van opblaasbare kussentjes binnen de band. Deze zullen kortstondige druk uitvoeren rondom de arm. De bedoeling hiervan is om de gebruiker zowel te waarschuwen voor een mogelijk hoog stressniveau als te helpen bij het reguleren. De regelmatigheid van de toenemende druk is afgesteld om ademhalingsoefeningen en meditatie te faciliteren.
-Enkele externe fidget-opties zijn aanwezig voor stressregulatie.
-Door geen duidelijke, externe signalen te gebruiken wordt de stress eveneens niet opgemerkt door peers.
+De stress wordt gecommuniceerd naar de gebruiker dankzij de activatie van een druksysteem binnen de band. Deze zal kortstondig lichte druk uitvoeren rondom de pols. De bedoeling hiervan is om de gebruiker zowel te waarschuwen voor een mogelijk hoog stressniveau als te helpen bij het reguleren. De regelmatigheid van de toenemende druk is afgesteld om ademhalingsoefeningen en meditatie te faciliteren. Enkele externe fidget-opties zijn aanwezig voor stressregulatie. Door geen duidelijke, externe signalen te gebruiken wordt de stress eveneens niet opgemerkt door peers.
+
 
 
 ![Schets](https://github.com/user-attachments/assets/071e6af0-7691-414d-b14b-860afc7d45f7)
