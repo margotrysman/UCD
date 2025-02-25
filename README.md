@@ -63,7 +63,6 @@ De aanpak voor het detecteren van stress werd uitgebreid onderzocht aan de hand 
 ### Resultaten
 De interviews werden samengevat in een [document](https://docs.google.com/document/d/1MAN8x3i6_KfycsWVkI5yPWbt-HdurXxOXEan5PYtpaQ/edit?usp=sharing), waarbij kernzaken duidelijk werden. Volgende tabel drukt de bekomen resultaten uit van de te beoordelen lijst regulatiemethodes;
 
-<p align="center">
 | Methode | Maxime | Imke | Wannes | Gemiddelde |
 | ------- | ------ | ---- | ------ | ---------- |
 | Humor | 8.0 | 7.5 | 10.0 | 8.5 |
@@ -77,7 +76,6 @@ De interviews werden samengevat in een [document](https://docs.google.com/docume
 | Actieplan/Planning opstellen | 4.0 | 7.0 | 0.0 | 3.7 |
 | Hulp vragen | 7.0 | 5.0 | 6.0 | 6.0 |
 | Muziek luisteren | 90 | 7.0 | 4.0 | 6.7 |
-</p>
 
 
 Vanuit de literatuurstudie is een [lijst](https://docs.google.com/document/d/1ef2yBkqwWJlyRDE1RqdJjAGWaPkV0O_lZPxd1vCKUlo/edit?usp=sharing) opgesteld met de verschillende bronnen en hun kernzaken.
