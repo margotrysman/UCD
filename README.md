@@ -57,11 +57,25 @@ Hieruit willen we kernzaken halen voor een eventuele band. Zo worden de priorite
 ### Materiaal & methoden
 Voor het onderzoeken van de persoonlijke stresservaring en regulatie bij studenten werden één op één interviews afgelegd met drie gebruikers. Een uitgebreide vragenlijst werd opgesteld ([Testprotocol](https://docs.google.com/document/d/1m9y_HT0PP9yR4MpK4OtO-4zBzxmuj2iYiRpzdYWWuy8/edit?usp=sharing)). 
 Hiernaast werden de gebruikers toen ook gevraagd om een lijst met stress-regulatiemethodes een score te geven op tien en daarbij wat uitleg te geven.
-De aanpak voor het detecteren van stress werd uitgebreid onderzocht aan de hand van een literatuurstudie. Na de deskresearch werd nuttige informatie uit de bronnen gebundeld ([Research rapport](https://docs.google.com/document/d/1ef2yBkqwWJlyRDE1RqdJjAGWaPkV0O_lZPxd1vCKUlo/edit?usp=sharing). Een korte zelfobservatie bij een drietal gebruikers vond plaats, waarbij gebruikers doorheen een normale dag hun stressniveau om het uur noteerden, alsook wat eventuele aanleidingen waren tot dat stressniveau. Dit werd bijgehouden in een [excel bestand](https://drive.google.com/drive/folders/10ZLLNr2E1S-gf8i5jfSdjV5VoQkpJsnI?usp=sharing) voor interpretatie na het onderzoek.
+De aanpak voor het detecteren van stress werd uitgebreid onderzocht aan de hand van een literatuurstudie. Na de deskresearch werd nuttige informatie uit de bronnen gebundeld ([Research rapport](https://docs.google.com/document/d/1ef2yBkqwWJlyRDE1RqdJjAGWaPkV0O_lZPxd1vCKUlo/edit?usp=sharing)). Een korte zelfobservatie bij een drietal gebruikers vond plaats, waarbij gebruikers doorheen een normale dag hun stressniveau om het uur noteerden, alsook wat eventuele aanleidingen waren tot dat stressniveau. Dit werd bijgehouden in een [excel bestand](https://drive.google.com/drive/folders/10ZLLNr2E1S-gf8i5jfSdjV5VoQkpJsnI?usp=sharing) voor interpretatie na het onderzoek.
 
 
 ### Resultaten
 De interviews werden samengevat in een [document](https://docs.google.com/document/d/1MAN8x3i6_KfycsWVkI5yPWbt-HdurXxOXEan5PYtpaQ/edit?usp=sharing), waarbij kernzaken duidelijk werden. Volgende tabel drukt de bekomen resultaten uit van de te beoordelen lijst regulatiemethodes;
+
+| Methode | Maxime | Imke | Wannes | Gemiddelde |
+| ------- | ------ | ---- | ------ | ---------- |
+| Humor | 8.0 | 7.5 | 10.0 | 8.5 |
+| Andere invalshoek | 3.5 | 5.0 | 3.0 | 3.8 |
+| Praten met anderen | 7.0 | 7.0 | 10.0 | 8.0 |
+| Physical exercise | 8.5 | 8.0 | 10.0 | 8.8 |
+| Aan iets anders werken | 8.0 | 8.0 | 7.0 | 7.7 |
+| Fidgeting | 8.5 | 9.0 | 6.0 | 7.8 |
+| Relaxation/Meditation | 6.0 | 7.0 | 9.0 | 7.3 |
+| Gedachten/Gevoelens neerschrijven | 8.0 | 2.0 | 8.| 6.0 |
+| Actieplan/Planning opstellen | 4.0 | 7.0 | 0.0 | 3.7 |
+| Hulp vragen | 7.0 | 5.0 | 6.0 | 6.0 |
+| Muziek luisteren | 90 | 7.0 | 4.0 | 6.7 |
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/acaa3344-38ec-4a1c-b16e-e243a32e7910" width=75% height=75%>
