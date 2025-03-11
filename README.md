@@ -220,11 +220,19 @@ Figuur 1. Opstelling met fidget objecten
 
 **Conclusie**
 
-•	De populariteit van de Rubik's Cube en de draaislang benadrukken het belang van mentale afleiding en veelzijdigheid in stressverminderende hulpmiddelen.
+-	De populariteit van de Rubik's Cube en de draaislang benadrukken het belang van mentale afleiding en veelzijdigheid in stressverminderende hulpmiddelen.
+-	Het negatieve oordeel over de piano en de stuiterbal met staart wijst op het belang van gebruiksgemak en een prettige textuur.
+-	Ontwerpen moeten balans vinden tussen opvallendheid (voor aandacht) en praktisch gebruiksgemak (voor blijvend gebruik).
 
-•	Het negatieve oordeel over de piano en de stuiterbal met staart wijst op het belang van gebruiksgemak en een prettige textuur.
 
-•	Ontwerpen moeten balans vinden tussen opvallendheid (voor aandacht) en praktisch gebruiksgemak (voor blijvend gebruik).
+## Develop 1
+### Doestellingen
+
+
+### Materiaal & methoden
+
+
+### Resultaten
 
 
 
@@ -254,6 +262,9 @@ In het afgelopen semester hebben we ons concept goed begrepen en zijn we erin ge
 Onze samenwerking was effectief, en de werklast was goed verdeeld, wat resulteerde in een prettige werkervaring. Deze evenwichtige werkhouding heeft ons geholpen om goede vooruitgangen te boeken. We hebben enkele belangrijke resultaten behaald, wat een positief teken is voor de manier waarop we samenwerkten en ideeën uitwisselden.
 Hoewel er tijds- en planningsproblemen waren, hebben we deze grotendeels kunnen vermijden of oplossen. Dit laat zien dat we in staat zijn om met uitdagingen om te gaan en tijdig aanpassingen te maken. Toch zouden we in de toekomst wellicht een meer gedetailleerde planning kunnen opstellen, zodat we vooraf beter kunnen anticiperen op mogelijke vertragingen en obstakels.
 Al met al was de voortgang van het project positief, en kijken we ernaar uit om de opgedane kennis verder uit te bouwen en toe te passen in het volgende semester. Het proces heeft ons waardevolle inzichten gegeven die we blijven meenemen in de verdere ontwikkeling van het product.
+
+
+
 
 
 ## Bijlagen
