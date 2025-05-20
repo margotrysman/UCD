@@ -221,11 +221,41 @@ Figuur 1. Opstelling met fidget objecten
 -	Ontwerpen moeten balans vinden tussen opvallendheid (voor aandacht) en praktisch gebruiksgemak (voor blijvend gebruik).
 
 
-## Develop 1
-### Doestellingen
+## Develop 1. Onderzoek naar het Ademhalings-principe
+### 1.1 Doestelling en methodologie
+Het doel van dit vooronderzoek is om te achterhalen hoe gebruikers de regelmatige druktoename en -afname rond hun pols ervaren, en in welke mate deze drukveranderingen effectief kunnen functioneren als begeleiding tijdens een ademhalingsoefening. Dit onderzoek vormt een eerste verkenning in de ontwikkeling van een tactiel feedbacksysteem voor ademhalingsbegeleiding.
+Het onderzoek bestond uit twee opeenvolgende onderdelen:
+1.	Deskresearch / benchmarkanalyse
+In een eerste fase werd een analyse uitgevoerd van bestaande ademhalingstechnieken aan de hand van drie selectiecriteria: wetenschappelijke onderbouwing, eenvoud in gebruik, en compatibiliteit met een drukgebaseerd systeem. Uit deze vergelijking kwamen drie geschikte kandidaten naar voren: 4-7-8 ademhaling, Box Breathing en Coherent Breathing. Box Breathing werd geselecteerd voor de gebruikerstest omwille van de regelmatige structuur en de potentieel goede afstemming op drukcycli.
+2.	Gebruikerstest met Box Breathing
+In de tweede fase werd een kwalitatieve gebruikerstest uitgevoerd met vier deelnemers (N=4). De deelnemers voerden de ademhalingsoefening uit terwijl ze begeleid werden door een prototype dat via druktoename en -afname ritmische feedback gaf rond de pols. De test werd opgezet volgens een Wizard-of-Oz-methodologie: de druk werd manueel opgewekt door de testbegeleider, terwijl de deelnemers hun ogen gesloten hielden om zich te concentreren op de sensaties.
+De gebruikerservaring werd geëvalueerd via de BERT-schaal, die 15 emotionele parameters meet (zoals kalmte, focus, energie), en werd aangevuld met kwalitatieve feedback over het comfort, de intensiteit van de druk, en de bruikbaarheid van het systeem.
+Deze aanpak laat toe om zowel de subjectieve beleving als de praktische haalbaarheid van drukgestuurde ademhalingsbegeleiding te onderzoeken, en vormt daarmee een onderbouwde basis voor verdere ontwikkeling en verfijning van het concept.
 
+### 1.2 Materiaal & methoden
 
-### Materiaal & methoden
+Technische configuratie
+In het kader van dit vooronderzoek werd een deskresearch uitgevoerd in de vorm van een benchmarkstudie naar bestaande en wetenschappelijk onderbouwde ademhalingstechnieken. De focus lag op technieken die zowel effectief zijn in stressreductie als praktisch toepasbaar met een druksysteem rond de pols.
+Op basis van deze analyse werden drie ademhalingstechnieken geselecteerd: 4-7-8 ademhaling, Box Breathing (4-4-4-4) en Coherent Breathing (5-5). Deze technieken vertonen duidelijke en gestructureerde ademhalingscycli, wat essentieel is voor de technische synchronisatie met het drukgebaseerde feedbacksysteem.
+De technische configuratie bestond uit een drukgestuurd systeem dat fysieke drukvariaties rond de pols kan genereren. Dit systeem werd ontworpen om druk op te bouwen tijdens inademing, stabiel te houden tijdens ademvasthouden, en weer af te bouwen tijdens uitademing, afhankelijk van het patroon van de geselecteerde ademhalingstechniek.
+De parameters van het systeem (zoals druksnelheid, intensiteit en cyclusduur) werden afgestemd op elk van de drie ademhalingstechnieken, om een zo nauwkeurig mogelijke begeleiding te bieden. Deze afstemming gebeurde op basis van literatuurgegevens en gesimuleerde ademhalingscycli, niet via gebruikerstesten.
+Deze technische voorbereiding legt de basis voor de testfase waarin het systeem in de praktijk wordt geëvalueerd op gebruiksgemak en effectiviteit in het begeleiden van ademhaling.
+
+Testprocedure / Gebruikstesten
+Voor deze gebruikstesten werd een low-fidelity prototype ingezet, bestaande uit elastieken met een sponsgedeelte dat rond de pols werd geplaatst. Door aan de zijkanten te trekken, kon manueel druk worden opgewekt – d.m.v. de wizard-of-oz-benadering konden deelnemers met gesloten ogen testten of druk als begeleiding voor ademhalingsoefeningen functioneel was.
+De test werd uitgevoerd met vier deelnemers. Zij beoordeelden hun toestand voor en na de oefening met behulp van de BERT-schaal (emotionele toestand van 1–5). De resultaten toonden een lichte tot duidelijke verschuiving naar meer ontspanning, kalmte en positiviteit, wat suggereert dat het drukmechanisme ondersteuning biedt bij ademregulatie.
+De kwalitatieve feedback was gemengd:
+-	Sommige deelnemers ervaarden de druk als positief en nuttig om het ademhalingsritme aan te houden.
+-	Anderen vonden de druk te zwak, te sterk of verwarrend; sommigen suggereerden trillingen als alternatief.
+-	Comfort, pasvorm en perceptie van veiligheid werden wisselend beoordeeld, waarbij aanpassing per gebruiker als belangrijk naar voren kwam.
+Belangrijke conclusies uit de testfase:
+-	Instelbaarheid is cruciaal: zowel drukniveau als pasvorm moeten aanpasbaar zijn voor optimale gebruikerservaring.
+-	Druksysteem functioneert als ademhalingsgids: ondanks variatie in voorkeur, bevestigden alle deelnemers dat het systeem hen hielp bij de ademhalingsoefening.
+-	Design requirements:
+--	Druk als ademhalingsbegeleiding
+-- Instelbare druksterkte
+--	Instelbare pasvorm van de band (volgens “flexibility in use”-principe)
+Deze testresultaten vormen een bevestiging van de potentie van het druksysteem, mits voldoende afgestemd op individuele behoeften.
 
 
 ### Resultaten
