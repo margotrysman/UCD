@@ -1,9 +1,9 @@
 # Pulse - Jouw stress, jouw ritme.
 *De anti-stressband voor het detecteren, communiceren en reguleren voor meer balans.* 
 
-*Projectteam: Rootsaert Selena; Rysman Margot*
+Projectteam: Rootsaert Selena; Rysman Margot
 
-08/01/2025
+*Datum van projectdeadline : 23/05/2025*
 
 ## Samenvatting
 Stress bij studenten in het hoger onderwijs is een vaak voorkomend probleem, zoals bleek uit literatuuronderzoek en enquêtes binnen de doelgroep. Studenten zullen vaak hun stress niet erkennen als een probleem en deze niet of op ongezonde wijze reguleren (Bouchrika, 2025). Wij zochten een oplossing die hoofdzakelijk stress detecteert en communiceert naar de gebruiker, om deze dan aan te sporen om de stress te reguleren. Om studenten wanneer nodig te wijzen op hun stress, bedachten wij een dagelijks draagbare band. De kernfuncties zijn dus **detecteren**, **communiceren** en **reguleren**.
@@ -19,15 +19,13 @@ De stress wordt gecommuniceerd naar de gebruiker dankzij de activatie van een dr
 
 
 ## Introductie
-Dit project richt zich op de ontwikkeling van een anti-stresspolsband die comfort, discretie en functionaliteit combineert. Het doel is om een product te creëren dat studenten ondersteunt bij stressverlichting en eenvoudig in hun dagelijks leven geïntegreerd kan worden. Tijdens dit proces stuiten we op vier hoofddesign-challenges:
+Dit project richt zich op de ontwikkeling van een anti-stresspolsband die comfort, discretie en functionaliteit combineert. Het doel is om een product te creëren dat studenten ondersteunt bij stressverlichting en eenvoudig in hun dagelijks leven geïntegreerd kan worden. 
 
-•	Comfort – Geschikt voor langdurig gebruik zonder irritatie.
-
-•	Discretie – Onopvallend ontwerp om sociale ongemakken te vermijden.
-
-•	Functionaliteit – Effectieve stressverlichting en eenvoudige bediening.
-
-•	Betaalbaarheid – Toegankelijk voor studenten.
+Tijdens dit proces stuiten we op vier hoofddesign-challenges:
+-	Comfort – Geschikt voor langdurig gebruik zonder irritatie.
+-	Discretie – Onopvallend ontwerp om sociale ongemakken te vermijden.
+-	Functionaliteit – Effectieve stressverlichting en eenvoudige bediening.
+-	Betaalbaarheid – Toegankelijk voor studenten.
 
 
 
@@ -92,12 +90,14 @@ Uit de literatuurstudie kwam heel wat info over het opmeten van stress, waarbij 
 
 
 ## Definition
-### Doestellingen
+### 1. Doelstellingen
+
 Het onderzoek richt zich in het eerste semester op het uitvoeren van uitgebreide tests binnen de doelgroep om een concreet beeld te verkrijgen van hun verwachtingen en behoeften voorafgaand aan de ontwikkeling van de eerste prototypes. Deze prototypes worden ontworpen op basis van kernwaarden en normen die via enquêtes binnen de doelgroep als relevant en belangrijk worden geïdentificeerd.
 
 De vastgestelde kernwaarden en normen vormen de basis voor richtlijnen die de belangrijkste testaspecten van het prototype definiëren. Het onderzoek functioneert als fundament voor het ontwerp en als leidraad voor het optimaliseren van de anti-stressfunctionaliteit. Daarnaast wordt prioriteit gegeven aan de meest cruciale ontwerpdoelen die bijdragen aan effectieve stressverlichting.
 
-### Materiaal & methoden
+### 2. Materiaal & methoden
+
 Dit onderzoek maakt hoofdzakelijk gebruik van enquêtes en een onderzoeksenquête, gevolgd door twee Waves die zich richten op de verdere analyse van de verzamelde gegevens. De Waves onderzoeken respectievelijk comfort, discretie en een extra fidgeting-feature voor de armband.
 
 De eerste enquête is ontworpen om inzicht te verkrijgen in de belangrijkste aspecten die de doelgroep als relevant beschouwt. Deze inzichten vormen de basis voor de tests binnen de Waves. De enquête is ontwikkeld in Google Forms en online verspreid via diverse sociale mediaplatformen. De resultaten worden verwerkt in Excel en anoniem geanalyseerd.
@@ -113,7 +113,7 @@ De steekproef voor de eerste enquête bestaat uit een vrijwillige groep vrienden
 > Toegang tot de website vindt u [hier](https://miro.com/app/board/uXjVLaELm6Q=/)
 
 
-### Resultaten
+### 3.Resultaten
 
 #### Hoofdpunten uit de Onderzoeksenquête (N = 18)
 
@@ -130,15 +130,13 @@ De steekproef voor de eerste enquête bestaat uit een vrijwillige groep vrienden
 <img src="https://github.com/user-attachments/assets/29a6e070-8c51-40dc-bcdf-ce19562f2906" width=50% height=50%>
 </p>
 
-
 **3. Gewenste Kenmerken en Gebruik**
+- 26% van de deelnemers gaf aan de band dagelijks te willen dragen, terwijl anderen dit vooral tijdens schooluren of examenperiodes nodig achten.
 -	Belangrijke kenmerken volgens de deelnemers: 
 1.	Comfort / Effectiviteit
 2.	Subtiel design
 3.	Betaalbaarheid.
 4.	Gebruiksgemak
-
-- 26% van de deelnemers gaf aan de band dagelijks te willen dragen, terwijl anderen dit vooral tijdens schooluren of examenperiodes nodig achten.
 
 **4. Comfort en Draagbaarheid**
 - Comfort werd door 2/3 van de deelnemers belangrijker gevonden dan functionaliteit of effectiviteit.
@@ -149,11 +147,10 @@ De steekproef voor de eerste enquête bestaat uit een vrijwillige groep vrienden
 </p>
  
 **5. Functionaliteit en Effectiviteit**
-
-o Deelnemers gaven voorkeur aan: 
-- Eenvoudige instructies
--	Wetenschappelijke onderbouwing van stress verlagende werking
--	Ademhalingsoefeningen en hartslagmonitoring als functies.
+- Deelnemers gaven voorkeur aan: 
+    - Eenvoudige instructies
+    - Wetenschappelijke onderbouwing van stress verlagende werking
+    - Ademhalingsoefeningen en hartslagmonitoring als functies.
 
 **6. Design en Discretie**
 -	Een subtiel design werd als must-have gezien door 20% van de deelnemers.
@@ -164,11 +161,16 @@ o Deelnemers gaven voorkeur aan:
 </p>
 
 
-**Conclusie**
+### 4. Conclusie
 
 De resultaten benadrukken dat comfort, effectiviteit en een subtiel design cruciale factoren zijn voor de acceptatie van de anti-stressband. Er is behoefte aan wetenschappelijk onderbouwde functies en eenvoudige instructies, terwijl opvallendheid en geluid als storend worden beschouwd. Deze inzichten vormen een sterke basis voor verdere ontwikkeling en testen van prototypes.
+- Het lage comfortniveau en de opvallendheid benadrukken de noodzaak van ontwerpaanpassingen.
+- Het falen van het klittenband en de noodzaak van een nieuw sluitmechanisme.
+- Aanbevelingen gericht op subtielere, comfortabelere en aantrekkelijkere ontwerpen zijn cruciaal voor toekomstige iteraties.
 
-
+-	De populariteit van de Rubik's Cube en de draaislang benadrukken het belang van mentale afleiding en veelzijdigheid in stressverminderende hulpmiddelen.
+-	Het negatieve oordeel over de piano en de stuiterbal met staart wijst op het belang van gebruiksgemak en een prettige textuur.
+-	Ontwerpen moeten balans vinden tussen opvallendheid (voor aandacht) en praktisch gebruiksgemak (voor blijvend gebruik).
 
 #### Hoofdpunten uit de Wave 1 (N = 5)
 
@@ -181,12 +183,6 @@ Uit de resultaten van de Wave 1-test komen de volgende hoofdpunten:
 - Dunner, verstelbaar en comfortabeler maken.
 - Een alternatief sluitmechanisme implementeren.
 - Meer aandacht voor esthetische aspecten zoals kleuren en stoffen.
-
-**Conclusie**
-- Het lage comfortniveau en de opvallendheid benadrukken de noodzaak van ontwerpaanpassingen.
-- Het falen van het klittenband en de noodzaak van een nieuw sluitmechanisme.
-- Aanbevelingen gericht op subtielere, comfortabelere en aantrekkelijkere ontwerpen zijn cruciaal voor toekomstige iteraties.
-
 
 #### Hoofdpunten uit de Wave 2 (N = 5)
 
@@ -214,59 +210,135 @@ Figuur 1. Opstelling met fidget objecten
 </p>
 
 
-**Conclusie**
-
--	De populariteit van de Rubik's Cube en de draaislang benadrukken het belang van mentale afleiding en veelzijdigheid in stressverminderende hulpmiddelen.
--	Het negatieve oordeel over de piano en de stuiterbal met staart wijst op het belang van gebruiksgemak en een prettige textuur.
--	Ontwerpen moeten balans vinden tussen opvallendheid (voor aandacht) en praktisch gebruiksgemak (voor blijvend gebruik).
-
 
 ## Develop 1. Onderzoek naar het Ademhalings-principe
 ### 1.1 Doestelling en methodologie
+
 Het doel van dit vooronderzoek is om te achterhalen hoe gebruikers de regelmatige druktoename en -afname rond hun pols ervaren, en in welke mate deze drukveranderingen effectief kunnen functioneren als begeleiding tijdens een ademhalingsoefening. Dit onderzoek vormt een eerste verkenning in de ontwikkeling van een tactiel feedbacksysteem voor ademhalingsbegeleiding.
 Het onderzoek bestond uit twee opeenvolgende onderdelen:
 1.	Deskresearch / benchmarkanalyse
 In een eerste fase werd een analyse uitgevoerd van bestaande ademhalingstechnieken aan de hand van drie selectiecriteria: wetenschappelijke onderbouwing, eenvoud in gebruik, en compatibiliteit met een drukgebaseerd systeem. Uit deze vergelijking kwamen drie geschikte kandidaten naar voren: 4-7-8 ademhaling, Box Breathing en Coherent Breathing. Box Breathing werd geselecteerd voor de gebruikerstest omwille van de regelmatige structuur en de potentieel goede afstemming op drukcycli.
 2.	Gebruikerstest met Box Breathing
 In de tweede fase werd een kwalitatieve gebruikerstest uitgevoerd met vier deelnemers (N=4). De deelnemers voerden de ademhalingsoefening uit terwijl ze begeleid werden door een prototype dat via druktoename en -afname ritmische feedback gaf rond de pols. De test werd opgezet volgens een Wizard-of-Oz-methodologie: de druk werd manueel opgewekt door de testbegeleider, terwijl de deelnemers hun ogen gesloten hielden om zich te concentreren op de sensaties.
+
 De gebruikerservaring werd geëvalueerd via de BERT-schaal, die 15 emotionele parameters meet (zoals kalmte, focus, energie), en werd aangevuld met kwalitatieve feedback over het comfort, de intensiteit van de druk, en de bruikbaarheid van het systeem.
+
 Deze aanpak laat toe om zowel de subjectieve beleving als de praktische haalbaarheid van drukgestuurde ademhalingsbegeleiding te onderzoeken, en vormt daarmee een onderbouwde basis voor verdere ontwikkeling en verfijning van het concept.
 
 ### 1.2 Materiaal & methoden
 
-Technische configuratie
+**Technische configuratie**
+
 In het kader van dit vooronderzoek werd een deskresearch uitgevoerd in de vorm van een benchmarkstudie naar bestaande en wetenschappelijk onderbouwde ademhalingstechnieken. De focus lag op technieken die zowel effectief zijn in stressreductie als praktisch toepasbaar met een druksysteem rond de pols.
+
 Op basis van deze analyse werden drie ademhalingstechnieken geselecteerd: 4-7-8 ademhaling, Box Breathing (4-4-4-4) en Coherent Breathing (5-5). Deze technieken vertonen duidelijke en gestructureerde ademhalingscycli, wat essentieel is voor de technische synchronisatie met het drukgebaseerde feedbacksysteem.
+
 De technische configuratie bestond uit een drukgestuurd systeem dat fysieke drukvariaties rond de pols kan genereren. Dit systeem werd ontworpen om druk op te bouwen tijdens inademing, stabiel te houden tijdens ademvasthouden, en weer af te bouwen tijdens uitademing, afhankelijk van het patroon van de geselecteerde ademhalingstechniek.
+
 De parameters van het systeem (zoals druksnelheid, intensiteit en cyclusduur) werden afgestemd op elk van de drie ademhalingstechnieken, om een zo nauwkeurig mogelijke begeleiding te bieden. Deze afstemming gebeurde op basis van literatuurgegevens en gesimuleerde ademhalingscycli, niet via gebruikerstesten.
+
 Deze technische voorbereiding legt de basis voor de testfase waarin het systeem in de praktijk wordt geëvalueerd op gebruiksgemak en effectiviteit in het begeleiden van ademhaling.
 
-Testprocedure / Gebruikstesten
+**Testprocedure / Gebruikstesten**
+
 Voor deze gebruikstesten werd een low-fidelity prototype ingezet, bestaande uit elastieken met een sponsgedeelte dat rond de pols werd geplaatst. Door aan de zijkanten te trekken, kon manueel druk worden opgewekt – d.m.v. de wizard-of-oz-benadering konden deelnemers met gesloten ogen testten of druk als begeleiding voor ademhalingsoefeningen functioneel was.
+
 De test werd uitgevoerd met vier deelnemers. Zij beoordeelden hun toestand voor en na de oefening met behulp van de BERT-schaal (emotionele toestand van 1–5). De resultaten toonden een lichte tot duidelijke verschuiving naar meer ontspanning, kalmte en positiviteit, wat suggereert dat het drukmechanisme ondersteuning biedt bij ademregulatie.
+
 De kwalitatieve feedback was gemengd:
 -	Sommige deelnemers ervaarden de druk als positief en nuttig om het ademhalingsritme aan te houden.
 -	Anderen vonden de druk te zwak, te sterk of verwarrend; sommigen suggereerden trillingen als alternatief.
 -	Comfort, pasvorm en perceptie van veiligheid werden wisselend beoordeeld, waarbij aanpassing per gebruiker als belangrijk naar voren kwam.
-Belangrijke conclusies uit de testfase:
+
+**Belangrijke conclusies uit de testfase**
+
 -	Instelbaarheid is cruciaal: zowel drukniveau als pasvorm moeten aanpasbaar zijn voor optimale gebruikerservaring.
 -	Druksysteem functioneert als ademhalingsgids: ondanks variatie in voorkeur, bevestigden alle deelnemers dat het systeem hen hielp bij de ademhalingsoefening.
--	Design requirements:
---	Druk als ademhalingsbegeleiding
--- Instelbare druksterkte
---	Instelbare pasvorm van de band (volgens “flexibility in use”-principe)
+- Design requirements:
+    - Druk als ademhalingsbegeleiding
+    - Instelbare druksterkte
+    - Instelbare pasvorm van de band (volgens “flexibility in use”-principe)
 Deze testresultaten vormen een bevestiging van de potentie van het druksysteem, mits voldoende afgestemd op individuele behoeften.
 
+### 1.3 Resultaten
 
-### Resultaten
+**Resultaten van de deskresearch naar ademhalingstechnieken**
+
+Tijdens de benchmarkanalyse werden vier ademhalingstechnieken geëvalueerd op basis van drie criteria: wetenschappelijke onderbouwing, eenvoud in gebruik, en compatibiliteit met een druksysteem. De analyse resulteerde in drie technieken die potentieel geschikt zijn voor gebruik met tactiele begeleiding:
+-	4-7-8 ademhaling: krachtig qua ontspanning, maar relatief lang ademinhouden, wat minder natuurlijk aanvoelt.
+-	Box Breathing (4-4-4-4): duidelijke, gestructureerde cyclus – eenvoudig te volgen en goed af te stemmen op ritmische druk.
+-	Coherent Breathing (5-5): vloeiend ritme zonder pauzes, goed voor hartslagregulatie, maar minder uitgesproken fasering voor drukvariatie.
+Box Breathing werd uiteindelijk geselecteerd als testtechniek, omdat het een helder ritme biedt dat zich goed laat synchroniseren met gelijkmatige druktoename en -afname.
+
+**Resultaten van de gebruikerstest (N=4)**
+
+De eerste gebruikerservaringen leverden een reeks inzichten op met betrekking tot de beleving van druk, het effect op de ademhaling en de gebruikscontext van het prototype.
+
+**Herkenbaarheid en bruikbaarheid van het ritme**
+- Meerdere deelnemers vonden het moeilijk om duidelijk onderscheid te maken tussen momenten mét en zonder druk:
+    “Ik vond het moeilijk momenten mét druk te onderscheiden van deze zonder.”
+- Anderen gaven aan dat meer druk of een duidelijker signaal (bijv. trilling) zou helpen om het ademritme te volgen:
+    “De grootste bron van concentratie zat in de pulsatie van de band – als dat sterker was, had het beter geholpen.”
+- Eén deelnemer stelde voor dat druk als begeleiding én als afleiding kan werken, afhankelijk van de intensiteit:
+    “Ik had liever geen druk. Het begeleidt wel, maar leidt ook af.”
+
+**Effect op stress/ontspanning en focus**
+- Alle deelnemers gaven aan dat het systeem wél hielp om zich te focussen op de ademhaling:
+    “De druk helpt om het tempo gelijk te houden – dat lukt minder goed met zelf tellen.”
+- De BERT-schaalresultaten toonden gematigde verbeteringen in gevoelens van kalmte, ontspanning en rust bij drie van de vier deelnemers.
+- De vierde deelnemer ervoer geen verschil, mede door discomfort van het prototype.
+
+**Gebruikservaring van het prototype**
+- Het prototype werd door één deelnemer als fysiek onaangenaam ervaren:
+    “Voelde alsof de bloeddoorstroming werd beperkt.”
+- Andere feedback wees op de belang van instelbaarheid van de druk en pasvorm:
+    “De druk mocht een stukje hoger zijn – ongeveer 30% extra.”
+    “De band voelde zacht aan en veilig. Geen gevangen gevoel.”
+
+### 1.4 Conclusie en implicaties
+
+De resultaten tonen aan dat een regelmatige druktoename en -afname effectief kan zijn als begeleiding bij ademhalingsoefeningen, mits de feedback duidelijk waarneembaar en comfortabel is. Alle deelnemers gaven afzonderlijk aan dat de druk hen hielp om ritme aan te houden, al verschilden hun voorkeuren qua intensiteit.
+Box Breathing bleek in de testsetting geschikt voor druksturing, dankzij het heldere en gelijkmatige ritme. De Wizard-of-Oz-opzet toonde aan dat tactiele feedback het ademproces kan ondersteunen, maar dat fysiek comfort en signaalsterkte bepalend zijn voor de acceptatie.
+
+**Designimplicaties en requirements**
+
+Op basis van de inzichten uit de gebruikerstest kunnen de volgende ontwerpvereisten worden afgeleid:
+- Design Requirements
+    - Tactiele feedback als begeleidend signaal voor ademhaling moet behouden blijven (positief ervaren effect).
+    - Instelbare drukintensiteit is noodzakelijk, omdat gebruikers sterk verschillen in gevoeligheid en voorkeur.
+    - Instelbare pasvorm (lengte/omtrek en materiaalcomfort) verhoogt gebruiksgemak en voorkomt fysieke hinder.
+    - Het systeem moet duidelijke drukveranderingen kunnen genereren die synchroon lopen met een ademritme (zoals 4-4-4-4).
+    - Alternatieve feedbackmodaliteiten (zoals trilling) kunnen onderzocht worden voor gebruikers die druk als storend ervaren.
+- Beslissingen op basis van deze test
+    - Druk als modaliteit wordt behouden in het verdere ontwerptraject.
+    - Box Breathing blijft voorlopig de standaard oefentechniek.
+    - De ontwikkeling van een instelbaar prototype (druk + pasvorm) wordt meegenomen in de volgende iteratie.
+    - Een meer gestandaardiseerde testopstelling wordt voorzien om de feedback nauwkeuriger te meten.
 
 
+
+## Develop 2. Wizard-testen van de Pneumatische Drukervaring
+### 2.1 Doestelling en methodologie
+
+### 2.2 Materiaal & methoden
+
+### 2.3 Resultaten
+
+### 2.4 Conclusie en implicaties
+
+
+## Develop 3. Materialen voor het Finaal Ontwerp
+### 3.1 Doestelling en methodologie
+
+### 3.2 Materiaal & methoden
+
+### 3.3 Resultaten
+
+### 3.4 Conclusie en implicaties
 
 
 ## Bill of materials
-Welke Materialen Heb Je Nu Nodig Voor Je Prototype?
-
-Voor het ontwikkelen en testen van het prototype volgend semester, kunnen de volgende materialen van pas komen:
+_Welke materialen heb je nodig voor verder ontwikkeling van het prototype in het tweede semester?_
 
 1.	EmotiBit-technologie: Voor het meten van elektrische pulsen en fysiologische signalen in het lichaam.
 2.	Wearables-materiaal: Flexibele stoffen, elastische banden, of textiel dat comfortabel en functioneel is. (Redelijke eigen voorraad, niet overdreven veel.)
@@ -284,10 +356,10 @@ Deze lijst blijft flexibel en kan worden aangevuld naarmate de prototypes en tes
 
 
 ## Kritische reflectie
-In het afgelopen semester hebben we ons concept goed begrepen en zijn we erin geslaagd veel relevante informatie te verzamelen. Zowel nieuwe als bevestigende inzichten hebben ons geholpen ons concept verder te verfijnen en de richting van het project te verduidelijken. Deze continue verzameling van gegevens heeft ons niet alleen geholpen bij de ontwikkeling van het product, maar heeft ook bijgedragen aan het stellen van prioriteiten voor de volgende fasen. We hebben informatie kunnen meenemen die in het volgende semester verder uitgewerkt zal worden, wat ons in staat stelt om voort te bouwen op de behaalde resultaten.
+_In het afgelopen semester hebben we ons concept goed begrepen en zijn we erin geslaagd veel relevante informatie te verzamelen. Zowel nieuwe als bevestigende inzichten hebben ons geholpen ons concept verder te verfijnen en de richting van het project te verduidelijken. Deze continue verzameling van gegevens heeft ons niet alleen geholpen bij de ontwikkeling van het product, maar heeft ook bijgedragen aan het stellen van prioriteiten voor de volgende fasen. We hebben informatie kunnen meenemen die in het volgende semester verder uitgewerkt zal worden, wat ons in staat stelt om voort te bouwen op de behaalde resultaten.
 Onze samenwerking was effectief, en de werklast was goed verdeeld, wat resulteerde in een prettige werkervaring. Deze evenwichtige werkhouding heeft ons geholpen om goede vooruitgangen te boeken. We hebben enkele belangrijke resultaten behaald, wat een positief teken is voor de manier waarop we samenwerkten en ideeën uitwisselden.
 Hoewel er tijds- en planningsproblemen waren, hebben we deze grotendeels kunnen vermijden of oplossen. Dit laat zien dat we in staat zijn om met uitdagingen om te gaan en tijdig aanpassingen te maken. Toch zouden we in de toekomst wellicht een meer gedetailleerde planning kunnen opstellen, zodat we vooraf beter kunnen anticiperen op mogelijke vertragingen en obstakels.
-Al met al was de voortgang van het project positief, en kijken we ernaar uit om de opgedane kennis verder uit te bouwen en toe te passen in het volgende semester. Het proces heeft ons waardevolle inzichten gegeven die we blijven meenemen in de verdere ontwikkeling van het product.
+Al met al was de voortgang van het project positief, en kijken we ernaar uit om de opgedane kennis verder uit te bouwen en toe te passen in het volgende semester. Het proces heeft ons waardevolle inzichten gegeven die we blijven meenemen in de verdere ontwikkeling van het product._
 
 
 
@@ -296,17 +368,26 @@ Al met al was de voortgang van het project positief, en kijken we ernaar uit om 
 ## Bijlagen
 [Rysman, M. (2024). Figma Documentatie](https://www.figma.com/design/LtIDMOVTxl9MOyyYGi2SfU/Discovery-Template?node-id=0-1&p=f&t=SKSGqrQCKlGA5WIU-0)
 
+**Definition**
+
 [Rootsaert, S. (2024). TestProtocol_Enquêtes.docx](https://github.com/user-attachments/files/19184604/Rootsaert.S.2024.TestProtocol_Enquetes.docx)
-
-[Rysman, M. (2024). TestProtocol_Wave 1.docx](https://github.com/user-attachments/files/19184577/Rysman.M.2024.TestProtocol_Wave.1.docx)
-
-[Rysman, M. (2024). TestProtocol_Wave 2.docx](https://github.com/user-attachments/files/19184549/Rysman.M.2024.TestProtocol_Wave.2.docx)
 
 [Rootsaert, S. (2025). TestRapport_Enquêtes.docx](https://github.com/user-attachments/files/18353525/Rootsaert.S.2025.TestRapport_Enquetes.docx)
 
+[Rysman, M. (2024). TestProtocol_Wave 1.docx](https://github.com/user-attachments/files/19184577/Rysman.M.2024.TestProtocol_Wave.1.docx)
+
 [Rysman, M. (2025). TestRapport_Wave 1.docx](https://github.com/user-attachments/files/18353523/Rysman.M.2025.TestRapport_Wave.1.docx)
 
+[Rysman, M. (2024). TestProtocol_Wave 2.docx](https://github.com/user-attachments/files/19184549/Rysman.M.2024.TestProtocol_Wave.2.docx)
+
 [Rootsaert, S. (2025). TestRapport_Wave 2.docx](https://github.com/user-attachments/files/18412461/Rootsaert.S.2025.TestRapport_Wave.2.docx)
+
+**Develop 1. Onderzoek naar het Ademhalings-principe**
+
+[Rysman M. (2025). TestProtocol_Ademhalingsoefeningen.docx](https://github.com/user-attachments/files/20355098/Rysman.M.2025.TestProtocol_Ademhalingsoefeningen.docx)
+
+[Rootsaert, S. & Rysman M. (2025). TestRapport_Ademhalingsoefeningen.docx](https://github.com/user-attachments/files/20355108/Rootsaert.S.Rysman.M.2025.TestRapport_Ademhalingsoefeningen.docx)
+
 
 ## Bronnen
 Bouchrika, I. (2025, 02 17). 50 Current Student Stress Statistics: 2025 Data, Analysis & Predictions. Opgehaald van Research.com: [https://research.com/education/student-stress-statistics](https://research.com/education/student-stress-statistics)
