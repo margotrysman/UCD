@@ -6,11 +6,11 @@
 08/01/2025
 
 ## Samenvatting
-Stress bij studenten in het hoger onderwijs is een vaak voorkomend probleem, zoals bleek uit literatuuronderzoek en enquêtes binnen de doelgroep. Studenten zullen vaak hun stress niet erkennen als een probleem en deze niet of op ongezonde wijze reguleren (Bouchrika, 2025). Wij zochten een oplossing die hoofdzakelijk stress detecteert en communiceert naar de gebruiker, om deze dan aan te sporen om de stress te reguleren. Om studenten wanneer nodig te wijzen op hun stress, bedachten wij een dagelijks draagbare band.
+Stress bij studenten in het hoger onderwijs is een vaak voorkomend probleem, zoals bleek uit literatuuronderzoek en enquêtes binnen de doelgroep. Studenten zullen vaak hun stress niet erkennen als een probleem en deze niet of op ongezonde wijze reguleren (Bouchrika, 2025). Wij zochten een oplossing die hoofdzakelijk stress detecteert en communiceert naar de gebruiker, om deze dan aan te sporen om de stress te reguleren. Om studenten wanneer nodig te wijzen op hun stress, bedachten wij een dagelijks draagbare band. De kernfuncties zijn dus **detecteren**, **communiceren** en **reguleren**.
 
 Om de stress te meten/detecteren kan, volgens [wetenschappelijke bronnen](https://docs.google.com/document/d/1ef2yBkqwWJlyRDE1RqdJjAGWaPkV0O_lZPxd1vCKUlo/edit?usp=sharing), gekeken worden naar Heart Rate Variability (HRV) en andere cardiovasculaire metingen, de huidgeleiding of galvanische huidreactie (GSR), de zweetproductie en de ademhaling. Hierbij vormen HRV en GSR de meest haalbare opties voor een comfortabel wearable product zoals onze band.
 
-De stress wordt gecommuniceerd naar de gebruiker dankzij de activatie van een druksysteem binnen de band. Deze zal kortstondig lichte druk uitvoeren rondom de pols. De bedoeling hiervan is om de gebruiker zowel te waarschuwen voor een mogelijk hoog stressniveau als te helpen bij het reguleren. De regelmatigheid van de toenemende druk is afgesteld om ademhalingsoefeningen en meditatie te faciliteren. Enkele externe fidget-opties zijn aanwezig voor stressregulatie. Door geen duidelijke, externe signalen te gebruiken wordt de stress eveneens niet opgemerkt door peers.
+De stress wordt gecommuniceerd naar de gebruiker dankzij de activatie van een druksysteem binnen de band. Deze zal kortstondig lichte druk uitvoeren rondom de pols. De bedoeling hiervan is om de gebruiker zowel te waarschuwen voor een mogelijk hoog stressniveau als te helpen bij het reguleren. De regelmatigheid van de toenemende druk is afgesteld om ademhalingsoefeningen en meditatie te faciliteren als regulatie. Enkele externe fidget-opties zijn ook aanwezig voor die stressregulatie. Door geen duidelijke, externe signalen te gebruiken wordt de stress eveneens niet opgemerkt door peers, een element van discretie dat voortvloeit uit de gebruikerinterviews.
 
 
 
@@ -51,17 +51,15 @@ Wave 1 en 2 werden verwerkt, waarna de belangrijkste conclusies gedocumenteerd w
 ## Discovery
 
 ### Doelstellingen
-Binnen de discovery fase worden twee key aspects onderzocht; de huidige stresservaring én regulatie bij studenten en methodes om stress op te meten én hun viabiliteit.
-Hieruit willen we kernzaken halen voor een eventuele band. Zo worden de prioriteiten van de gebruikers en hun dagelijkse situatie met én rond stress in kaart gebracht. Hieruit kunnen eventuele design requirements gehaald worden, maar hierbij moet opgelet worden. Wat de gebruiker communiceert is niet altijd wat de gebruiker nodig heeft.
+Binnen de discovery fase werden twee key aspects onderzocht; ten eerste de huidige stresservaring én regulatie bij studenten (leeftijdsgroep 18 - 26 jaar, opleiding aan een hogeschool of universiteit) en ten tweede de methodes om stress op te meten én hun levensvatbaarheid. Hieruit konden de initiële en belangrijkste design requirements gehaald worden. Zo werden de prioriteiten van de gebruikers en hun dagelijkse situatie met en rond stress in kaart gebracht. Bij het opstellen van de requirements moet opgelet worden; wat de gebruiker communiceert is niet altijd wat de gebruiker écht nodig heeft.
 
 ### Materiaal & methoden
-Voor het onderzoeken van de persoonlijke stresservaring en regulatie bij studenten werden één op één interviews afgelegd met drie gebruikers. Een uitgebreide vragenlijst werd opgesteld ([Testprotocol](https://docs.google.com/document/d/1m9y_HT0PP9yR4MpK4OtO-4zBzxmuj2iYiRpzdYWWuy8/edit?usp=sharing)). 
-Hiernaast werden de gebruikers toen ook gevraagd om een lijst met stress-regulatiemethodes een score te geven op tien en daarbij wat uitleg te geven.
-De aanpak voor het detecteren van stress werd uitgebreid onderzocht aan de hand van een literatuurstudie. Na de deskresearch werd nuttige informatie uit de bronnen gebundeld ([Research rapport](https://docs.google.com/document/d/1ef2yBkqwWJlyRDE1RqdJjAGWaPkV0O_lZPxd1vCKUlo/edit?usp=sharing)). Een korte zelfobservatie bij een drietal gebruikers vond plaats, waarbij gebruikers doorheen een normale dag hun stressniveau om het uur noteerden, alsook wat eventuele aanleidingen waren tot dat stressniveau. Dit werd bijgehouden in een [excel bestand](https://drive.google.com/drive/folders/10ZLLNr2E1S-gf8i5jfSdjV5VoQkpJsnI?usp=sharing) voor interpretatie na het onderzoek.
+Voor het onderzoeken van de persoonlijke stresservaring en regulatie bij studenten werden één op één interviews afgelegd met gebruikers (n=3). Een uitgebreide vragenlijst werd opgesteld ([Testprotocol](https://docs.google.com/document/d/1m9y_HT0PP9yR4MpK4OtO-4zBzxmuj2iYiRpzdYWWuy8/edit?usp=sharing)). 
+Hiernaast werden de gebruikers ook gevraagd om een lijst met stress-regulatiemethodes een score te geven op tien en daarbij wat uitleg te geven. Zo konden we een kwalitatief én kwantitatief beeld krijgen van de gebruikersinzichten. De aanpak voor het detecteren van stress werd uitgebreid onderzocht aan de hand van een literatuurstudie ([Research protocol](https://docs.google.com/document/d/1FPg1zNncCLuQZO5k8xZy8WWm9XjYQr1W6orEdRtz3Hg/edit?usp=sharing)). Na de deskresearch werd nuttige informatie uit de bronnen gebundeld ([Research rapport](https://docs.google.com/document/d/1ef2yBkqwWJlyRDE1RqdJjAGWaPkV0O_lZPxd1vCKUlo/edit?usp=sharing)). Een zelfobservatie bij een drietal gebruikers vond plaats over ongeveer 18 uur, waarbij gebruikers doorheen een normale dag hun stressniveau ieder uur noteerden, alsook wat eventuele aanleidingen waren tot dat stressniveau. Dit werd bijgehouden in een [excel bestand](https://drive.google.com/drive/folders/10ZLLNr2E1S-gf8i5jfSdjV5VoQkpJsnI?usp=sharing) voor interpretatie na het onderzoek.
 
 
 ### Resultaten
-De interviews werden samengevat in een [document](https://docs.google.com/document/d/1MAN8x3i6_KfycsWVkI5yPWbt-HdurXxOXEan5PYtpaQ/edit?usp=sharing), waarbij kernzaken duidelijk werden. Volgende tabel drukt de bekomen resultaten uit van de te beoordelen lijst regulatiemethodes;
+De interviews werden samengevat in een [document](https://docs.google.com/document/d/1MAN8x3i6_KfycsWVkI5yPWbt-HdurXxOXEan5PYtpaQ/edit?usp=sharing), waarbij kernzaken aangeduid werden. Volgende tabel drukt de bekomen resultaten uit van de te beoordelen lijst regulatiemethodes;
 
 | Methode | Maxime | Imke | Wannes | Gemiddelde |
 | ------- | ------ | ---- | ------ | ---------- |
@@ -78,21 +76,19 @@ De interviews werden samengevat in een [document](https://docs.google.com/docume
 | Muziek luisteren | 90 | 7.0 | 4.0 | 6.7 |
 
 
-Vanuit de literatuurstudie is een [lijst](https://docs.google.com/document/d/1ef2yBkqwWJlyRDE1RqdJjAGWaPkV0O_lZPxd1vCKUlo/edit?usp=sharing) opgesteld met de verschillende bronnen en hun kernzaken.
+Vanuit de literatuurstudie is een [lijst](https://docs.google.com/document/d/1ef2yBkqwWJlyRDE1RqdJjAGWaPkV0O_lZPxd1vCKUlo/edit?usp=sharing) opgesteld met de verschillende bronnen en de kernzaken.
+Fysiologische stress indicatoren, zoals Heart Rate Variability (HRV) en Galvanic Skin Response (GSR), kunnen objectief en realtime meten wanneer iemand onder stress staat. Deze worden al regelmatig in wearable producten voor het dagelijkse leven toegepast, vooral HRV. GSR is voorlopig vooral binnen een testomgeving te vinden. Het risico bij beide technologieën bestaat uit het opmeten van false positives; bij hevige activiteiten zoals sporten kan stress aangegeven worden zonder dat deze situatie effectief stress veroorzaakt. Omwille van dit risico wordt een mogelijkheid de respons van de band tijdelijk te deactiveren toegevoegd aan de design requirements.
 
-De resultaten van de observatie werden in het [report](https://docs.google.com/document/d/1ywnCh1OUR6VFYhxAaRdJZ6MEE3UrmM1PCRbBS-qphO4/edit?usp=sharing) gegroepeerd. Volgende grafiek werd ook gedestilleerd uit de data; 
+De resultaten van de zelfobservaties werden in een [report](https://docs.google.com/document/d/1ywnCh1OUR6VFYhxAaRdJZ6MEE3UrmM1PCRbBS-qphO4/edit?usp=sharing) gegroepeerd. Volgende grafiek vat de data nog eens samen; 
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/5ac3869f-06b6-4f62-a637-745f2df84b2d" width=50% height=50%>
 </p>
 
 ### Conclusies & implicaties
-Uit de interviews werd geconcludeerd dat stress reguleren een betere richting voor een product is dan het oplossen ervan/wegwerken van de oorzaken. Er is bij studenten een permanente druk aanwezig, die bij deadlines stevig kan verhogen. Regulatiemethodes combineren is optimaal, gezien de effectiviteit van singuliere oplossingen enorm persoonlijk variabel is.
-Toch komen fidgeting, meditatie en physical exercise boven als algemeen betere methodes.
+Uit de interviews werd geconcludeerd dat stress reguleren een betere richting is voor een product dan het oplossen ervan of het wegwerken van de oorzaken. Er is, zoals geconcludeerd kan worden uit de zelfobservaties, bij studenten een permanente druk aanwezig, stevig verhoogd bij deadlines. Regulatiemethodes combineren is optimaal, gezien de effectiviteit van singuliere oplossingen enorm persoonlijk variabel is. Toch komen fidgeting, meditatie/ademhalingsoefeningen en physical exercise boven als algemeen betere methodes. De testpersonen gaven ook aan dat het communiceren best geen extra (sociale) stress veroorzaakt door de omgeving van de gebruiker te tonen dat deze stress heeft.
 
-Uit de literatuurstudie kwam heel wat info over het opmeten van stress, waarbij de galvanische huidreactie (GSR) en de Heart Rate Variability (HRV) de meest nauwkeurige en haalbare oplossingen bleken.
-De observaties leerden ons dat er geen duidelijke correlatie bestaat tussen tijdstip en stressniveau. Een stress regulerend product kan bijgevolg doorheen de dag zijn nut bewijzen.
-Wel was het middageten een opvallend moment waarop het stressniveau steevast even daalde, alsook waren dode momenten risicovol voor een verhoogd stressniveau.
+Uit de literatuurstudie kwam heel wat info over het opmeten van stress, waarbij HRV en GSR de meest nauwkeurige en haalbare oplossingen bleken. De observaties leerden ons dat er geen duidelijke correlatie bestaat tussen tijdstip en stressniveau. Een stress regulerend product kan bijgevolg over de volledige dag zijn nut bewijzen. Toch viel op dat het middageten een vast moment is waarop het stressniveau even daalt, alsook dat dode momenten risicovol zijn voor een verhoogd stressniveau.
 
 
 ## Definition
@@ -114,7 +110,7 @@ De steekproef voor de eerste enquête bestaat uit een vrijwillige groep vrienden
 
 > Miro wordt gebruikt voor het opstellen van het Programma van Eisen (PvE), het structureren van creatieve oplossingen en het ondersteunen van de iteratieve ontwikkeling van Waves en prototypes.
 >
-> Toegang van de website vindt u [hier](https://miro.com/app/board/uXjVLaELm6Q=/)
+> Toegang tot de website vindt u [hier](https://miro.com/app/board/uXjVLaELm6Q=/)
 
 
 ### Resultaten
