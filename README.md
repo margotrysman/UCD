@@ -320,12 +320,68 @@ Op basis van de inzichten uit de gebruikerstest kunnen de volgende ontwerpvereis
 ## Develop 2. Wizard-testen van de Pneumatische Drukervaring
 ### 2.1 Doestelling en methodologie
 
+Na de positieve gebruikersreacties op de eerste drukgestuurde ademhalingsmodule (Develop 1), werd binnen deze tweede ontwikkelfase gefocust op de fysieke waarneming van de druk zelf: hoe voelt deze aan, hoe betrouwbaar is de feedback en welke parameters moeten eventueel worden bijgesteld?
+In deze fase werd de functionaliteit nagebootst via Wizard-of-Oz-testen, waarbij een externe operator het systeem deels manueel of semi-automatisch aanstuurt. Zo kan de ervaring voor de gebruiker realistisch gesimuleerd worden zonder dat alle technische componenten reeds volledig geïntegreerd zijn.
+De volgende vragen werden onderzocht;
+- Hoe wordt de pneumatische druk op de pols lichamelijk ervaren door gebruikers?
+- Wordt deze ervaring als positief of hinderlijk omschreven?
+- Zijn er specifieke parameters (druksterkte, ritme, locatie, bevestiging) die geoptimaliseerd moeten worden voor comfort en effectiviteit?
+
 ### 2.2 Materiaal & methoden
+
+Voor deze test werd een [protocol](https://docs.google.com/document/d/1es-rx0u1WYYqcwIwldhmrXZUwTVoZigD/edit?usp=sharing&ouid=115989647101377797411&rtpof=true&sd=true) geschreven om de correcte uitvoering te waarborgen.
+
+**Systeem en simulatie**
+- De prototype-armband bevatte één drukpocket, verbonden aan een externe luchtpomp bediend door de interviewer.
+- Tijdens de tests werd een regelmatig ritme van opblazen en leeglopen opgevoerd, gebaseerd op het Box Breathing tempo (4-4-4-4), zoals eerder toegepast.
+
+**Simulatie via Wizard-of-Oz (n=4)**
+- Gebruikers wisten dat het systeem deels handmatig werd aangestuurd, maar kregen de ervaring van een volledig werkend systeem.
+- Voor en na de test was er een korte vragenlijst, eerst bestaand uit de gestandaardiseerde Sensorial Material Scale en vervolgens uit een BERT-test met adjectieven die de ervaring konden beschrijven.
+Gedurende de actieve test werden de gebruikers gevraagd hun ervaringen luidop te delen, een zogenaamd thinking-out-loud protocol. Hierbij werd gevraagd te focussen op de fysieke ervaring, bijvoorbeeld hoe en waar het gevoel waargenomen werd.
+Nadien werden enkele beknopte vragen gesteld over de ervaring, als deze nog niet beantwoord waren gedurende het thinking-out-loud protocol.
+- Testduur: ±15 minuten per deelnemer
+
+**Evaluatiecriteria**
+- **Waarnemingsdrempel**: is de druk voldoende voelbaar?
+- **Comfort**: is het aangenaam of storend bij langdurig dragen?
+- **Begrijpelijkheid**: herkent men het ritme? Kan men het koppelen aan ademhaling?
+- **Verstorende elementen**: aanwezigheid van hinder (geluid, verplaatsing, wrijving...)
+
 
 ### 2.3 Resultaten
 
+De resultaten van de testen geven een genuanceerd beeld :
+**Waarneming en interpretatie**
+- **Alle 4 deelnemers merkten de druk duidelijk op** en konden zonder instructie herkennen dat het ging om een ademhalingsritme
+- De **pneumatische respons werd omschreven als “aanwezig, maar subtiel genoeg”**, wat aansluit bij het streven naar discrete ondersteuning
+- Gebruikers volgden het ritme spontaan, maar gaven aan dat **een eerste introductie of korte uitleg de interpretatie zou vergemakkelijken**
+
+**Comfort en techniek**
+- De druk zelf werd positief ervaren, maar **het bevestigingssysteem (sluiting van de armband)** werd als minder comfortabel aangeduid, zeker bij langdurig dragen
+- Er was **een lichte variatie in het ritme**, wat bij sommige gebruikers tot verwarring leidde. Een **constante, voorspelbare cadans** werd als wenselijk genoemd voor mentale focus
+- Geluid en trilling van de pomp zelf waren **licht storend wanneer deze dicht bij de pols zat bevestigd**
+
+ Deze resultaten werden ook gebundeld in een [testrapport](https://docs.google.com/document/d/1_s10wYZFuOhpQ8mF8J495njWrHzrgpJ9/edit?usp=sharing&ouid=115989647101377797411&rtpof=true&sd=true).
+
 ### 2.4 Conclusie en implicaties
 
+| **Aspect** | **Resultaat** | **Aanbeveling** |
+| ---------- | ------------- | --------------- |
+| Drukwaarneming | Voldoende voelbaar, intuïtief | Geen verhoging nodig, maar druk mag niet variëren zonder reden |
+| Ritme | Herkend, maar soms inconsistent | Constante timing met foutmarge <5% noodzakelijk [→ meetbaar maken?] |
+| Comfort | Druk oké, sluitingssysteem minder | Verbetering in sluiting en positionering van drukpockets |
+| Auditieve feedback | Pomp hoorbaar bij nabije montage | Geluiddemping en/of afstand tussen pomp en polscomponent |
+
+De Wizard-testen bevestigen dat :
+- De **drukwerking als fysiek signaal goed werkt** bij studenten in de doelgroep
+- De beleving **afhankelijk is van nauwkeurige ritme-aansturing en comfortabele plaatsing**
+- Er **technische verfijning** nodig is in sluiting, luchtaanvoer en ritmische controle
+  
+ Aanbevolen vervolgacties zijn :
+- Ontwikkeling van een **stiller en compacter pompmechanism**
+- Ontwerp van een **meer ergonomische en stabiele sluiting** (klittenband? magneet? zachte elastiek?)
+- Integratie van **ritmecontrole via microcontroller** i.p.v. handmatige aansturing
 
 ## Develop 3. Materialen voor het Finaal Ontwerp
 ### 3.1 Doestelling en methodologie
