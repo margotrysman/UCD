@@ -544,6 +544,19 @@ Al met al was de voortgang van het project positief, en kijken we ernaar uit om 
 
 [Rootsaert, S. & Rysman M. (2025). TestRapport_Ademhalingsoefeningen.docx](https://github.com/user-attachments/files/20355108/Rootsaert.S.Rysman.M.2025.TestRapport_Ademhalingsoefeningen.docx)
 
+**Develop 2. Wizard-testen van de Pneumatische Drukervaring**
+
+[Rysman, M. (2025). TestProtocol_SensoryExperience](https://docs.google.com/document/d/1es-rx0u1WYYqcwIwldhmrXZUwTVoZigD/edit?usp=sharing&ouid=115989647101377797411&rtpof=true&sd=true)
+
+[Rootsaert, S. (2025). TestRapport_Sensory_Experience](https://docs.google.com/document/d/1_s10wYZFuOhpQ8mF8J495njWrHzrgpJ9/edit?usp=sharing&ouid=115989647101377797411&rtpof=true&sd=true)
+
+**Develop 3. Materialen voor het Finaal Ontwerp**
+
+[Rootsaert, S. (2025). TestProtocol_Materials](https://docs.google.com/document/d/1wQL_PRIBQPZqBPOBRoM76Zd6KomGRCil/edit?usp=sharing&ouid=115989647101377797411&rtpof=true&sd=true)
+
+[Rootsaert, S. (2025). TestRapport_Materials](https://docs.google.com/document/d/1cDfT-LYVkv5igQ4mVNYEJPr5tTsrSnZ1/edit?usp=sharing&ouid=115989647101377797411&rtpof=true&sd=true)
+
+[Rootsaert, S. (2025). TestRapport_BenchmarkAnalyse](https://docs.google.com/document/d/11xXl2ECvqIbWMdYhlkYMq-jMgEbhu_Dn/edit?usp=sharing&ouid=115989647101377797411&rtpof=true&sd=true)
 
 ## Bronnen
 Bouchrika, I. (2025, 02 17). 50 Current Student Stress Statistics: 2025 Data, Analysis & Predictions. Opgehaald van Research.com: [https://research.com/education/student-stress-statistics](https://research.com/education/student-stress-statistics)
