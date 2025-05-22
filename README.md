@@ -398,9 +398,99 @@ De volgende onderzoeksvragen stonden centraal doorheen deze wave van gebruikerso
 
 ### 3.2 Materiaal & methoden
 
+In dit onderzoek wordt onderzocht welke materialen het meest geschikt zijn voor het vervaardigen van een comfortabele, duurzame en onderhoudsvriendelijke polsband, specifiek gericht op dagelijks gebruik door studenten. Het protocol bestaat uit twee luiken:
+
+1. Een benchmarkanalyse van veelgebruikte materialen in bestaande wearables;
+--> Hierin wordt een markt analyse gedaan naar de meest gebruikte materialen in pols-wearables en verder onderzoek naar de top 3 tot 5 antwoorden.
+2. Een gebruikerstest waarin deelnemers via zintuiglijke evaluatie de materialen beoordelen op comfort en voorkeur.
+--> Hierin zullen de veel voorkomende materialen uit de marktanalyse worden getest bij het doelpubliek.
+--> Hierbij zal elke deelnemer kreeg de kans om (eerst geblinddoekt, daarna zichtbaar) de materialen te voelen met de onderarm of pols.
+
+Voor beide testen werd een [protocol](https://docs.google.com/document/d/1wQL_PRIBQPZqBPOBRoM76Zd6KomGRCil/edit?usp=sharing&ouid=115989647101377797411&rtpof=true&sd=true) uitgeschreven.
+
+   
+**Gebruikersevaluatie en observatie**
+- Gebruikers (n=5) kregen verschillende armbandprototypes in de bovengenoemde materialen
+- De nadruk lag op **gevoel bij aanraking, gewicht, pasvorm, ademend vermogen en visuele voorkeuren**
+- Evaluatie via een **vragenlijst met Likert-schalen**, open vragen en scenario’s (“Wat zou je dragen in de les / tijdens het sporten / op een presentatie?”)
+
+  
+Een kwalitatieve inhoudsanalyse werd toegepast op de data, aangevuld met een eenvoudige semantische waarderingsschaal. Door semi-kwanitatief de opties te beoordelen, kunnen deze systematisch vergeleken worden om inzicht te krijgen in de algemenere voorkeuren van de gebruikers.
+
+Bij deze gebruikerstest werd een bord met de verschillende materiaalkeuzes gebruikt;
+Het bord bevat zes verschillende stalen, waaronder vier textielstalen en twee alternatieve materialen (siliconen en leer). De textielstalen zijn gelabeld volgens drie criteria: **draaddichtheid**, **structuur / bindingstype**, en **luchtdoorlaatbaarheid** (gescoord op 5-puntenschaal).
+
+| **Staalomschrijving** | **Draaddichtheid** | **Structuur/Bindingstype** | **Luchtdoorlaatbaarheid** |
+| ----------------- | -------------- | ---------------------- | --------------------- |
+| Rood/oranje stof (breisel) | 1 | 2 | 4 |
+| Lichtgrijze stof (grove platbinding) | 2 | 2 | 4 |
+| Paarse stof (platbinding) | 3 | 3 | 3 |
+| Lichtblauwe stof (keperbinding) | 4 | 4 | 2 |
+| Siliconen strip (antislip en geen antislip) | *n.v.t.* | *n.v.t.* | *n.v.t.* |
+| Leren staaltje | *n.v.t.* | *n.v.t.* | *n.v.t.* |
+
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/8ffd2c2b-26b4-469d-9586-6181a1caff68">
+<p align="center">
+Figuur 2. Opstelling met verschillende stalen
+</p>
+
 ### 3.3 Resultaten
 
+Door middel van een marktanalyse naar verschillende merken van horloges, armband en overige soortgelijke bronnen, werden de volgende materialen gebruikt om verder uit te werken in de benchmark-analyse : siliconen, nylon, leer en verschillende metalen (edelstaal, titanium, Milanees geweven).
+Hieruit volgde onderstaande tabel:
+
+| **Materiaal** | **Comfort** | **Duurzaamheid** | **Gebruiksgemak** | **Opmerkingen** |
+| ------------- | ----------- | ---------------- | ----------------- | --------------- |
+| Siliconen | 5 | 4 | 4 | 5 | 4.5 | Zeer comfortabel, flexibel, zweet- en waterbestendig; gevoelig voor verkleuring en haarscheurtjes. |
+| Nylon | 4.5 | 4 | 3.5 | 5 | 4.25 | Licht, ademend, sterk; iets minder stijlvol voor formele settings. |
+| Leer | 3.5 | 3 | 5 | 3.5 | 3.75 | Luxe uitstraling, maar gevoelig voor zweet en temperatuur; lorica biedt verbetering.|
+| Metaal (Staal) | 3 | 5 | 4.5 | 3 | 3.88 | Duurzaam en elegant, maar zwaar; minder comfortabel voor sport. |
+| Metaal (Titanium) | 4 | 5 | 4.5 | 4 | 4.38 | Licht, hypoallergeen en zeer sterk; duurder. |
+| Metaal (Milanees) | 4 | 4.5 | 5 | 4 | 4.38 | Elegant én comfortabel; goed ademend dankzij geweven structuur. |
+
+Op basis van deze dat kunnen we een voorlopige hypothese stellen naar aanleiding van de gebruikerstest : 
+- Beste algemene keuze voor studenten: Siliconen en Nylon scoren het hoogst op comfort en praktisch gebruik.
+- Beste voor stijl en langdurig gebruik: Titanium en Milanees metaal combineren duurzaamheid met comfort en esthetiek.
+- Leder is aantrekkelijk qua uitstraling, maar minder geschikt voor dagelijks intensief gebruik zonder speciale afwerking (zoals lorica).
+
+Volledige technische details, met aanvullende marktanalyse, zijn terug te vinden in het [onderzoeksrapport](https://docs.google.com/document/d/1cDfT-LYVkv5igQ4mVNYEJPr5tTsrSnZ1/edit?usp=sharing&ouid=115989647101377797411&rtpof=true&sd=true)
+
+De scores die de gebruikers gaven tijdens de test met de verschillende materialen zijn uitgezet in deze tabel;
+
+| Nr. |              Materiaal              | Comfort |    |    |    | Hygiëne |    |    |    | Elasticiteit |   |   |   | Visueel |    |   |   | Totaalscore |
+|:---:|:-----------------------------------:|:-------:|:--:|:--:|:--:|:-------:|:--:|:--:|:--:|:------------:|:-:|:-:|:-:|:-------:|:--:|:-:|:-:|:-----------:|
+|   1 | Rode, gebreide stof                 |      -1 |  1 |  1 |  1 |      -1 |  0 | -1 |  0 |            0 | 0 | 0 | 0 |       1 |  1 | 0 | 1 |           3 |
+|   2 | Grijs/licht roos, grove platbinding |      -1 |  1 |  1 |  1 |      -1 |  1 |  1 |  1 |            0 | 0 | 0 | 0 |       0 |  1 | 0 | 0 |           5 |
+|   3 | Paarse, platbinding stof            |      -1 |  0 |  0 |  0 |      -1 |  0 |  0 |  0 |            0 | 0 | 0 | 0 |       0 |  0 | 0 | 0 |          -2 |
+|   4 | Blauw/groene, keperbinding stof     |       0 |  0 |  0 | -1 |      -1 | -1 |  0 |  0 |            1 | 0 | 0 | 0 |       0 |  1 | 0 | 0 |          -1 |
+|  5a | Doorzichtige, antislip silicone     |      -1 | -1 | -1 |  1 |      -1 | -1 | -1 |  1 |            0 | 0 | 0 | 1 |      -1 | -1 | 0 | 1 |          -4 |
+|  5b | Roze, geen antislip silicone        |      -1 | -1 |  0 |  0 |      -1 | -1 | -1 |  0 |            0 | 0 | 0 | 0 |      -1 | -1 | 0 | 0 |          -7 |
+|   6 | Lederen stof                        |       1 |  1 |  0 |  1 |       0 | -1 |  0 | -1 |           -1 | 0 | 0 | 0 |       1 |  1 | 1 | 1 |           4 |
+
+Een volledige analyse van de resultaten zijn te vinden in het [Rapport](https://docs.google.com/document/d/11xXl2ECvqIbWMdYhlkYMq-jMgEbhu_Dn/edit?usp=sharing&ouid=115989647101377797411&rtpof=true&sd=true).            
+
 ### 3.4 Conclusie en implicaties
+
+Uit deze testen kwamen stoffen zoals de stof met grove platbinding (n° 2) bovenaan uit, dankzij de huidvriendelijkheid en hoog comfort. Materialen zoals beide varianten silicone (n°5) waren minder geliefd door hun eerder plakkerig gevoel en de slechte zweetgevoeligheid. Op esthetisch vlak was leer duidelijk populair, maar door de functionele nadelen zoals de mogelijke irritatie bij zweet en de slechte ventilatie wordt deze optie niet gekozen.
+
+Een antwoord werd gevormd op alle eerder gestelde onderzoeksvragen;
+***Welke materialen zijn optimaal voor langdurig gebruik van een polsband bij dagelijks gebruik door hogeschool- en universiteitsstudenten?***
+De grove platbinding (nr. 2) blijkt het meest geschikt op basis van een evenwicht tussen comfort, bruikbaarheid en hygiëne. Het materiaal werd als zacht ervaren zonder te slap of vormloos te zijn, en gaf minder aanleiding tot irritatie of vuilopname.
+
+***Welke materialen worden door gebruikers als comfortabel en geschikt ervaren?***
+- **Comfortabel**: Nr. 1 (gebreide stof), nr. 2 (grove platbinding), nr. 6 (leer).
+- **Geschikt**: Nr. 2 wordt het vaakst genoemd als praktisch en comfortabel. Nr. 6 wordt eerder gekozen voor visuele aantrekkingskracht of als buitenlaag.
+- **Ongeschikt**: Silicone (vooral nr. 5a) werd unaniem als onaangenaam ervaren bij langdurig huidcontact.
+ 
+***In hoeverre overlappen de resultaten van benchmarkanalyses en gebruikerstesten om tot een optimaal materiaaladvies te komen?***
+De gebruikerservaringen komen sterk overeen met bevindingen uit eerder uitgevoerde benchmarkstudies waarin ademend vermogen, huidvriendelijkheid en esthetiek centraal stonden. Stoffen met een grove of gestructureerde binding scoren in beide domeinen goed. Siliconematerialen blijven technisch interessant omwille van grip en waterbestendigheid, maar missen het comfort dat gebruikers vereisen bij langdurig dragen. Leer wordt als premium ervaren, maar is niet water- of zweetbestendig genoeg voor dagelijks gebruik zonder verdere verwerking of coating.
+
+**Aanbevelingen voor verdere testopstellingen of materiaalontwikkeling voor een eventueel eindproduct**
+- **Materiaalcombinaties**: Overweeg het ontwikkelen van een meerlaagse band, met bijvoorbeeld een zachte binnenlaag (nr. 2 of nr. 1) en een visueel aantrekkelijke buitenlaag (leer of silicone) mits verbeterde ademing.
+- **Aanvullende testen**: Real-life gebruikssimulaties over langere tijd kunnen verdere inzichten bieden (bv. polsband dragen tijdens een schooldag).
+- **Sensorische validatie**: Geur, slijtage en thermische reacties op transpiratie kunnen extra testparameters zijn.
+- **Testopstelling optimaliseren**: Uit de korte feedbackronde blijkt dat deelnemers de testopstelling inhoudelijk interessant en prikkelend vonden. Enkele deelnemers gaven aan dat de eerste stap – het blind of ongeleid voelen van de materialen – wat ongemakkelijk aanvoelde. In de toekomst kan dit gesitueerd of begeleid worden met meer visuele of functionele voorbeelden (bv. prototypes of draagbare testbanden).
 
 
 ## Bill of materials
