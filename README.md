@@ -386,6 +386,16 @@ De Wizard-testen bevestigen dat :
 ## Develop 3. Materialen voor het Finaal Ontwerp
 ### 3.1 Doestelling en methodologie
 
+In deze derde ontwikkelfase ligt de focus op het bepalen van het meest geschikte materiaal voor de armband in het finale ontwerp. Dit materiaal moet voldoen aan drie hoofdcriteria:
+1. **Draagcomfort** bij langdurig gebruik (min. 6–8 uur per dag)
+2. **Functionele compatibiliteit** met de pneumatische drukcomponenten
+3. **Esthetische en situationele geschiktheid** (formeel vs. informeel gebruik)
+Aan de hand van een combinatie van benchmarks, marktanalyses en gebruikerstesten werden diverse materiaalopties geëvalueerd.
+De volgende onderzoeksvragen stonden centraal doorheen deze wave van gebruikersonderzoek;
+- Welke materialen zijn optimaal voor langdurig gebruik van een polsband bij dagelijks gebruik door hogeschool- en universiteitsstudenten?
+- Welke materialen worden door gebruikers als comfortabel en geschikt ervaren?
+- In hoeverre overlappen de resultaten van benchmarkanalyses en gebruikerstesten om tot een optimaal materiaaladvies te komen?
+
 ### 3.2 Materiaal & methoden
 
 ### 3.3 Resultaten
