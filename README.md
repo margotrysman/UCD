@@ -525,6 +525,37 @@ Leer (n°5) en de rode, gebreide stof (n°1) komen er uit als de visueel meeste 
 - **Testopstelling optimaliseren**: Uit de korte feedbackronde blijkt dat deelnemers de testopstelling inhoudelijk interessant en prikkelend vonden. Enkele deelnemers gaven aan dat de eerste stap – het blind of ongeleid voelen van de materialen – wat ongemakkelijk aanvoelde. In de toekomst kan dit gesitueerd of begeleid worden met meer visuele of functionele voorbeelden (bv. prototypes of draagbare testbanden).
 
 
+## Conclusie
+
+Na een zorgvuldig doorlopen ontwikkeltraject met drie iteratieve fases is een concreet, maar theoretisch, prototype gerealiseerd dat inspeelt op de nood aan discrete, tactiele stressregulatie bij studenten. Dit prototype combineert biofeedbacktechnologie met draagcomfort en een visueel neutraal ontwerp, en biedt een intuïtieve ondersteuning bij ademhalings- en stressreductietechnieken in het dagelijks leven.
+
+Het ontwerp maakt gebruik van een modulaire GSR-sensor, een programmeermodule voor luchtdrukregeling en een meerlagige polsband die comfort, bescherming en discretie samenbrengt. De keuze om afstand te nemen van grote of dure componenten, zoals de EmotiBit, maakte het mogelijk om te focussen op gebruiksvriendelijkheid en betaalbaarheid.
+
+De volgende strategische ontwerpbeslissingen speelden hierin een sleutelrol:
+- De vervanging van EmotiBit door lichtere en goedkopere GSR-modules;
+- De toepassing van een lederlook buitenlaag met een zachte, elastische voering voor comfort en esthetiek;
+- De integratie van een silicone tussenlaag voor waterbescherming en structurele stabiliteit;
+- Het gebruik van programmable air als vorm van ritmische, non-invasieve feedback;
+- Een mechanisch eenvoudig ontwerp, gericht op essentiële functionaliteit: een sensor, luchtsysteem, magnetische sluiting en een aan/uitknop.
+
+Deze keuzes vertalen zich in een ontwerp dat technisch realiseerbaar, ergonomisch verantwoord en klaar voor verdere validatie is. Het systeem sluit aan bij de leefwereld van studenten en is ontworpen met oog op schaalbaarheid en langetermijngebruik.
+
+
+| Nr | Eisen                            | Omschrijving                                                                    | Prioriteit |
+|----|----------------------------------|----------------------------------------------------------------------------------|------------|
+| 1  | Comfortabele draagbaarheid       | Zachte binnenstof, elastisch en huidvriendelijk, geschikt voor langdurig dragen | **Hoog**   |
+| 2  | Visueel neutraal design          | Discrete lederlook band geschikt voor dagelijks gebruik                         | Midden     |
+| 3  | Real-time biofeedback            | Feedback via luchtkussen dat opblaast bij verhoogde stresssignalen              | **Hoog**   |
+| 4  | Huidvriendelijke sensor          | GSR-sensor met kleefpads of geïntegreerde contactpunten, zonder irritatie       | **Hoog**   |
+| 5  | Water- en stofdichte bescherming | Silicone behuizing beschermt elektronica zonder volumetoename                   | Midden     |
+| 6  | Modulaire elektronica            | Arduino-gebaseerd, eenvoudig vervangbaar of aanpasbaar                          | Midden     |
+| 7  | Lage kostprijs per eenheid       | Gericht op haalbaarheid voor studenten (max. ± €100 per prototype)              | **Hoog**   |
+| 8  | Mechanische eenvoud              | Enkel aan/uitknop en magnetische sluiting, geen overbodige mechaniek            | **Hoog**   |
+| 9  | Draadloze connectiviteit         | Optioneel, via Bluetooth of Wi-Fi                                               | Laag       |
+| 10 | Veilige energievoorziening       | Li-Po batterij met beveiliging, makkelijk vervangbaar                           | Midden     |
+
+
+
 ## Technische beschrijving
 Deze technische beschrijving vervangt de traditionele Bill of Materials en omvat de finale materiaalkeuze, sensoren, elektronica, softwarecode en instructies voor assemblage. Het doel is om anderen in staat te stellen het prototype zelfstandig na te bouwen of verder te ontwikkelen.
 
