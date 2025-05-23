@@ -337,6 +337,12 @@ Deze vragen zijn cruciaal om te kijken welke impact de druk zou hebben op de geb
 Voor deze test werd een [protocol](https://docs.google.com/document/d/1es-rx0u1WYYqcwIwldhmrXZUwTVoZigD/edit?usp=sharing&ouid=115989647101377797411&rtpof=true&sd=true) geschreven om de correcte uitvoering te waarborgen.
 Hieronder een korte(re) uitleg over die werking.
 
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/b6a0b4ef-7f3f-4703-969c-c03263613705">
+<p align="center">
+Figuur 2. Werkend prototype (met groot slot)
+</p>
+
 **Werking Wizard-of-Oz test**
 
 - De prototype-armband bevatte één **luchtkussentje**, in realiteit een kleine ballon, die verbonden werd aan een externe luchtpomp bediend door de interviewer.
@@ -347,44 +353,44 @@ Hieronder een korte(re) uitleg over die werking.
 - Nadien werden enkele **beknopte vragen** gesteld over de ervaring, als deze nog niet beantwoord waren gedurende het thinking-out-loud protocol.
 - Testduur: ±**10 minuten** per deelnemer
 
+<p align="left">
+ <img src="https://github.com/user-attachments/assets/7b00e75e-0578-451d-a282-b2ef895036ca" width="350">
+<p align="left">
+Figuur 3. Prototype vóór opblazen (klein slot)
+<p align="right">
+ <img src="https://github.com/user-attachments/assets/7b00e75e-0578-451d-a282-b2ef895036ca" width="350">
+<p align="right">
+Figuur 4. Prototype na opblazen (klein slot)
 
-**Evaluatiecriteria**
+Gedurende de test werden de vragen op volgende vlakken, afgeleid van de onderzoeksvragen, gefocust;
 - **Waarnemingsdrempel**: is de druk voldoende voelbaar?
 - **Comfort**: is het aangenaam of storend bij langdurig dragen?
 
 ### 2.3 Resultaten
 
-De resultaten van de testen geven een genuanceerd beeld :
+De test werd uitgevoerd met een steekproef (n=4). De volgende resultaten werden bekomen;
+
 **Waarneming en interpretatie**
 - **Alle 4 deelnemers merkten de druk duidelijk op** en konden zonder instructie herkennen dat het ging om een ademhalingsritme
 - De **pneumatische respons werd omschreven als “aanwezig, maar subtiel genoeg”**, wat aansluit bij het streven naar discrete ondersteuning
-- Gebruikers volgden het ritme spontaan, maar gaven aan dat **een eerste introductie of korte uitleg de interpretatie zou vergemakkelijken**
+- Gebruikers volgden het ritme spontaan, maar gaven aan dat een **eerste introductie of korte uitleg de interpretatie zou vergemakkelijken**. 
 
 **Comfort en techniek**
-- De druk zelf werd positief ervaren, maar **het bevestigingssysteem (sluiting van de armband)** werd als minder comfortabel aangeduid, zeker bij langdurig dragen
-- Er was **een lichte variatie in het ritme**, wat bij sommige gebruikers tot verwarring leidde. Een **constante, voorspelbare cadans** werd als wenselijk genoemd voor mentale focus
-- Geluid en trilling van de pomp zelf waren **licht storend wanneer deze dicht bij de pols zat bevestigd**
+- Het **aansluiten van de band** ging voor sommigen vlot met één hand, voor anderen minder. Het slotje zelf was bij het gebruikte prototype voor de test te groot, maar bij het zien van het tweede prototype met een **kleiner slot** gaven gebruikers aan dat dit oké was.
+- Er was **een lichte variatie in het ritme**, wat bij sommige gebruikers tot verwarring leidde. Een constante, voorspelbare cadans werd als wenselijk genoemd voor mentale focus
+- De **positionering van het luchtkussen tegenover het slot** was niet ideaal, het slot zat aan de zijkant van de pols als het kussen onderaan zat. Dit zou beter elk aan een kant van de pols zijn, boven en onder.
 
- Deze resultaten werden ook gebundeld in een [testrapport](https://docs.google.com/document/d/1_s10wYZFuOhpQ8mF8J495njWrHzrgpJ9/edit?usp=sharing&ouid=115989647101377797411&rtpof=true&sd=true).
+
+ Deze resultaten werden ook gebundeld in een [testrapport](https://docs.google.com/document/d/1_s10wYZFuOhpQ8mF8J495njWrHzrgpJ9/edit?usp=sharing&ouid=115989647101377797411&rtpof=true&sd=true), waar een uitgebreidere analyse uitgevoerd werd.
 
 ### 2.4 Conclusie en implicaties
 
 | **Aspect** | **Resultaat** | **Aanbeveling** |
 | ---------- | ------------- | --------------- |
-| Drukwaarneming | Voldoende voelbaar, intuïtief | Geen verhoging nodig, maar druk mag niet variëren zonder reden |
-| Ritme | Herkend, maar soms inconsistent | Constante timing met foutmarge <5% noodzakelijk [→ meetbaar maken?] |
-| Comfort | Druk oké, sluitingssysteem minder | Verbetering in sluiting en positionering van drukpockets |
-| Auditieve feedback | Pomp hoorbaar bij nabije montage | Geluiddemping en/of afstand tussen pomp en polscomponent |
+| Drukwaarneming | Voldoende voelbaar, intuïtief | Geen verhoging nodig, maar druk mag niet variëren zonder reden → aan-/uitknop voor regulatiestand |
+| Comfort | Druk oké, sluitingssysteem oké bij klein slot. Positionering niet ideaal | Positionering van het slot en de luchtkussens onderling verder uit elkaar |
 
-De Wizard-testen bevestigen dat :
-- De **drukwerking als fysiek signaal goed werkt** bij studenten in de doelgroep
-- De beleving **afhankelijk is van nauwkeurige ritme-aansturing en comfortabele plaatsing**
-- Er **technische verfijning** nodig is in sluiting, luchtaanvoer en ritmische controle
-  
- Aanbevolen vervolgacties zijn :
-- Ontwikkeling van een **stiller en compacter pompmechanism**
-- Ontwerp van een **meer ergonomische en stabiele sluiting** (klittenband? magneet? zachte elastiek?)
-- Integratie van **ritmecontrole via microcontroller** i.p.v. handmatige aansturing
+Bij een volgend prototype zou een automatische aansturing van de pomp een meerwaarde zijn om de Wizard-of-Oz ervaring te vergroten. Indien er tijd genoeg is binnen het project, zal dit nog gemaakt worden.
 
 ## Develop 3. Materialen voor het Finaal Ontwerp
 ### 3.1 Doestelling en methodologie
@@ -435,7 +441,7 @@ Het bord bevat zes verschillende stalen, waaronder vier textielstalen en twee al
 <p align="center">
  <img src="https://github.com/user-attachments/assets/8ffd2c2b-26b4-469d-9586-6181a1caff68">
 <p align="center">
-Figuur 2. Opstelling met verschillende stalen
+Figuur 3. Opstelling met verschillende stalen
 </p>
 
 ### 3.3 Resultaten
