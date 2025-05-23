@@ -31,20 +31,35 @@ Tijdens dit proces stuiten we op vier hoofddesign-challenges:
 
 ## Methodologie
 
-![Methodologie tijdslijn](https://github.com/user-attachments/assets/4cffb6cb-b1d6-47d1-8f2e-629b702e91ba)
+Om tot een goed onderbouwde oplossing te komen voor het probleem van stressregulatie bij studenten, werd een iteratief design thinking-paradigma toegepast. Deze aanpak staat centraal in mensgericht ontwerp en laat toe om via cyclische fasen van verkenning, definiëring, ontwikkeling en validatie voortdurend bij te sturen op basis van inzichten uit de praktijk.
+Het proces werd opgedeeld in vijf opeenvolgende fasen : **Discovery, Definition, Develop 1, Develop 2 en Develop 3**. Elke fase had een duidelijke doelstelling en logica die voortbouwde op de vorige, met concrete activiteiten verspreid over een projecttijdlijn van 24 weken (12 weken per semester).
+
+Discovery (week 1–6) : Context en probleemverkenning
+
+In deze fase lag de focus op het begrijpen van de gebruikerscontext en het concretiseren van het probleem. Via een kick-off, literatuurstudie, 24u stressdagboek en eerste gebruikersbevraging werden inzichten verzameld over stresservaringen van studenten. Deze kwalitatieve input legde de basis voor de volgende fasen.
+
+Definition (week 7–12) : Behoeften vertalen naar ontwerpcriteria
+
+De verzamelde inzichten werden gestructureerd en vertaald naar design requirements. Een enquête onder een bredere studentenpopulatie gaf kwantitatieve steun aan de eerdere bevindingen. Op basis daarvan werden de eerste oplossingsrichtingen uitgewerkt in low-fidelity prototypes, gevolgd door een eerste gebruikerstest (Wave 1) en observatie (Wave 2) om reacties en bruikbaarheid in kaart te brengen.
+
+Develop 1 (week 13–17) : Eerste oplossingsrichting uitdiepen
+
+Met de verworven inzichten uit vorige testen, werd een eerste iteratie van de oplossing ontwikkeld. Testen zoals een Box Breathing-sessie, Wizard-of-Oz-simulatie en een observatiegebaseerde gebruikerstest boden feedback over gebruikservaring en effectiviteit. De nadruk lag hier op experimentatie en validatie van de basiswerking.
+
+Develop 2 (week 18–21) : Verbeteren en verfijnen
+
+Na de eerste ontwikkelronde werden observaties verwerkt in een meer doordacht prototype. Een thinking-out-loud test leverde input over gebruikersgedrag en interpretatie van feedbacksignalen. Tegelijkertijd werd een benchmarkanalyse uitgevoerd om technische en materiaalkeuzes te onderbouwen in functie van duurzaamheid en comfort.
+
+Develop 3 (week 22–24) : Finaliseren en evalueren
+
+In deze laatste fase werd het product klaargestoomd voor een finale test met eindgebruikers. Er werd gefinetuned op vlak van comfort, bevestiging, intensiteit van vibraties en esthetiek. De eindgebruikersbevraging gaf richting aan de definitieve aanbevelingen in het eindrapport.
 
 
-Bij het opstarten van het groepsproject werd eerst een verkennende fase voor Selena gehouden, waarin ook al enkele verkennende quick-and-dirty prototypes gemaakt werden.
+![Methodologie - Tijdslijn](https://github.com/user-attachments/assets/6c05e322-590a-4340-9037-51f2f0fd7f63)
 
-
-Doorheen de weken erna werd verdere informatie gehaald over het probleem bij gebruikers, m.b.v. een enquête. Onderzoeksvragen werden opgesteld, alsook een initiëel PVE, een aantal beknopte storyboards en een morfologische matrix. Aan de hand van die morfologische matrix werd ook gepeild naar de mening van gebruikers over de vormvarianten. Dit deden we met een dot-voting systeem op de innovatrix gedurende een van de lessen.
-
-De info die verzameld werd uit de enquêtes en innovatrix werd gebruikt om een eerste functioneel prototype te maken. Dit prototype werd vervolgens ook gebruikt bij een eerste wave van gebruikerstesten. Hierbij werd gefocust op het draagcomfort in het dagelijkse leven en de reactie van peers.
-
-Nadien werd een losstaande wave 2 uitgerold, waarbij focus lag op fidgeting en gebruikerservaring met verschillende fidget-elementen.
-
-Wave 1 en 2 werden verwerkt, waarna de belangrijkste conclusies gedocumenteerd werden.
-
+<p align="center">
+Figuur. Tijdslijn/Methodologie
+</p>
 
 ## Discovery
 
