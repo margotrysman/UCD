@@ -320,34 +320,37 @@ Op basis van de inzichten uit de gebruikerstest kunnen de volgende ontwerpvereis
 ## Develop 2. Wizard-testen van de Pneumatische Drukervaring
 ### 2.1 Doestelling en methodologie
 
-Na de positieve gebruikersreacties op de eerste drukgestuurde ademhalingsmodule (Develop 1), werd binnen deze tweede ontwikkelfase gefocust op de fysieke waarneming van de druk zelf: hoe voelt deze aan, hoe betrouwbaar is de feedback en welke parameters moeten eventueel worden bijgesteld?
-In deze fase werd de functionaliteit nagebootst via Wizard-of-Oz-testen, waarbij een externe operator het systeem deels manueel of semi-automatisch aanstuurt. Zo kan de ervaring voor de gebruiker realistisch gesimuleerd worden zonder dat alle technische componenten reeds volledig geïntegreerd zijn.
-De volgende vragen werden onderzocht;
+Na de positieve gebruikersreacties op de eerste drukgestuurde ademhalingsmodule (Develop 1), werd binnen deze tweede ontwikkelfase gefocust op de **fysieke waarneming van de druk zelf**.
+
+In deze fase werd de **functionaliteit nagebootst via Wizard-of-Oz-testen**, waarbij een externe operator het systeem deels manueel of semi-automatisch aanstuurt. Zo kan de ervaring voor de gebruiker realistisch gesimuleerd worden zonder dat alle technische componenten reeds volledig geïntegreerd zijn.
+
+De volgende onderzoeksvragen vragen werden op voorhand vastgelegd;
+
 - Hoe wordt de pneumatische druk op de pols lichamelijk ervaren door gebruikers?
 - Wordt deze ervaring als positief of hinderlijk omschreven?
 - Zijn er specifieke parameters (druksterkte, ritme, locatie, bevestiging) die geoptimaliseerd moeten worden voor comfort en effectiviteit?
 
+Deze vragen zijn cruciaal om te kijken welke impact de druk zou hebben op de gebruiker in een dagelijkse context, of het een storing zou kunnen vormen of extra stress opwekken door het overweldigende gevoel. Op deze manier kan de regulatie op de meest effectieve, non-intrusive manier werken.
+
 ### 2.2 Materiaal & methoden
 
 Voor deze test werd een [protocol](https://docs.google.com/document/d/1es-rx0u1WYYqcwIwldhmrXZUwTVoZigD/edit?usp=sharing&ouid=115989647101377797411&rtpof=true&sd=true) geschreven om de correcte uitvoering te waarborgen.
+Hieronder een korte(re) uitleg over die werking.
 
-**Systeem en simulatie**
-- De prototype-armband bevatte één drukpocket, verbonden aan een externe luchtpomp bediend door de interviewer.
-- Tijdens de tests werd een regelmatig ritme van opblazen en leeglopen opgevoerd, gebaseerd op het Box Breathing tempo (4-4-4-4), zoals eerder toegepast.
+**Werking Wizard-of-Oz test**
 
-**Simulatie via Wizard-of-Oz (n=4)**
-- Gebruikers wisten dat het systeem deels handmatig werd aangestuurd, maar kregen de ervaring van een volledig werkend systeem.
-- Voor en na de test was er een korte vragenlijst, eerst bestaand uit de gestandaardiseerde Sensorial Material Scale en vervolgens uit een BERT-test met adjectieven die de ervaring konden beschrijven.
-Gedurende de actieve test werden de gebruikers gevraagd hun ervaringen luidop te delen, een zogenaamd thinking-out-loud protocol. Hierbij werd gevraagd te focussen op de fysieke ervaring, bijvoorbeeld hoe en waar het gevoel waargenomen werd.
-Nadien werden enkele beknopte vragen gesteld over de ervaring, als deze nog niet beantwoord waren gedurende het thinking-out-loud protocol.
-- Testduur: ±15 minuten per deelnemer
+- De prototype-armband bevatte één **luchtkussentje**, in realiteit een kleine ballon, die verbonden werd aan een externe luchtpomp bediend door de interviewer.
+- Tijdens de tests werd een **regelmatig ritme van opblazen en leeglopen** opgevoerd om de activatie van het regulatiesysteem te simuleren.
+- Gebruikers moesten **zelf het prototype aanbrengen** om zo ook de werking van het sluitsysteem te beoordelen.
+- Voor en na de test was er een korte vragenlijst, eerst bestaand uit de gestandaardiseerde **Sensorial Material Scale** en vervolgens uit een **BERT-test** met adjectieven die de ervaring konden beschrijven.
+- Gedurende de actieve test werden de gebruikers gevraagd hun ervaringen luidop te delen, een zogenaamd **thinking-out-loud protocol**. Hierbij werd gevraagd te focussen op de fysieke ervaring, bijvoorbeeld hoe en waar het gevoel waargenomen werd.
+- Nadien werden enkele **beknopte vragen** gesteld over de ervaring, als deze nog niet beantwoord waren gedurende het thinking-out-loud protocol.
+- Testduur: ±**10 minuten** per deelnemer
+
 
 **Evaluatiecriteria**
 - **Waarnemingsdrempel**: is de druk voldoende voelbaar?
 - **Comfort**: is het aangenaam of storend bij langdurig dragen?
-- **Begrijpelijkheid**: herkent men het ritme? Kan men het koppelen aan ademhaling?
-- **Verstorende elementen**: aanwezigheid van hinder (geluid, verplaatsing, wrijving...)
-
 
 ### 2.3 Resultaten
 
