@@ -557,8 +557,10 @@ Al met al was de voortgang van het project positief, en kijken we ernaar uit om 
 ...
 
 *Rysman Margot*
-
-...
+Het ontwerp zelf heeft een goede kern, veel mensen vonden het een veelbelovend concept en gaven aan het zelf te willen gebruiken.
+Op vlak van uitwerking had ik gehoopt verder te geraken, maar we hebben, stapsgewijs, gedaan wat we konden.
+Zelf was de data-analyse niet mijn sterkste punt, ik stelde liever de testen op en voerde ze met veel plezier uit.
+Op vlak van prototyping is een volledig op-punt eindproduct een onhaalbaar doel voor ons. Ik had graag wat vroeger pneumatisch gewerkt, omdat zo misschien een test met automatisatie haalbaar was geweest binnen de projecttijdlijn. Op het einde was het moeilijk nog zinvolle onderzoeksvragen te vinden, een verder project zou volgens mij best eerst even focussen op het verder uitwerken van een functioneel prototype met automatisatie etc.
 
 
 ## Bijlagen
