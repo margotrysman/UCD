@@ -375,12 +375,15 @@ Figuur 2. Werkend prototype (met groot slot)
 - Nadien werden enkele **beknopte vragen** gesteld over de ervaring, als deze nog niet beantwoord waren gedurende het thinking-out-loud protocol.
 - Testduur: ±**10 minuten** per deelnemer
 
-<p align="left">
- <img src="https://github.com/user-attachments/assets/7b00e75e-0578-451d-a282-b2ef895036ca" width="350">
-<p align="left">
+
+<img src="photo1.jpg" style="float:left; margin-right:10px;">
+<img src="photo2.jpg" style="float:left;">
+
+
+ <img src="https://github.com/user-attachments/assets/7b00e75e-0578-451d-a282-b2ef895036ca" width="350" style="float:left; margin-right:20px;">
+ <img src="https://github.com/user-attachments/assets/7b00e75e-0578-451d-a282-b2ef895036ca" width="350" style="float:left;">
+ <p align="left">
 Figuur 3. Prototype vóór opblazen (klein slot)
-<p align="right">
- <img src="https://github.com/user-attachments/assets/7b00e75e-0578-451d-a282-b2ef895036ca" width="350">
 <p align="right">
 Figuur 4. Prototype na opblazen (klein slot)
 
@@ -417,27 +420,29 @@ Bij een volgend prototype zou een automatische aansturing van de pomp een meerwa
 ## Develop 3. Materialen voor het Finaal Ontwerp
 ### 3.1 Doestelling en methodologie
 
-In deze derde ontwikkelfase ligt de focus op het bepalen van het meest geschikte materiaal voor de armband in het finale ontwerp. Dit materiaal moet voldoen aan drie hoofdcriteria:
+
+In deze derde ontwikkelfase ligt de focus op het bepalen van het meest geschikte **materiaal voor de armband** in het finale ontwerp. Dit materiaal moet voldoen aan **twee hoofdcriteria**:
 1. **Draagcomfort** bij langdurig gebruik (min. 6–8 uur per dag)
-2. **Functionele compatibiliteit** met de pneumatische drukcomponenten
-3. **Esthetische en situationele geschiktheid** (formeel vs. informeel gebruik)
-Aan de hand van een combinatie van benchmarks, marktanalyses en gebruikerstesten werden diverse materiaalopties geëvalueerd.
-De volgende onderzoeksvragen stonden centraal doorheen deze wave van gebruikersonderzoek;
-- Welke materialen zijn optimaal voor langdurig gebruik van een polsband bij dagelijks gebruik door hogeschool- en universiteitsstudenten?
-- Welke materialen worden door gebruikers als comfortabel en geschikt ervaren?
-- In hoeverre overlappen de resultaten van benchmarkanalyses en gebruikerstesten om tot een optimaal materiaaladvies te komen?
+2. **Esthetische en situationele geschiktheid** (formeel vs. informeel gebruik)
+
+Aan de hand van een combinatie van **benchmarks en gebruikerstesten** werden diverse materiaalopties geëvalueerd.
+De volgende onderzoeksvragen stonden centraal doorheen deze wave van gebruikersonderzoek, gebaseerd op de hoofdcriteria;
+- Welke materialen zijn voor gebruikers binnen onze doelgroep **bestand tegen** én **comfortabel tijdens** gebruik over een **langere periode**?
+- Welke materialen zijn **op esthetisch vlak aantrekkelijk** en **niet te opvallend** (>design requirement van discretie)
+Aan de hand van deze onderzoeksvragen kan een optimaal materiaal voor een verder prototype en/of eindproduct bepaald worden. Zo is de keuze goed onderbouwd.
+
 
 ### 3.2 Materiaal & methoden
 
-In dit onderzoek wordt onderzocht welke materialen het meest geschikt zijn voor het vervaardigen van een comfortabele, duurzame en onderhoudsvriendelijke polsband, specifiek gericht op dagelijks gebruik door studenten. Het protocol bestaat uit twee luiken:
+In dit onderzoek wordt onderzocht welke materialen het meest geschikt zijn voor het vervaardigen van een comfortabele, duurzame en onderhoudsvriendelijke polsband, specifiek gericht op dagelijks gebruik door studenten. Het [protocol](https://docs.google.com/document/d/1wQL_PRIBQPZqBPOBRoM76Zd6KomGRCil/edit?usp=sharing&ouid=115989647101377797411&rtpof=true&sd=true) bestaat uit twee luiken:
 
 1. Een benchmarkanalyse van veelgebruikte materialen in bestaande wearables;
---> Hierin wordt een markt analyse gedaan naar de meest gebruikte materialen in pols-wearables en verder onderzoek naar de top 3 tot 5 antwoorden.
-2. Een gebruikerstest waarin deelnemers via zintuiglijke evaluatie de materialen beoordelen op comfort en voorkeur.
---> Hierin zullen de veel voorkomende materialen uit de marktanalyse worden getest bij het doelpubliek.
---> Hierbij zal elke deelnemer kreeg de kans om (eerst geblinddoekt, daarna zichtbaar) de materialen te voelen met de onderarm of pols.
-
-Voor beide testen werd een [protocol](https://docs.google.com/document/d/1wQL_PRIBQPZqBPOBRoM76Zd6KomGRCil/edit?usp=sharing&ouid=115989647101377797411&rtpof=true&sd=true) uitgeschreven.
+- Hierin wordt een markt analyse gedaan naar de meest gebruikte materialen in pols-wearables en verder onderzoek naar de top 3 tot 5 antwoorden.
+→ zo worden de opties vernauwd tot een hoeveelheid die makkelijk te testen is.
+2. Een gebruikerstest waarin deelnemers via zintuiglijke evaluatie de gekozen materialen beoordelen op comfort en voorkeur.
+- Hierin zullen de veel voorkomende materialen uit de marktanalyse worden getest bij het doelpubliek.
+- Hierbij zal elke deelnemer kreeg de kans om (eerst geblinddoekt, daarna zichtbaar) de materialen te voelen met de onderarm of pols. 
+→ zo kan uit de algemeen ‘beste’ opties de ideale optie voor de doelgroep bepaald worden
 
    
 **Gebruikersevaluatie en observatie**
@@ -463,7 +468,7 @@ Het bord bevat zes verschillende stalen, waaronder vier textielstalen en twee al
 <p align="center">
  <img src="https://github.com/user-attachments/assets/8ffd2c2b-26b4-469d-9586-6181a1caff68">
 <p align="center">
-Figuur 3. Opstelling met verschillende stalen
+Figuur 5. Opstelling met verschillende stalen
 </p>
 
 ### 3.3 Resultaten
@@ -503,24 +508,26 @@ Een volledige analyse van de resultaten zijn te vinden in het [Rapport](https://
 
 ### 3.4 Conclusie en implicaties
 
-Uit deze testen kwamen stoffen zoals de stof met grove platbinding (n° 2) bovenaan uit, dankzij de huidvriendelijkheid en hoog comfort. Materialen zoals beide varianten silicone (n°5) waren minder geliefd door hun eerder plakkerig gevoel en de slechte zweetgevoeligheid. Op esthetisch vlak was leer duidelijk populair, maar door de functionele nadelen zoals de mogelijke irritatie bij zweet en de slechte ventilatie wordt deze optie niet gekozen.
+Aan de hand van deze resultaten werd een antwoord geformuleerd op alle eerder gestelde onderzoeksvragen;
 
-Een antwoord werd gevormd op alle eerder gestelde onderzoeksvragen;
-***Welke materialen zijn optimaal voor langdurig gebruik van een polsband bij dagelijks gebruik door hogeschool- en universiteitsstudenten?***
+***Welke materialen zijn voor gebruikers binnen onze doelgroep bestand tegen én comfortabel tijdens gebruik over een langere periode?***
 De grove platbinding (nr. 2) blijkt het meest geschikt op basis van een evenwicht tussen comfort, bruikbaarheid en hygiëne. Het materiaal werd als zacht ervaren zonder te slap of vormloos te zijn, en gaf minder aanleiding tot irritatie of vuilopname.
 
-***Welke materialen worden door gebruikers als comfortabel en geschikt ervaren?***
+De volgende materialen werden als extrema gescoord op comfort, algemene geschiktheid én ongeschiktheid;
+
 - **Comfortabel**: Nr. 1 (gebreide stof), nr. 2 (grove platbinding), nr. 6 (leer).
 - **Geschikt**: Nr. 2 wordt het vaakst genoemd als praktisch en comfortabel. Nr. 6 wordt eerder gekozen voor visuele aantrekkingskracht of als buitenlaag.
 - **Ongeschikt**: Silicone (vooral nr. 5a) werd unaniem als onaangenaam ervaren bij langdurig huidcontact.
- 
-***In hoeverre overlappen de resultaten van benchmarkanalyses en gebruikerstesten om tot een optimaal materiaaladvies te komen?***
-De gebruikerservaringen komen sterk overeen met bevindingen uit eerder uitgevoerde benchmarkstudies waarin ademend vermogen, huidvriendelijkheid en esthetiek centraal stonden. Stoffen met een grove of gestructureerde binding scoren in beide domeinen goed. Siliconematerialen blijven technisch interessant omwille van grip en waterbestendigheid, maar missen het comfort dat gebruikers vereisen bij langdurig dragen. Leer wordt als premium ervaren, maar is niet water- of zweetbestendig genoeg voor dagelijks gebruik zonder verdere verwerking of coating.
+- 
+***Welke materialen zijn op esthetisch vlak aantrekkelijk en niet te opvallend? (>design requirement van discretie)***
+Leer (n°5) en de rode, gebreide stof (n°1) komen er uit als de visueel meeste geliefde opties. Leer wordt aangeduid als de beste, maar is ook meer opvallend. Binnen deze onderzoeksvraag is de rode, gebreide stof dus de beste.
 
-**Aanbevelingen voor verdere testopstellingen of materiaalontwikkeling voor een eventueel eindproduct**
-- **Materiaalcombinaties**: Overweeg het ontwikkelen van een meerlaagse band, met bijvoorbeeld een zachte binnenlaag (nr. 2 of nr. 1) en een visueel aantrekkelijke buitenlaag (leer of silicone) mits verbeterde ademing.
+
+**Aanbevelingen/design requirements voor verdere testopstellingen of een eventueel eindproduct**
+- **Optimale materiaalkeuze**: De opties die bij beide onderzoeksvragen vermeld worden, kunnen gebruikt worden voor een uiteindelijk prototype. Slecht één materiaal, de rode, gebreide stof (n°1) komt in beide deelvragen voor als een goede optie. Voor een verder prototype is dit dus dé keuze.
+- **Materiaalcombinaties**: Ideaal lijkt het ontwikkelen van een meerlaagse band, met bijvoorbeeld een zachte binnenlaag (nr. 2 of nr. 1) en een visueel aantrekkelijke buitenlaag (leer of silicone) mits verbeterde ademing.
 - **Aanvullende testen**: Real-life gebruikssimulaties over langere tijd kunnen verdere inzichten bieden (bv. polsband dragen tijdens een schooldag).
-- **Sensorische validatie**: Geur, slijtage en thermische reacties op transpiratie kunnen extra testparameters zijn.
+- **Ontbrekende parameters bij deze test die bij een voortgezet project getest moeten worden**; geur, slijtage en thermische reactie op transpiratie
 - **Testopstelling optimaliseren**: Uit de korte feedbackronde blijkt dat deelnemers de testopstelling inhoudelijk interessant en prikkelend vonden. Enkele deelnemers gaven aan dat de eerste stap – het blind of ongeleid voelen van de materialen – wat ongemakkelijk aanvoelde. In de toekomst kan dit gesitueerd of begeleid worden met meer visuele of functionele voorbeelden (bv. prototypes of draagbare testbanden).
 
 
