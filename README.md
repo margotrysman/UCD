@@ -63,15 +63,15 @@ Figuur. Tijdslijn/Methodologie
 
 ## Discovery
 
-### Doelstellingen
+### 1. Doelstellingen
 Binnen de discovery fase werden twee key aspects onderzocht; ten eerste de huidige stresservaring én regulatie bij studenten (leeftijdsgroep 18 - 26 jaar, opleiding aan een hogeschool of universiteit) en ten tweede de methodes om stress op te meten én hun levensvatbaarheid. Hieruit konden de initiële en belangrijkste design requirements gehaald worden. Zo werden de prioriteiten van de gebruikers en hun dagelijkse situatie met en rond stress in kaart gebracht. Bij het opstellen van de requirements moet opgelet worden; wat de gebruiker communiceert is niet altijd wat de gebruiker écht nodig heeft.
 
-### Materiaal & methoden
+### 2. Materiaal & methoden
 Voor het onderzoeken van de persoonlijke stresservaring en regulatie bij studenten werden één op één interviews afgelegd met gebruikers (n=3). Een uitgebreide vragenlijst werd opgesteld ([Testprotocol](https://docs.google.com/document/d/1m9y_HT0PP9yR4MpK4OtO-4zBzxmuj2iYiRpzdYWWuy8/edit?usp=sharing)). 
 Hiernaast werden de gebruikers ook gevraagd om een lijst met stress-regulatiemethodes een score te geven op tien en daarbij wat uitleg te geven. Zo konden we een kwalitatief én kwantitatief beeld krijgen van de gebruikersinzichten. De aanpak voor het detecteren van stress werd uitgebreid onderzocht aan de hand van een literatuurstudie ([Research protocol](https://docs.google.com/document/d/1FPg1zNncCLuQZO5k8xZy8WWm9XjYQr1W6orEdRtz3Hg/edit?usp=sharing)). Na de deskresearch werd nuttige informatie uit de bronnen gebundeld ([Research rapport](https://docs.google.com/document/d/1ef2yBkqwWJlyRDE1RqdJjAGWaPkV0O_lZPxd1vCKUlo/edit?usp=sharing)). Een zelfobservatie bij een drietal gebruikers vond plaats over ongeveer 18 uur, waarbij gebruikers doorheen een normale dag hun stressniveau ieder uur noteerden, alsook wat eventuele aanleidingen waren tot dat stressniveau. Dit werd bijgehouden in een [excel bestand](https://drive.google.com/drive/folders/10ZLLNr2E1S-gf8i5jfSdjV5VoQkpJsnI?usp=sharing) voor interpretatie na het onderzoek.
 
 
-### Resultaten
+### 3. Resultaten
 De interviews werden samengevat in een [document](https://docs.google.com/document/d/1MAN8x3i6_KfycsWVkI5yPWbt-HdurXxOXEan5PYtpaQ/edit?usp=sharing), waarbij kernzaken aangeduid werden. Volgende tabel drukt de bekomen resultaten uit van de te beoordelen lijst regulatiemethodes;
 
 | Methode | Maxime | Imke | Wannes | Gemiddelde |
@@ -98,7 +98,7 @@ De resultaten van de zelfobservaties werden in een [report](https://docs.google.
 <img src="https://github.com/user-attachments/assets/5ac3869f-06b6-4f62-a637-745f2df84b2d" width=50% height=50%>
 </p>
 
-### Conclusies & implicaties
+### 4. Conclusies & implicaties
 Uit de interviews werd geconcludeerd dat stress reguleren een betere richting is voor een product dan het oplossen ervan of het wegwerken van de oorzaken. Er is, zoals geconcludeerd kan worden uit de zelfobservaties, bij studenten een permanente druk aanwezig, stevig verhoogd bij deadlines. Regulatiemethodes combineren is optimaal, gezien de effectiviteit van singuliere oplossingen enorm persoonlijk variabel is. Toch komen fidgeting, meditatie/ademhalingsoefeningen en physical exercise boven als algemeen betere methodes. De testpersonen gaven ook aan dat het communiceren best geen extra (sociale) stress veroorzaakt door de omgeving van de gebruiker te tonen dat deze stress heeft.
 
 Uit de literatuurstudie kwam heel wat info over het opmeten van stress, waarbij HRV en GSR de meest nauwkeurige en haalbare oplossingen bleken. De observaties leerden ons dat er geen duidelijke correlatie bestaat tussen tijdstip en stressniveau. Een stress regulerend product kan bijgevolg over de volledige dag zijn nut bewijzen. Toch viel op dat het middageten een vast moment is waarop het stressniveau even daalt, alsook dat dode momenten risicovol zijn voor een verhoogd stressniveau.
