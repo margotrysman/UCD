@@ -375,17 +375,11 @@ Figuur 2. Werkend prototype (met groot slot)
 - Nadien werden enkele **beknopte vragen** gesteld over de ervaring, als deze nog niet beantwoord waren gedurende het thinking-out-loud protocol.
 - Testduur: ±**10 minuten** per deelnemer
 
+ <img src="https://github.com/user-attachments/assets/7b00e75e-0578-451d-a282-b2ef895036ca" width="350" style="float:center; margin-right:30px;">
+ <img src="https://github.com/user-attachments/assets/7b00e75e-0578-451d-a282-b2ef895036ca" width="350" style="float:center;">
+ <p align="center">
+Figuur 3-4. Prototype vóór & na opblazen (klein slot)
 
-<img src="photo1.jpg" style="float:left; margin-right:10px;">
-<img src="photo2.jpg" style="float:left;">
-
-
- <img src="https://github.com/user-attachments/assets/7b00e75e-0578-451d-a282-b2ef895036ca" width="350" style="float:left; margin-right:20px;">
- <img src="https://github.com/user-attachments/assets/7b00e75e-0578-451d-a282-b2ef895036ca" width="350" style="float:left;">
- <p align="left">
-Figuur 3. Prototype vóór opblazen (klein slot)
-<p align="right">
-Figuur 4. Prototype na opblazen (klein slot)
 
 Gedurende de test werden de vragen op volgende vlakken, afgeleid van de onderzoeksvragen, gefocust;
 - **Waarnemingsdrempel**: is de druk voldoende voelbaar?
