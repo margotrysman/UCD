@@ -265,6 +265,13 @@ De kwalitatieve feedback was gemengd:
 -	Anderen vonden de druk te zwak, te sterk of verwarrend; sommigen suggereerden trillingen als alternatief.
 -	Comfort, pasvorm en perceptie van veiligheid werden wisselend beoordeeld, waarbij aanpassing per gebruiker als belangrijk naar voren kwam.
 
+
+![Prototypes voor de ademhalingstesten](https://github.com/user-attachments/assets/eab86c7e-2182-4273-83aa-8170be9df9d4)
+<p align="center">
+Figuur 2. Prototypes voor de ademhalingstesten
+</p>
+
+
 **Belangrijke conclusies uit de testfase**
 
 -	Instelbaarheid is cruciaal: zowel drukniveau als pasvorm moeten aanpasbaar zijn voor optimale gebruikerservaring.
