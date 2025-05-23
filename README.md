@@ -416,8 +416,8 @@ Bij een volgend prototype zou een automatische aansturing van de pomp een meerwa
 
 
 In deze derde ontwikkelfase ligt de focus op het bepalen van het meest geschikte **materiaal voor de armband** in het finale ontwerp. Dit materiaal moet voldoen aan **twee hoofdcriteria**:
-1. **Draagcomfort** bij langdurig gebruik (min. 6–8 uur per dag)
-2. **Esthetische en situationele geschiktheid** (formeel vs. informeel gebruik)
+1. **Draagcomfort** bij langdurig gebruik (min. 6–8 uur per dag) (hygiëne, comfort)
+2. **Esthetische en functionele geschiktheid** (elasticiteit, visueel)
 
 Aan de hand van een combinatie van **benchmarks en gebruikerstesten** werden diverse materiaalopties geëvalueerd.
 De volgende onderzoeksvragen stonden centraal doorheen deze wave van gebruikersonderzoek, gebaseerd op de hoofdcriteria;
