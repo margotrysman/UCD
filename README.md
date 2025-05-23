@@ -546,17 +546,32 @@ Deze technische beschrijving vervangt de traditionele Bill of Materials en omvat
 
 
 ## Kritische reflectie
-In het afgelopen semester hebben we ons concept goed begrepen en zijn we erin geslaagd veel relevante informatie te verzamelen. Zowel nieuwe als bevestigende inzichten hebben ons geholpen ons concept verder te verfijnen en de richting van het project te verduidelijken. Deze continue verzameling van gegevens heeft ons niet alleen geholpen bij de ontwikkeling van het product, maar heeft ook bijgedragen aan het stellen van prioriteiten voor de volgende fasen. We hebben informatie kunnen meenemen die in het volgende semester verder uitgewerkt zal worden, wat ons in staat stelt om voort te bouwen op de behaalde resultaten.
-Onze samenwerking was effectief, en de werklast was goed verdeeld, wat resulteerde in een prettige werkervaring. Deze evenwichtige werkhouding heeft ons geholpen om goede vooruitgangen te boeken. We hebben enkele belangrijke resultaten behaald, wat een positief teken is voor de manier waarop we samenwerkten en ideeën uitwisselden.
-Hoewel er tijds- en planningsproblemen waren, hebben we deze grotendeels kunnen vermijden of oplossen. Dit laat zien dat we in staat zijn om met uitdagingen om te gaan en tijdig aanpassingen te maken. Toch zouden we in de toekomst wellicht een meer gedetailleerde planning kunnen opstellen, zodat we vooraf beter kunnen anticiperen op mogelijke vertragingen en obstakels.
-Al met al was de voortgang van het project positief, en kijken we ernaar uit om de opgedane kennis verder uit te bouwen en toe te passen in het volgende semester. Het proces heeft ons waardevolle inzichten gegeven die we blijven meenemen in de verdere ontwikkeling van het product.
 
-### 2de semester
 *Rootsaert Selena* 
 
-...
+Eigen bijdrage & samenwerking :
+
+Hoewel de Discovery-fase buiten mijn betrokkenheid viel, heb ik vanaf de Definition-fase actief bijgedragen aan het project. In het begin verliep onze samenwerking vlot, met gedeelde verantwoordelijkheden en goede communicatie. Helaas kantelde dit richting de verslagperiode, waarin ik steeds vaker het voortouw moest nemen. Mijn partner leverde toen enkel summiere bijdragen, zonder diepgaande analyses of visualisaties, waardoor ik uiteindelijk de presentatie en bijhorende inhoud grotendeels alleen uitwerkte. Hoewel ik dit in eerste instantie niet opnam in mijn reflectie, uit respect voor de inspanning in het begin, bleek achteraf dat dit geen eenmalige situatie was.
+
+In het tweede semester spraken we alles uit en maakten we duidelijke afspraken voor een "frisse start". Tijdens Develop 1 verliep de samenwerking effectief beter, maar in Develop 2 kwamen externe factoren (zoals mijn voorbereiding op een wiskundetoets) de balans even verstoren. Mijn partner nam toen de praktische testen op zich, waarna ik het verslag grotendeels zelfstandig afrondde om de verdeling in evenwicht te houden.
+
+In Develop 3 spraken we opnieuw een taakverdeling af: ik zou het testen, analyseren en rapporteren op mij nemen, zodat mijn partner zich kon focussen op het ontwikkelen van een Arduino-programma. Helaas bleek op het einde dat dit onderdeel amper tot ontwikkeling was gekomen, zowel op vlak van hardware als software. Hierdoor viel opnieuw een onevenredig groot deel van het werk op mijn schouders, net op het moment dat ik mijn voorbereiding op de examens wilde aanvatten. Ook bij het opstellen van het eindverslag in GitHub (inclusief intro, methodologie, BoM en conclusies) heb ik uiteindelijk veel extra werk op mij genomen.
+
+Ondanks de onevenwichtige taakverdeling ben ik tevreden met mijn eigen inzet. Ik heb telkens verantwoordelijkheid genomen waar nodig, deadlines gehaald en geprobeerd het eindproduct naar een degelijk niveau te tillen.
+
+Over het ontwerp, de opdracht & methodologie :
+
+Het ontwerpconcept zelf werd positief onthaald. Verschillende gebruikers gaven aan dat ze potentieel zagen in het eindproduct. Hoewel we op uitwerkingsvlak niet zo ver geraakt zijn als gehoopt, hebben we stapsgewijs gewerkt binnen de haalbare kaders. De volledige realisatie van een functioneel prototype met automatisatie bleek onhaalbaar binnen de gegeven tijd en technische kennis. Zelf voelde ik mij sterker in het opstellen van testprotocollen en de analyse achteraf, eerder dan in Arduino of testuitvoering.
+
+De methodologie werd steeds consistenter doorheen het project. Toch merkten we dat veel testen elkaar begonnen te overlappen, waardoor nieuwe inzichten beperkt bleven. In Develop 3 groeide ons inzicht in wat betere onderzoeksvragen konden zijn, en hoe een herstructurering van het testplan voor meer unieke data zou zorgen.
+
+Belangrijke punten voor toekomstig onderzoek (volgens mij) :
+
+- Een meer gestructureerde aanpak van iteratieve testcycli met tussentijdse analyse, zodat data elkaar niet herhalen.
+- De rol van teamwerking in kleine designteams, en hoe duidelijke onderlinge deadlines en open feedbackcultuur kunnen bijdragen aan een meer evenwichtige samenwerking.
 
 *Rysman Margot*
+
 Het ontwerp zelf heeft een goede kern, veel mensen vonden het een veelbelovend concept en gaven aan het zelf te willen gebruiken.
 Op vlak van uitwerking had ik gehoopt verder te geraken, maar we hebben, stapsgewijs, gedaan wat we konden.
 Zelf was de data-analyse niet mijn sterkste punt, ik stelde liever de testen op en voerde ze met veel plezier uit.
