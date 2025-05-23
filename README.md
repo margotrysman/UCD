@@ -525,32 +525,40 @@ Leer (n°5) en de rode, gebreide stof (n°1) komen er uit als de visueel meeste 
 - **Testopstelling optimaliseren**: Uit de korte feedbackronde blijkt dat deelnemers de testopstelling inhoudelijk interessant en prikkelend vonden. Enkele deelnemers gaven aan dat de eerste stap – het blind of ongeleid voelen van de materialen – wat ongemakkelijk aanvoelde. In de toekomst kan dit gesitueerd of begeleid worden met meer visuele of functionele voorbeelden (bv. prototypes of draagbare testbanden).
 
 
-## Bill of materials
-_Welke materialen heb je nodig voor verder ontwikkeling van het prototype in het tweede semester?_
+## Technische beschrijving
+Deze technische beschrijving vervangt de traditionele Bill of Materials en omvat de finale materiaalkeuze, sensoren, elektronica, softwarecode en instructies voor assemblage. Het doel is om anderen in staat te stellen het prototype zelfstandig na te bouwen of verder te ontwikkelen.
 
-1.	EmotiBit-technologie: Voor het meten van elektrische pulsen en fysiologische signalen in het lichaam.
-2.	Wearables-materiaal: Flexibele stoffen, elastische banden, of textiel dat comfortabel en functioneel is. (Redelijke eigen voorraad, niet overdreven veel.)
-3.	Sensortechnologie: Extra sensoren voor hartslag, huidgeleiding, of temperatuur.
-4.	3D-printmateriaal: Kunststoffen of siliconen voor het maken van kleine behuizingen of aanpassingen. 
-5.	Microcontrollers: Bijvoorbeeld Arduino of Raspberry Pi voor dataverwerking en -opslag.
-6.	Ademhalingshulpmiddelen: Accessoires of materialen die als interface kunnen dienen voor ademhalingsoefeningen.
-7.	Huidvriendelijke kleefstoffen: Voor bevestiging van sensoren zonder huidirritatie te veroorzaken.
-8.	Voeding en batterijen: Kleine, draagbare energieoplossingen voor het prototype.
-9.	Softwaretools: Voor data-analyse en visualisatie (bijvoorbeeld Python of MATLAB).
-10.	Basismechanische onderdelen: Scharnieren, sluitingen, en dunne elastische banden voor draagbaarheid.
-11.	Creatieve materialen: Zoals fidget-objecten, knoppen, of lichtgevende elementen om visuele en tactiele interactie te testen.
+| Component                          | Beschrijving                                                                 | Aantal | Richtprijs | Link                                                                 |
+|-----------------------------------|------------------------------------------------------------------------------|--------|------------|----------------------------------------------------------------------|
+| **GSR-sensor (kleefpad-type)**    | Voor het meten van huidgeleiding, ter detectie van stress                   | 1      | ± €8       | [SparkFun GSR sensor (voorbeeld)](https://www.sparkfun.com/products/retired/12969) |
+| **Microcontroller**               | Arduino Nano 33 IoT (voor draadloze data en sturing van luchtpomp)          | 1      | ± €30      | [Arduino Store](https://store.arduino.cc/)                           |
+| **Leder-look band**               | Buitenmateriaal van de wearable, professioneel ogend en slijtvast           | 1      | ± €8       | Lokale stoffenhandel of webshop                                     |
+| **Zachte elastische binnenstof**  | Comfortabel en huidvriendelijk materiaal met lichte rek                     | 1      | ± €6       | Textielwinkel                                                        |
+| **Silicone behuizing**            | Beschermt elektronica en zorgt voor een waterdichte afsluiting              | 1      | ± €10      | Zelfgemaakt met mal of 3D-print in silicone                         |
+| **Programmable Air module**       | Luchtdicht opblaasbaar kussentje voor fysieke feedback                      | 1      | ± €35      | [programmableair.com](https://www.programmableair.com/)              |
+| **Magnetische sluiting**          | Versterkte, slanke sluiting met stevige magneetwerking                      | 1 set  | ± €5       | Fourniturenwebshops of custom CNC                                   |
+| **Aan/uit-knop**                  | Schakelaar voor voeding en controle over luchtpomp                          | 1      | ± €2       | Lokale elektronicawinkel                                            |
+| **Batterij (Li-Po)**              | 3.7V, 500–1000mAh                                                           | 1      | ± €8       | [Adafruit LiPo](https://www.adafruit.com/)                          |
 
-Deze lijst blijft flexibel en kan worden aangevuld naarmate de prototypes en tests concreter worden.
+
+
+*EmotiBit werd in het eerste semester als startpunt gebruikt voor exploratie, maar wordt in de finale versie vervangen door lichtere en goedkopere componenten met gelijkaardige functionaliteit.*
 
 
 ## Kritische reflectie
-_In het afgelopen semester hebben we ons concept goed begrepen en zijn we erin geslaagd veel relevante informatie te verzamelen. Zowel nieuwe als bevestigende inzichten hebben ons geholpen ons concept verder te verfijnen en de richting van het project te verduidelijken. Deze continue verzameling van gegevens heeft ons niet alleen geholpen bij de ontwikkeling van het product, maar heeft ook bijgedragen aan het stellen van prioriteiten voor de volgende fasen. We hebben informatie kunnen meenemen die in het volgende semester verder uitgewerkt zal worden, wat ons in staat stelt om voort te bouwen op de behaalde resultaten.
+In het afgelopen semester hebben we ons concept goed begrepen en zijn we erin geslaagd veel relevante informatie te verzamelen. Zowel nieuwe als bevestigende inzichten hebben ons geholpen ons concept verder te verfijnen en de richting van het project te verduidelijken. Deze continue verzameling van gegevens heeft ons niet alleen geholpen bij de ontwikkeling van het product, maar heeft ook bijgedragen aan het stellen van prioriteiten voor de volgende fasen. We hebben informatie kunnen meenemen die in het volgende semester verder uitgewerkt zal worden, wat ons in staat stelt om voort te bouwen op de behaalde resultaten.
 Onze samenwerking was effectief, en de werklast was goed verdeeld, wat resulteerde in een prettige werkervaring. Deze evenwichtige werkhouding heeft ons geholpen om goede vooruitgangen te boeken. We hebben enkele belangrijke resultaten behaald, wat een positief teken is voor de manier waarop we samenwerkten en ideeën uitwisselden.
 Hoewel er tijds- en planningsproblemen waren, hebben we deze grotendeels kunnen vermijden of oplossen. Dit laat zien dat we in staat zijn om met uitdagingen om te gaan en tijdig aanpassingen te maken. Toch zouden we in de toekomst wellicht een meer gedetailleerde planning kunnen opstellen, zodat we vooraf beter kunnen anticiperen op mogelijke vertragingen en obstakels.
-Al met al was de voortgang van het project positief, en kijken we ernaar uit om de opgedane kennis verder uit te bouwen en toe te passen in het volgende semester. Het proces heeft ons waardevolle inzichten gegeven die we blijven meenemen in de verdere ontwikkeling van het product._
+Al met al was de voortgang van het project positief, en kijken we ernaar uit om de opgedane kennis verder uit te bouwen en toe te passen in het volgende semester. Het proces heeft ons waardevolle inzichten gegeven die we blijven meenemen in de verdere ontwikkeling van het product.
 
+### 2de semester
+*Rootsaert Selena* 
 
+...
 
+*Rysman Margot*
+
+...
 
 
 ## Bijlagen
